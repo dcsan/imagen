@@ -1,18 +1,24 @@
-import re
 import datetime
-import time
 import replicate
-from async_wrap_iter import async_wrap_iter
-import asyncio
 import pprint
-from utils.PageBox import PageBox
+from utils.LogPage import LogPage
+from utils.ImageGen import generate
 
-from utils.image_utils import fetch_image, file_exists, image_url, sane
-
-pp = pprint.PrettyPrinter(indent=4)
+from utils.image_utils import image_url, sane
 
 
-def main():
+drawers = [
+    'vqgan',
+    # 'pixel',
+    # 'vdiff',
+    # 'fft',
+    # 'fast_pixel',
+    # 'line_sketch',
+    # 'clipdraw',
+]
+
+
+def single():
     model = replicate.models.get("dribnet/pixray-vqgan")
     # pred = model.predict(prompts="rainbow mountain")
     prediction = replicate.predictions.create(
@@ -29,73 +35,6 @@ def main():
     prediction.wait()
     print('done')
     print('output', prediction.output)
-
-
-def runner(prompts, model, options={}, meta={'use_cache': True}) -> str:
-    drawers = [
-        'vqgan',
-        # 'pixel',
-        # 'vdiff',
-        # 'fft',
-        # 'fast_pixel',
-        # 'line_sketch',
-        # 'clipdraw',
-    ]
-    drawer = drawers[0]
-
-    quality = ['draft', 'normal', 'better', 'best'][3]
-    aspect = ['square', 'portrait', 'widescreen'][0]
-    size = [256, 256]
-    iterations = 80
-
-    name = re.sub(r'\W+', '-', prompts)
-    fname = f"{name}_{drawer}_{quality}_{meta['tags']}.png"
-    if file_exists(fname) and meta.get('use_cache'):
-        print(f"{fname} already exists")
-        return fname
-    else:
-        print(f'rendering {fname}')
-
-    settings = {
-        # "prompts": prompts,
-        # "drawer": drawer,
-        "iterations": iterations,
-        "aspect": aspect,
-        "size": size,
-        "quality": quality,
-        # 'vqgan_model': 'wikiart_16384',
-        'custom_loss': 'aesthetic',
-    }
-    settings = {**settings, **options}
-    print('drawer:', drawer)
-    print('settings:')
-    pp.pprint(settings)
-    last = ""
-
-    print('prompts:', prompts)
-
-    start = time.time()
-    for image in model.predict(
-        prompts=prompts,
-        drawer=drawer,
-        settings=settings,
-    ):
-        duration = time.time() - start
-        last = image
-        print(round(duration), image)
-
-    fetch_image(last, fname)
-    print('prompts:', prompts)
-    print('duration:', round(duration))
-    print(f"saved to {fname}")
-    print('drawer:', drawer)
-    print('\nfinal > ', last, '\n')
-    return last
-
-
-def timestamp():
-    now = datetime.datetime.now()
-    print(now.strftime("%Y-%m-%d %H:%M:%S"))
 
 
 def show_list():
@@ -119,7 +58,7 @@ def singles():
     model = replicate.models.get("pixray/text2image")
 
     for text in texts:
-        runner(text, model)
+        generate(text, model)
 
 
 def filter_images():
@@ -149,7 +88,7 @@ def filter_images():
                 'tags': f'init-{sane(source)}',
             }
 
-            runner(t, model, options={'source': source}, meta=meta)
+            generate(t, model, options={'source': source}, meta=meta)
 
 
 def multi():
@@ -157,32 +96,21 @@ def multi():
     version = model.versions.list()[0]
     print('model', model)
     print('using model version:', version.id)
-
-    logpage = PageBox()
-
     # print('schema', version.openapi_schema)
-    # for k, v in version:
-    #     print('\n-----', k, v)
 
-    # pp.pprint(version.openapi_schema)
-
-    # pp.pprint(model)
-    # pp.pprint(dict(model))
-    # model = replicate.models.get("pixray/api")
-    # runner("cyberpunk pirate", model)
-    # runner("a clown playing cards in a smoky room | film noir", model)
-    # runner("a circus clown playing poker in a smoky room | anime", model)
-    # runner("spiders coming out of a teddy bear's eyes", model)
-    # runner("astronaut on mars | video glitch #artstation", model)
-    # runner("astronaut on mars | video glitch #anime", model)
-    # runner("ducks by the pond in an english country town #artstation", model)
-    # runner("a court jester juggling for the queen | seurat", model)
-    # runner("a court jester juggling for the queen | picasso", model)
-    # text = 'a court jester juggling for the queen'
-    # text = 'a ginger cat lost in a sci fi city in the rain Japanese print'
+    logpage = LogPage('multi.html')
 
     targets = [
         '',
+        'kylie.png',
+        'vgirl.png',
+        'kguy-1.png',
+        'kgirl-1.png',
+        'katy.png',
+        'clothes-1.png',
+        'logotype.png',
+        'no-makeup.png',
+
         'art-nouveau.png',
         'const-1.jpg',
         'papercut.jpg',
@@ -227,44 +155,76 @@ def multi():
     # ]
 
     texts = [
+        'The girl has one hand on her hip as she admires herself in the mirror. She has on a pink dress and she looks very pretty. She is trying on makeup and she looks very excited about it.',
+        'beautiful girl make up',
+        'beautiful girl make up photograph',
+        'beautiful girl make up photograph vogue',
+        'beautiful girl make up photograph richard avedon',
+        'beautiful girl make up photograph annie leibowitz',
+        'beautiful girl make up photograph in style of manray',
+        'beautiful girl make up photograph by manray',
+        'beautiful girl trying on make up photograph detail vogue',
+        'beautiful girl selling makeup on instagram photograph',
+        'beautiful girl selling makeup on instagram photograph extreme detail narrow depth of field',
+        'partying at a wild nightclub',
+        'partying at a wild nightclub photograph',
+        'a group of friends partying at a crowded nightclub with balloons and lights in the background photograph',
+        'a group of friends partying at a crowded nightclub with balloons and lights in the background photograph portrait',
+        'a boy skateboarding and jumping in the air photograph',
         'drinking cocktails at a bar with a beautiful sunset',
         'two cute dogs',
-        'partying at a wild nightclub',
-        'beautiful girl trying on make up',
-        'a boy skateboarding and jumping in the air',
         'eating pizza on the moon',
-        'sky diving and drinking a cocktail',
+        'a man sky diving and drinking a cocktail photograph',
+        'a cyberpunk pirate'
     ]
 
-    logpage.add('starting')
+    logpage.line('starting')
 
-    for text in texts:
-        for target in targets:
+    for target in targets:
+        for text in texts:
+            logpage.line(f"<h1>{text}</h1>")
+            style_url = ''
+            options = {
+                'aspect': 'square',
+                # 'custom_loss': 'aesthetic',
+                'quality': 'best',
+                # 'size': [128, 128],
+                'size': [256, 256],
+                'iterations': 60,
+            }
+            meta = {
+                'use_cache': True,
+                'tags': 'style-none',
+                'drawer': 'vqgan'
+            }
             if target:
                 style_url = image_url(target)
-
-                options = {
+                options = options | {
                     'target_images': style_url,
                 }
-
-                meta = {
-                    'use_cache': True,
+                meta = meta | {
                     'tags': f'_style-{sane(target)}',
                 }
-            else:
-                options = {}
-                meta = {
-                    'use_cache': True,
-                    'tags': '_style-none',
-                }
 
-            logpage.add(f"text: {text} ")
-            logpage.add(f"style: {target} ")
-            last = runner(f"{text}", model, options, meta)
-            logpage.add(f"<img src='{last}' />")
-            logpage.add('<hr/>')
+            logpage.line(f"text: {text} ")
+            logpage.line(f'meta: <pre>{meta}</pre>')
+            logpage.line(f'options: <pre>{options}</pre>')
+            render = generate(f"{text}", model, options, meta)
+            fname = render.get('fname')
+            duration = render.get('duration')
+            startup = render.get('startup')
+            rendering = render.get('rendering')
+            logpage.line(f'startup: {startup}')
+            logpage.line(f'rendering: {rendering}')
+            logpage.line(f'duration: {duration}')
+            logpage.line(f"<img src='{fname}' />")
+            logpage.line(f"style: {target} ")
+            if style_url:
+                logpage.line(
+                    f'<img src="{style_url}" height="250px" width="250px" />')
+            logpage.line('<hr/>')
 
-    logpage.add('done')
+    logpage.line('done')
     logpage.close()
 
 

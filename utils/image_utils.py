@@ -1,3 +1,4 @@
+import datetime
 import os
 import re
 import requests
@@ -20,3 +21,8 @@ def sane(text):
 
 def image_url(fname):
     return f'https://revel.alfalabs.xyz/projects/joker-art/photos/{fname}'
+
+
+def timestamp():
+    now = datetime.datetime.now()
+    print(now.strftime("%Y-%m-%d %H:%M:%S"))
