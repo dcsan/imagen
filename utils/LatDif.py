@@ -1,45 +1,70 @@
 # https://replicate.com/nicholascelestin/latent-diffusion/examples
 
+import time
 import replicate
-from utils.FileUtils import ensure_dir, min_dir_name
-from utils.ImageUtils import fetch_image, remove_suffix, safe_name
+from utils.FileUtils import fetch_image, ensure_dir
+from utils.TextUtils import min_dir_name
 
 
-model_path = 'nicholascelestin/latent-diffusion'
+def single(prompt, config, retries=0):
+
+    print('single:', config)
+
+    try:
+        print('predicting:', prompt)
+        prediction = make_prediction(prompt, config)
+        print('dumping', prompt)
+        dump_images(prediction, prompt, config)
+    except Exception as e:
+        print(e)
+        print('failed', prompt)
+        retries += 1
+        if retries < 5:
+            delay = 5 * retries
+            print('retrying in', delay, 'seconds')
+            time.sleep(delay)
+            single(prompt, config, retries)
+        else:
+            print('ERROR giving up', prompt)
+            # raise e
 
 
-# TODO - wrap in a retry block
-
-def single(prompt, batch_size=1, width=256, height=256):
+def make_prediction(prompt, config):
+    model_path = config['params']['model_path']
     model = replicate.models.get(model_path)
-    # pred = model.predict(prompts="rainbow mountain")
+
+    model_options = config['model']
+
+    input = {
+        'prompt': prompt,
+    } | model_options
+    print('input', input)
+
     prediction = replicate.predictions.create(
         version=model.versions.list()[0],
-        input={
-            "prompt": prompt,
-            'batch_size': batch_size,
-            'width': width,
-            'height': height,
-        }
+        input=input,
     )
 
     print('status:', prediction.status)
-    print(dict(prediction))
-    print('\nwaiting')
+    # print(dict(prediction))
+    print('\nwaiting', prompt)
     prediction.wait()
     print('done')
     print('output', prediction.output)
+    return prediction
 
+
+def dump_images(prediction, prompt, config):
+    image_prefix = config['params']['image_prefix']
+    count = 0
     min_path = min_dir_name(prompt)
     render_path = f'renders/{min_path}'
     ensure_dir(render_path)
-
-    count = 0
-    for image in prediction.output:
+    for output in prediction.output:
         count += 1
         # fname = safe_name(fname)
         # fname = f'{prompt}_{count}.png'
-        fname = f'ldif-{count}.png'
+        fname = f'{image_prefix}-{count}.png'
         fpath = f'{render_path}/{fname}'
-        fetch_image(image, fpath)
+        fetch_image(output, fpath)
         print(f' {count} rendered {fpath}')

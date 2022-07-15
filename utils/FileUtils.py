@@ -1,7 +1,7 @@
+import datetime
 import os
 import re
-
-from utils.ImageUtils import safe_name
+import requests
 
 
 def ensure_dir(fpath):
@@ -10,31 +10,21 @@ def ensure_dir(fpath):
         os.makedirs(fpath)
 
 
-def remove_common(text):
-    common = [
-        'photo',
-        'color',
-        'photograph',
-        'paparazzi',
-        'drawing',
-        'painting',
-        'by ',
-        'in the style of',
-        'of ',
-        'a ',
-        'the'
-    ]
-    text = text.lower()
-    for word in common:
-        text = re.sub(word, '', text)
-
-    return text
+def fetch_image(output, fpath):
+    image_url = output.get('image')  # for dalle mini
+    response = requests.get(image_url)
+    open(fpath, "wb").write(response.content)
 
 
-def min_dir_name(text):
-    # minimal directory name
-    text = remove_common(text)
-    parts = text.split(' ')[0:3]
-    out = '-'.join(parts)
-    out = safe_name(out)
-    return out
+def file_exists(fname):
+    fpath = f'renders/{fname}'
+    return os.path.isfile(fpath)
+
+
+def image_url(fname):
+    return f'https://revel.alfalabs.xyz/projects/joker-art/photos/{fname}'
+
+
+def timestamp():
+    now = datetime.datetime.now()
+    print(now.strftime("%Y-%m-%d %H:%M:%S"))

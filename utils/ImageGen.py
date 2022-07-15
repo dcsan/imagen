@@ -2,7 +2,7 @@ import pprint
 import re
 import time
 
-from utils.ImageUtils import fetch_image, file_exists
+from utils.FileUtils import fetch_image, file_exists
 
 pp = pprint.PrettyPrinter(indent=4)
 

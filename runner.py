@@ -1,10 +1,10 @@
 import datetime
 import replicate
 from pprint import pp
+from utils.TextUtils import min_dir_name
 from utils.LatDif import single
 from utils.LogPage import LogPage
 
-from utils.ImageUtils import image_url, remove_suffix
 
 # model_path = "dribnet/pixray-vqgan"
 model_path = 'nicholascelestin/latent-diffusion'
@@ -19,10 +19,10 @@ model_path = 'nicholascelestin/latent-diffusion'
 # ldif()
 
 lines = [
+    'A panda riding a bicyle',
+    'A pretty girl putting on makeup',
     "rainbows and unicorns nightmare",
     'An octopus riding a skateboard',
-    'A pretty girl putting on makeup',
-    'A panda riding a bicyle',
     'a realistic beautiful woman, night time, wavy hairstyle, white hair, character concept art, created by Ross Tran, intricate accurate details, artstation trending, octane render, cinematic color grading, muted colors, soft light, cinematic, 8K',
     # 'a realistic beautiful woman, night time, wavy hairstyle, white hair, concept art',
     'A high resolution photo of a rainy Tokyo street scene at night with lots of neon lights reflections',
@@ -52,5 +52,24 @@ lines = [
     "Cubist Art, create a painting or sculpture that is abstract and geometric in style. The work should be composed of basic shapes and have aflat, two-dimensional appearance. The colors should be bold and primary colors.",
 ]
 
+
+# model_path = 'nicholascelestin/latent-diffusion'
+
+# passed to model
+config = {
+    'model': {
+        'n_predictions': 3,
+    },
+    'params': {
+        'model_path': 'borisdayma/dalle-mini',
+        'image_prefix': 'dmin'
+    }
+}
+
+# batch_size=3, width=size, height=size
+# internal
+
+# TODO - wrap in a retry block
 for text in lines:
-    single(text, batch_size=3, width=256, height=256)
+    # min_dir_name(text)
+    single(text, config)
