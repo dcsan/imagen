@@ -19,17 +19,21 @@ for example
 
 `cp .env.example .env`
 
-edit and add your key:
+edit the `.env` file to add your key then
 
 `source .env`
 
-first time: install virtual env:
+```bash
+# first time: install virtual env:
+python3 -m venv venv
 
-`python3 -m venv venv`
+# activate venv
+source venv/bin/activate
 
-activate venv
+# install pip modules
+pip install -r requirements.txt
 
-`source venv/bin/activate`
+```
 
 # Running
 

@@ -1,8 +1,9 @@
-import datetime
+# https://replicate.com/nicholascelestin/latent-diffusion/examples
+
 import replicate
 from utils.FileUtils import ensure_dir, min_dir_name
-
 from utils.ImageUtils import fetch_image, remove_suffix, safe_name
+
 
 model_path = 'nicholascelestin/latent-diffusion'
 
