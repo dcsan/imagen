@@ -10,7 +10,7 @@ model_path = 'nicholascelestin/latent-diffusion'
 
 # TODO - wrap in a retry block
 
-def single(prompt, batch_size=1):
+def single(prompt, batch_size=1, width=256, height=256):
     model = replicate.models.get(model_path)
     # pred = model.predict(prompts="rainbow mountain")
     prediction = replicate.predictions.create(
@@ -18,8 +18,8 @@ def single(prompt, batch_size=1):
         input={
             "prompt": prompt,
             'batch_size': batch_size,
-            'width': 512,
-            'height': 512,
+            'width': width,
+            'height': height,
         }
     )
 

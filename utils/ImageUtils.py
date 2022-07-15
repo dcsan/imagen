@@ -21,6 +21,8 @@ def remove_suffix(text):
 def safe_name(text):
     text = re.sub(r'\W+', '-', text)
     text = text.lower()
+    text = re.sub(r'^-', '', text)  # remove leading -
+    text = re.sub(r'--', '-', text)  # remove duplicate -
     return text
 
 
