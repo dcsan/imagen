@@ -39,7 +39,12 @@ pip install -r requirements.txt
 
 `make run`
 
-this will execute the `run` command inside the [Makefile](./Makefile)
+This will execute the `run` command inside the [Makefile](./Makefile)
+
+Depending on what's configured, it should output images into `renders/`
+
+Have a look at the `runner.py` to see what will be run.
+
 
 # Docs
 
