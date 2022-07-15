@@ -8,6 +8,8 @@ from utils.ImageUtils import fetch_image, remove_suffix, safe_name
 model_path = 'nicholascelestin/latent-diffusion'
 
 
+# TODO - wrap in a retry block
+
 def single(prompt, batch_size=1):
     model = replicate.models.get(model_path)
     # pred = model.predict(prompts="rainbow mountain")
