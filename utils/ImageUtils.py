@@ -4,9 +4,8 @@ import re
 import requests
 
 
-def fetch_image(url, name):
+def fetch_image(url, fpath):
     response = requests.get(url)
-    fpath = f'renders/{name}'
     open(fpath, "wb").write(response.content)
 
 
@@ -15,8 +14,14 @@ def file_exists(fname):
     return os.path.isfile(fpath)
 
 
-def sane(text):
+def remove_suffix(text):
     return re.sub(r'\.png|.jpg', '', text)
+
+
+def safe_name(text):
+    text = re.sub(r'\W+', '-', text)
+    text = text.lower()
+    return text
 
 
 def image_url(fname):

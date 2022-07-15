@@ -2,7 +2,7 @@ import pprint
 import re
 import time
 
-from utils.image_utils import fetch_image, file_exists
+from utils.ImageUtils import fetch_image, file_exists
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -17,7 +17,8 @@ def generate(prompts, model, options={}, meta={'use_cache': True}):
 
     name = prompts[0:40] + str(len(prompts))
     name = re.sub(r'\W+', '-', name)
-    fname = f"{name}_{drawer}_{quality}_{meta['tags']}.png"
+    tags = meta.get('tags') or ''
+    fname = f"{name}_{drawer}_{quality}_{tags}.png"
     if file_exists(fname) and meta.get('use_cache'):
         print(f"{fname} already exists")
         return {
