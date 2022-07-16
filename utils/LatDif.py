@@ -2,8 +2,13 @@
 
 import time
 import replicate
+from utils.ErrorUtils import get_traceback
 from utils.FileUtils import fetch_image, ensure_dir
+from utils.MiscUtils import flatten, unroll
 from utils.TextUtils import min_dir_name
+from pprint import pp
+
+verbose = False
 
 
 def single(prompt, config, retries=0):
@@ -16,8 +21,8 @@ def single(prompt, config, retries=0):
         print('dumping', prompt)
         dump_images(prediction, prompt, config)
     except Exception as e:
-        print(e)
-        print('failed', prompt)
+        print('exception: on prompt:', prompt)
+        print('exception: ', get_traceback(e))
         retries += 1
         if retries < 5:
             delay = 5 * retries
@@ -46,11 +51,11 @@ def make_prediction(prompt, config):
     )
 
     print('status:', prediction.status)
-    # print(dict(prediction))
-    print('\nwaiting', prompt)
+    if verbose:
+        pp(dict(prediction))
+    print('waiting:', prompt)
     prediction.wait()
     print('done')
-    print('output', prediction.output)
     return prediction
 
 
@@ -58,13 +63,18 @@ def dump_images(prediction, prompt, config):
     image_prefix = config['params']['image_prefix']
     count = 0
     min_path = min_dir_name(prompt)
-    render_path = f'renders/{min_path}'
+    render_path = f'output/renders/{min_path}'
     ensure_dir(render_path)
-    for output in prediction.output:
+
+    print('\nprediction.output', prediction.output)
+    output = unroll(prediction.output)  # sometimes we get a list of lists
+
+    for item in output:
+        print('single output', item)
         count += 1
         # fname = safe_name(fname)
         # fname = f'{prompt}_{count}.png'
         fname = f'{image_prefix}-{count}.png'
         fpath = f'{render_path}/{fname}'
-        fetch_image(output, fpath)
+        fetch_image(item, fpath)
         print(f' {count} rendered {fpath}')

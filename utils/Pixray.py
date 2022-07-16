@@ -199,7 +199,7 @@ def multi():
                     f'<img src="{style_url}" height="250px" width="250px" />')
             logpage.line('<hr/>')
 
-            print(f'\trendered one: renders/{rendering}')
+            print(f'\trendered one: output/renders/{rendering}')
 
     logpage.line('done')
     logpage.close()

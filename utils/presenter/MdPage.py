@@ -1,12 +1,12 @@
-class LogPage:
+class MdPage:
 
-    def __init__(self, filename='log.html'):
+    def __init__(self, filename='output.md'):
         self.path = f'output/renders/{filename}'
         self.fp = open(self.path, "w")
-        self.fp.write('<html><body>\n')
+        self.fp.write('# Preview \n')
 
     def line(self, text):
-        self.fp.write(f'<p>{text}</p>\n')
+        self.fp.write(text)
         self.fp.flush()
 
     def plain(self, text):
@@ -15,5 +15,5 @@ class LogPage:
         self.fp.flush()
 
     def close(self):
-        self.fp.write('</body></html>\n')
+        # self.fp.write('</body></html>\n')
         self.fp.close()

@@ -29,17 +29,17 @@ def remove_common(text):
         'drawing',
         'painting',
         'in the style of',
-        'by ',
-        'of ',
-        'on ',
-        'in ',
-        'by ',
-        'an ',  # before a
-        ' a ',
-        '^a',
-        'and ',
+        '(\b|^)the\b',
+        '(\b|^)by\b',
+        '(\b|^)of ',
+        '(\b|^)on ',
+        '(\b|^)in ',
+        '(\b|^)an ',  # before a
+        '(\b|^)and ',
         # ' a ', # removes too many a and space
-        'the ',
+        '(\b|^)the ',
+        '(\b|^)a\b',
+        '(\b|^)a\b',
     ]
     text = text.lower()
     for word in common:
