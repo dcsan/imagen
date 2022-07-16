@@ -6,7 +6,7 @@ class MdPage:
         self.fp.write('# Preview \n')
 
     def line(self, text):
-        self.fp.write(text)
+        self.fp.write(text + '\n')
         self.fp.flush()
 
     def plain(self, text):

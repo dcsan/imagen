@@ -47,7 +47,11 @@ def render_exists(prompt, config):
     count = 1
     min_path = min_dir_name(prompt)
     render_path = f'output/renders/{min_path}'
-    return os.path.isfile(render_path)
+    fname = f'{image_prefix}-{count}.png'
+    fpath = f'{render_path}/{fname}'
+    test = os.path.exists(fpath)
+    print('render exists', test, fpath)
+    return test
 
 
 def make_prediction(prompt, config):

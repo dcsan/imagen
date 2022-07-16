@@ -40,6 +40,7 @@ def remove_common(text):
         '(\b|^)the ',
         '(\b|^)a\b',
         '(\b|^)a\b',
+        '^a ',  # the line above _should_ get this but it doesnt :(
     ]
     text = text.lower()
     for word in common:

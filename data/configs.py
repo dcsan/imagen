@@ -2,6 +2,7 @@ configs = [
 
     {
         'name': 'glid3',
+        'skip': True,   # dont render
         # passed to model
         'model': {
             'seed': 1,  # fixed seed
@@ -20,18 +21,8 @@ configs = [
     },
 
     {
-        'name': 'dalle-mini',
-        'model': {
-            'n_predictions': 9,
-        },
-        'params': {
-            'model_path': 'borisdayma/dalle-mini',
-            'image_prefix': 'dmin'
-        },
-    },
-
-    {
         'name': 'latdif',
+        'skip': True,   # dont render
         'model': {
             'batch_size': 9,
             'width': 256,
@@ -41,6 +32,19 @@ configs = [
             'model_path': 'nicholascelestin/latent-diffusion',
             'image_prefix': 'ldif'
         }
+    },
+
+    # seems to bring down replicate frequently
+    {
+        'name': 'dalle-mini',
+        # 'skip': True,   # dont render
+        'model': {
+            'n_predictions': 9,
+        },
+        'params': {
+            'model_path': 'borisdayma/dalle-mini',
+            'image_prefix': 'dmin'
+        },
     },
 
     {
