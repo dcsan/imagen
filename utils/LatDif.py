@@ -1,5 +1,6 @@
 # https://replicate.com/nicholascelestin/latent-diffusion/examples
 
+import os
 import time
 import replicate
 from utils.ErrorUtils import get_traceback
@@ -14,6 +15,10 @@ verbose = False
 def single(prompt, config, retries=0):
     if config.get('skip'):
         print('skipping', prompt, config.get('name'))
+        return
+
+    if render_exists(prompt, config):
+        print('render exists', prompt, config.get('name'))
         return
 
     print('single:', config)
@@ -35,6 +40,14 @@ def single(prompt, config, retries=0):
         else:
             print('ERROR giving up', prompt)
             # raise e
+
+
+def render_exists(prompt, config):
+    image_prefix = config['params']['image_prefix']
+    count = 1
+    min_path = min_dir_name(prompt)
+    render_path = f'output/renders/{min_path}'
+    return os.path.isfile(render_path)
 
 
 def make_prediction(prompt, config):

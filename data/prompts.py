@@ -1,7 +1,7 @@
 
 lines = [
     # "A huge octopus climbing up the Empire State building",
-    "A new type of fish discovered in the deepest darkest sea, neon lighting vivid saturated palette",
+    # "A new type of fish discovered in the deepest darkest sea, neon lighting vivid saturated palette",
     "A paparazzi photograph of Jesus going into a nightclub. Flash photography, blurred people",
     "A still of Kermit the Frog in Mad Max Fury Road",
     "An invention for keeping everyone happy",
