@@ -12,6 +12,9 @@ verbose = False
 
 
 def single(prompt, config, retries=0):
+    if config.get('skip'):
+        print('skipping', prompt, config.get('name'))
+        return
 
     print('single:', config)
 
@@ -36,6 +39,10 @@ def single(prompt, config, retries=0):
 
 def make_prediction(prompt, config):
     model_path = config['params']['model_path']
+    if not model_path:
+        print('no model path')
+        return
+
     model = replicate.models.get(model_path)
 
     model_options = config['model']

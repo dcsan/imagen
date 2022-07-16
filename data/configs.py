@@ -43,19 +43,65 @@ configs = [
         }
     },
 
-    # {
-    #     'name': 'pixray-vqgan',
-    #     'model': {
-    #         'n_predictions': 3,
-    #         'drawer': 'vqgan',
-    #         'settings': {
-    #             'size': [256, 256]
-    #         }
-    #     },
-    #     'params': {
-    #         'model_path': 'dribnet/pixray-vqgan',
-    #         'image_prefix': 'pixray'
-    #     },
-    # },
+    {
+        'name': 'midjourney',
+        'skip': True,   # dont render
+        'model': {
+            'batch_size': 9,
+            'width': 256,
+            'height': 256,
+        },
+        'params': {
+            'model_path': None,
+            'image_prefix': 'midj'
+        }
+    },
+
+    {
+        'name': 'pixray-vqgan',
+        'skip': True,   # dont render
+        'model': {
+            'n_predictions': 3,
+            'drawer': 'vqgan',
+            'settings': {
+                'size': [256, 256]
+            }
+        },
+        'params': {
+            'model_path': 'dribnet/pixray-vqgan',
+            'image_prefix': 'pixray'
+        },
+    },
+
+    {
+        'name': 'simulacra',
+        'skip': True,   # dont render
+        'model': {
+            'n_predictions': 3,
+            'drawer': 'vqgan',
+            'settings': {
+                'size': [256, 256]
+            }
+        },
+        'params': {
+            'model_path': 'dribnet/pixray-vqgan',
+            'image_prefix': 'simu'
+        },
+    },
+
+    {
+        'name': 'openai-dalle-2',
+        'skip': True,   # dont render
+        'model': {
+            'n_predictions': 3,
+            'drawer': 'vqgan',
+            'settings': {
+                'size': [256, 256]
+            }
+        },
+        'params': {
+            'image_prefix': 'opai-dalle'
+        },
+    },
 
 ]
