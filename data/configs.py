@@ -37,7 +37,7 @@ configs = [
     # seems to bring down replicate frequently
     {
         'name': 'dalle-mini',
-        # 'skip': True,   # dont render
+        'skip': True,   # dont render
         'model': {
             'n_predictions': 9,
         },
@@ -63,7 +63,7 @@ configs = [
 
     {
         'name': 'pixray-vqgan',
-        'skip': True,   # dont render
+        # 'skip': True,   # dont render
         'model': {
             'n_predictions': 3,
             'drawer': 'vqgan',
