@@ -1,12 +1,18 @@
 class MdPage:
 
     def __init__(self, filename='output.md'):
-        self.path = f'output/renders/{filename}'
+        # self.path = f'output/renders/{filename}'
+        self.path = filename
         self.fp = open(self.path, "w")
         self.fp.write('# Preview \n')
 
     def line(self, text):
         self.fp.write(text + '\n')
+        self.fp.flush()
+
+    # without newline
+    def item(self, text):
+        self.fp.write(text)
         self.fp.flush()
 
     def plain(self, text):
