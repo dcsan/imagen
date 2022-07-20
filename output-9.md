@@ -52,6 +52,9 @@ glid3
 <a href="output/renders/of-jesus-going-into/glid3-4.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-4.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/glid3-5.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-5.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/glid3-6.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-6.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/glid3-7.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-7.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/glid3-8.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-8.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/glid3-9.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -67,6 +70,9 @@ latdif
 <a href="output/renders/of-jesus-going-into/ldif-4.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/ldif-4.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/ldif-5.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/ldif-5.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/ldif-6.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/ldif-6.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/ldif-7.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/ldif-7.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/ldif-8.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/ldif-8.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/ldif-9.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -77,6 +83,9 @@ dalle-mini
 <a href="output/renders/of-jesus-going-into/dmin-4.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/dmin-4.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/dmin-5.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/dmin-5.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/dmin-6.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/dmin-6.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/dmin-7.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/dmin-7.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/dmin-8.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/dmin-8.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/dmin-9.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -87,6 +96,9 @@ midjourney
 <a href="output/renders/of-jesus-going-into/midj-4.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-4.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/midj-5.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-5.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/midj-6.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-6.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/midj-7.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-7.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/midj-8.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-8.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/midj-9.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -120,6 +132,9 @@ glid3
 <a href="output/renders/still-of-kermit-the/glid3-4.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-4.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/glid3-5.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-5.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/glid3-6.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-6.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/glid3-7.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-7.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/glid3-8.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-8.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/glid3-9.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -135,6 +150,9 @@ latdif
 <a href="output/renders/still-of-kermit-the/ldif-4.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-4.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/ldif-5.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-5.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/ldif-6.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-6.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/ldif-7.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-7.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/ldif-8.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-8.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/ldif-9.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -145,6 +163,9 @@ dalle-mini
 <a href="output/renders/still-of-kermit-the/dmin-4.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/dmin-4.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/dmin-5.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/dmin-5.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/dmin-6.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/dmin-6.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/dmin-7.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/dmin-7.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/dmin-8.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/dmin-8.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/dmin-9.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -155,6 +176,9 @@ midjourney
 <a href="output/renders/still-of-kermit-the/midj-4.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-4.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/midj-5.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-5.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/midj-6.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-6.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/midj-7.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-7.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/midj-8.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-8.png" width="150px" /></a>
+<a href="output/renders/still-of-kermit-the/midj-9.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -187,6 +211,9 @@ glid3
 <a href="output/renders/invention-for-keeping-everyone/glid3-4.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-4.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/glid3-5.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-5.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/glid3-6.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-6.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/glid3-7.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-7.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/glid3-8.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-8.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/glid3-9.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -202,6 +229,9 @@ latdif
 <a href="output/renders/invention-for-keeping-everyone/ldif-4.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/ldif-4.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/ldif-5.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/ldif-5.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/ldif-6.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/ldif-6.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/ldif-7.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/ldif-7.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/ldif-8.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/ldif-8.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/ldif-9.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -212,6 +242,9 @@ dalle-mini
 <a href="output/renders/invention-for-keeping-everyone/dmin-4.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/dmin-4.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/dmin-5.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/dmin-5.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/dmin-6.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/dmin-6.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/dmin-7.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/dmin-7.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/dmin-8.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/dmin-8.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/dmin-9.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -222,6 +255,9 @@ midjourney
 <a href="output/renders/invention-for-keeping-everyone/midj-4.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-4.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/midj-5.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-5.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/midj-6.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-6.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/midj-7.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-7.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/midj-8.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-8.png" width="150px" /></a>
+<a href="output/renders/invention-for-keeping-everyone/midj-9.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -253,6 +289,9 @@ glid3
 <a href="output/renders/octopus-riding-a-skateboard/glid3-4.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-4.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/glid3-5.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-5.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/glid3-6.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-6.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/glid3-7.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-7.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/glid3-8.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-8.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/glid3-9.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -268,6 +307,9 @@ latdif
 <a href="output/renders/octopus-riding-a-skateboard/ldif-4.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-4.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/ldif-5.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-5.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/ldif-6.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-6.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/ldif-7.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-7.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/ldif-8.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-8.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/ldif-9.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -278,6 +320,9 @@ dalle-mini
 <a href="output/renders/octopus-riding-a-skateboard/dmin-4.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/dmin-4.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/dmin-5.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/dmin-5.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/dmin-6.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/dmin-6.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/dmin-7.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/dmin-7.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/dmin-8.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/dmin-8.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/dmin-9.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -288,6 +333,9 @@ midjourney
 <a href="output/renders/octopus-riding-a-skateboard/midj-4.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-4.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/midj-5.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-5.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/midj-6.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-6.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/midj-7.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-7.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/midj-8.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-8.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-a-skateboard/midj-9.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -318,6 +366,9 @@ glid3
 <a href="output/renders/calm-psychedelic/glid3-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-4.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/glid3-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-5.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/glid3-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-6.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/glid3-7.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-7.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/glid3-8.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-8.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/glid3-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -333,6 +384,9 @@ latdif
 <a href="output/renders/calm-psychedelic/ldif-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/ldif-4.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/ldif-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/ldif-5.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/ldif-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/ldif-6.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/ldif-7.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/ldif-7.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/ldif-8.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/ldif-8.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/ldif-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -343,6 +397,9 @@ dalle-mini
 <a href="output/renders/calm-psychedelic/dmin-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-4.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/dmin-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-5.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/dmin-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-6.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/dmin-7.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-7.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/dmin-8.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-8.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/dmin-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -353,6 +410,9 @@ midjourney
 <a href="output/renders/calm-psychedelic/midj-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-4.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/midj-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-5.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/midj-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-6.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-7.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-7.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-8.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-8.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -383,6 +443,9 @@ glid3
 <a href="output/renders/cubist-art-create-a-or/glid3-4.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-4.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/glid3-5.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-5.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/glid3-6.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/glid3-7.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/glid3-8.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/glid3-9.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -398,6 +461,9 @@ latdif
 <a href="output/renders/cubist-art-create-a-or/ldif-4.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-4.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/ldif-5.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-5.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/ldif-6.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/ldif-7.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/ldif-8.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/ldif-9.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -408,6 +474,9 @@ dalle-mini
 <a href="output/renders/cubist-art-create-a-or/dmin-4.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/dmin-4.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/dmin-5.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/dmin-5.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/dmin-6.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/dmin-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/dmin-7.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/dmin-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/dmin-8.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/dmin-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/dmin-9.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -418,6 +487,9 @@ midjourney
 <a href="output/renders/cubist-art-create-a-or/midj-4.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-4.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/midj-5.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-5.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/midj-6.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/midj-7.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/midj-8.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-a-or/midj-9.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -448,6 +520,9 @@ glid3
 <a href="output/renders/establishing-shot-the-criminals-lair/glid3-4.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-4.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/glid3-5.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-5.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/glid3-6.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-6.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/glid3-7.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-7.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/glid3-8.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-8.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/glid3-9.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -463,6 +538,9 @@ latdif
 <a href="output/renders/establishing-shot-the-criminals-lair/ldif-4.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/ldif-4.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/ldif-5.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/ldif-5.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/ldif-6.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/ldif-6.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/ldif-7.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/ldif-7.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/ldif-8.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/ldif-8.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/ldif-9.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -473,6 +551,9 @@ dalle-mini
 <a href="output/renders/establishing-shot-the-criminals-lair/dmin-4.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/dmin-4.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/dmin-5.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/dmin-5.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/dmin-6.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/dmin-6.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/dmin-7.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/dmin-7.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/dmin-8.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/dmin-8.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/dmin-9.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -483,6 +564,9 @@ midjourney
 <a href="output/renders/establishing-shot-the-criminals-lair/midj-4.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-4.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/midj-5.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-5.png" width="150px" /></a>
 <a href="output/renders/establishing-shot-the-criminals-lair/midj-6.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-6.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/midj-7.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-7.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/midj-8.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-8.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/midj-9.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-9.png" width="150px" /></a>
 
 
 pixray-vqgan
@@ -513,6 +597,9 @@ glid3
 <a href="output/renders/for-sale-baby-shoes-never/glid3-4.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-4.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/glid3-5.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-5.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/glid3-6.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-6.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/glid3-7.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-7.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/glid3-8.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-8.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/glid3-9.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -528,6 +615,9 @@ latdif
 <a href="output/renders/for-sale-baby-shoes-never/ldif-4.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-4.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/ldif-5.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-5.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/ldif-6.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-6.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/ldif-7.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-7.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/ldif-8.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-8.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/ldif-9.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -538,6 +628,9 @@ dalle-mini
 <a href="output/renders/for-sale-baby-shoes-never/dmin-4.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/dmin-4.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/dmin-5.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/dmin-5.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/dmin-6.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/dmin-6.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/dmin-7.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/dmin-7.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/dmin-8.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/dmin-8.png" width="150px" /></a>
+<a href="output/renders/for-sale-baby-shoes-never/dmin-9.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -576,6 +669,9 @@ glid3
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-4.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-4.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-5.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-5.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-6.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-6.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-7.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-7.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-8.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-8.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-9.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -591,6 +687,9 @@ latdif
 <a href="output/renders/ghostbusters-inside-a-glass-jar/ldif-4.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/ldif-4.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/ldif-5.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/ldif-5.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/ldif-6.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/ldif-6.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/ldif-7.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/ldif-7.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/ldif-8.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/ldif-8.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/ldif-9.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -601,6 +700,9 @@ dalle-mini
 <a href="output/renders/ghostbusters-inside-a-glass-jar/dmin-4.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/dmin-4.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/dmin-5.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/dmin-5.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/dmin-6.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/dmin-6.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/dmin-7.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/dmin-7.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/dmin-8.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/dmin-8.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-a-glass-jar/dmin-9.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -640,6 +742,9 @@ glid3
 <a href="output/renders/how-a-panic-attack-feels/glid3-4.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-4.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/glid3-5.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-5.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/glid3-6.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-6.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/glid3-7.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-7.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/glid3-8.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-8.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/glid3-9.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -655,6 +760,9 @@ latdif
 <a href="output/renders/how-a-panic-attack-feels/ldif-4.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-4.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/ldif-5.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-5.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/ldif-6.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-6.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/ldif-7.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-7.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/ldif-8.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-8.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/ldif-9.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -665,6 +773,9 @@ dalle-mini
 <a href="output/renders/how-a-panic-attack-feels/dmin-4.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/dmin-4.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/dmin-5.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/dmin-5.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/dmin-6.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/dmin-6.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/dmin-7.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/dmin-7.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/dmin-8.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/dmin-8.png" width="150px" /></a>
+<a href="output/renders/how-a-panic-attack-feels/dmin-9.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -706,6 +817,9 @@ glid3
 <a href="output/renders/it-was-a-dark-and/glid3-4.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-4.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/glid3-5.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-5.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/glid3-6.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-6.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/glid3-7.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-7.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/glid3-8.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-8.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/glid3-9.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -721,6 +835,9 @@ latdif
 <a href="output/renders/it-was-a-dark-and/ldif-4.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/ldif-4.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/ldif-5.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/ldif-5.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/ldif-6.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/ldif-6.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/ldif-7.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/ldif-7.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/ldif-8.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/ldif-8.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/ldif-9.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -731,6 +848,9 @@ dalle-mini
 <a href="output/renders/it-was-a-dark-and/dmin-4.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/dmin-4.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/dmin-5.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/dmin-5.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/dmin-6.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/dmin-6.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/dmin-7.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/dmin-7.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/dmin-8.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/dmin-8.png" width="150px" /></a>
+<a href="output/renders/it-was-a-dark-and/dmin-9.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -769,6 +889,9 @@ glid3
 <a href="output/renders/muppets-in-mad-max-fury/glid3-4.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-4.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/glid3-5.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-5.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/glid3-6.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-6.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/glid3-7.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-7.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/glid3-8.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-8.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/glid3-9.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -784,6 +907,9 @@ latdif
 <a href="output/renders/muppets-in-mad-max-fury/ldif-4.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-4.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/ldif-5.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-5.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/ldif-6.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-6.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/ldif-7.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-7.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/ldif-8.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-8.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/ldif-9.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -794,6 +920,9 @@ dalle-mini
 <a href="output/renders/muppets-in-mad-max-fury/dmin-4.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/dmin-4.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/dmin-5.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/dmin-5.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/dmin-6.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/dmin-6.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/dmin-7.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/dmin-7.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/dmin-8.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/dmin-8.png" width="150px" /></a>
+<a href="output/renders/muppets-in-mad-max-fury/dmin-9.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -834,6 +963,9 @@ glid3
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-4.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-4.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-5.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-5.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-6.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-6.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/glid3-7.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-7.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/glid3-8.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-8.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/glid3-9.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -849,6 +981,9 @@ latdif
 <a href="output/renders/noahs-ark-by-jack-kirby/ldif-4.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/ldif-4.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/ldif-5.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/ldif-5.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/ldif-6.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/ldif-6.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/ldif-7.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/ldif-7.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/ldif-8.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/ldif-8.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/ldif-9.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -859,6 +994,9 @@ dalle-mini
 <a href="output/renders/noahs-ark-by-jack-kirby/dmin-4.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/dmin-4.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/dmin-5.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/dmin-5.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/dmin-6.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/dmin-6.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/dmin-7.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/dmin-7.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/dmin-8.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/dmin-8.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-jack-kirby/dmin-9.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -899,6 +1037,9 @@ glid3
 <a href="output/renders/noahs-ark-by-picasso/glid3-4.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-4.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/glid3-5.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-5.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/glid3-6.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-6.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/glid3-7.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-7.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/glid3-8.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-8.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/glid3-9.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -914,6 +1055,9 @@ latdif
 <a href="output/renders/noahs-ark-by-picasso/ldif-4.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-4.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/ldif-5.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-5.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/ldif-6.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-6.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/ldif-7.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-7.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/ldif-8.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-8.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/ldif-9.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -924,6 +1068,9 @@ dalle-mini
 <a href="output/renders/noahs-ark-by-picasso/dmin-4.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/dmin-4.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/dmin-5.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/dmin-5.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/dmin-6.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/dmin-6.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/dmin-7.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/dmin-7.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/dmin-8.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/dmin-8.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-by-picasso/dmin-9.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -961,6 +1108,9 @@ glid3
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-4.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-4.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-5.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-5.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-6.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-6.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/glid3-7.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-7.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/glid3-8.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-8.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/glid3-9.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -976,6 +1126,9 @@ latdif
 <a href="output/renders/rainbows-and-unicorns-nightmare/ldif-4.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/ldif-4.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/ldif-5.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/ldif-5.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/ldif-6.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/ldif-6.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/ldif-7.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/ldif-7.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/ldif-8.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/ldif-8.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/ldif-9.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -986,6 +1139,9 @@ dalle-mini
 <a href="output/renders/rainbows-and-unicorns-nightmare/dmin-4.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/dmin-4.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/dmin-5.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/dmin-5.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/dmin-6.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/dmin-6.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/dmin-7.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/dmin-7.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/dmin-8.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/dmin-8.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/dmin-9.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1020,6 +1176,9 @@ glid3
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-4.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-4.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-5.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-5.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-6.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-6.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/glid3-7.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-7.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/glid3-8.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-8.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/glid3-9.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1035,6 +1194,9 @@ latdif
 <a href="output/renders/court-jester-cyberpunk-playing/ldif-4.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-4.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/ldif-5.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-5.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/ldif-6.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-6.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/ldif-7.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-7.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/ldif-8.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-8.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/ldif-9.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1045,6 +1207,9 @@ dalle-mini
 <a href="output/renders/court-jester-cyberpunk-playing/dmin-4.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/dmin-4.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/dmin-5.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/dmin-5.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/dmin-6.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/dmin-6.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/dmin-7.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/dmin-7.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/dmin-8.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/dmin-8.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing/dmin-9.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1082,6 +1247,9 @@ glid3
 <a href="output/renders/of-mick-jagger-eating/glid3-4.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-4.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/glid3-5.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-5.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/glid3-6.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-6.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/glid3-7.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-7.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/glid3-8.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-8.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/glid3-9.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1097,6 +1265,9 @@ latdif
 <a href="output/renders/of-mick-jagger-eating/ldif-4.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/ldif-4.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/ldif-5.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/ldif-5.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/ldif-6.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/ldif-6.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/ldif-7.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/ldif-7.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/ldif-8.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/ldif-8.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/ldif-9.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1107,6 +1278,9 @@ dalle-mini
 <a href="output/renders/of-mick-jagger-eating/dmin-4.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/dmin-4.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/dmin-5.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/dmin-5.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/dmin-6.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/dmin-6.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/dmin-7.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/dmin-7.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/dmin-8.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/dmin-8.png" width="150px" /></a>
+<a href="output/renders/of-mick-jagger-eating/dmin-9.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1144,6 +1318,9 @@ glid3
 <a href="output/renders/of-a-girl-putting/glid3-4.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-4.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/glid3-5.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-5.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/glid3-6.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-6.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/glid3-7.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-7.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/glid3-8.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-8.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/glid3-9.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1159,6 +1336,9 @@ latdif
 <a href="output/renders/of-a-girl-putting/ldif-4.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-4.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/ldif-5.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-5.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/ldif-6.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-6.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/ldif-7.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-7.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/ldif-8.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-8.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/ldif-9.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1169,6 +1349,9 @@ dalle-mini
 <a href="output/renders/of-a-girl-putting/dmin-4.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/dmin-4.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/dmin-5.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/dmin-5.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/dmin-6.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/dmin-6.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/dmin-7.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/dmin-7.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/dmin-8.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/dmin-8.png" width="150px" /></a>
+<a href="output/renders/of-a-girl-putting/dmin-9.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1207,6 +1390,9 @@ glid3
 <a href="output/renders/of-a-rainy-tokyo/glid3-4.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-4.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/glid3-5.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-5.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/glid3-6.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-6.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/glid3-7.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-7.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/glid3-8.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-8.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/glid3-9.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1222,6 +1408,9 @@ latdif
 <a href="output/renders/of-a-rainy-tokyo/ldif-4.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/ldif-4.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/ldif-5.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/ldif-5.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/ldif-6.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/ldif-6.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/ldif-7.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/ldif-7.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/ldif-8.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/ldif-8.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/ldif-9.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1232,6 +1421,9 @@ dalle-mini
 <a href="output/renders/of-a-rainy-tokyo/dmin-4.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/dmin-4.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/dmin-5.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/dmin-5.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/dmin-6.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/dmin-6.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/dmin-7.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/dmin-7.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/dmin-8.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/dmin-8.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/dmin-9.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1268,6 +1460,9 @@ glid3
 <a href="output/renders/pretty-girl-putting-on/glid3-4.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-4.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/glid3-5.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-5.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/glid3-6.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-6.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/glid3-7.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-7.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/glid3-8.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-8.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/glid3-9.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1283,6 +1478,9 @@ latdif
 <a href="output/renders/pretty-girl-putting-on/ldif-4.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-4.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/ldif-5.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-5.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/ldif-6.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-6.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/ldif-7.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-7.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/ldif-8.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-8.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/ldif-9.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1293,6 +1491,9 @@ dalle-mini
 <a href="output/renders/pretty-girl-putting-on/dmin-4.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/dmin-4.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/dmin-5.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/dmin-5.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/dmin-6.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/dmin-6.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/dmin-7.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/dmin-7.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/dmin-8.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/dmin-8.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/dmin-9.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1327,6 +1528,9 @@ glid3
 <a href="output/renders/realistic-beautiful-woman-night/glid3-4.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-4.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/glid3-5.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-5.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/glid3-6.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-6.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/glid3-7.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-7.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/glid3-8.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-8.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/glid3-9.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1342,6 +1546,9 @@ latdif
 <a href="output/renders/realistic-beautiful-woman-night/ldif-4.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/ldif-4.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/ldif-5.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/ldif-5.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/ldif-6.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/ldif-6.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/ldif-7.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/ldif-7.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/ldif-8.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/ldif-8.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/ldif-9.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1352,6 +1559,9 @@ dalle-mini
 <a href="output/renders/realistic-beautiful-woman-night/dmin-4.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/dmin-4.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/dmin-5.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/dmin-5.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/dmin-6.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/dmin-6.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/dmin-7.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/dmin-7.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/dmin-8.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/dmin-8.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/dmin-9.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1390,6 +1600,9 @@ glid3
 <a href="output/renders/of-a-panda-riding/glid3-4.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-4.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/glid3-5.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-5.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/glid3-6.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-6.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/glid3-7.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-7.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/glid3-8.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-8.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/glid3-9.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1405,6 +1618,9 @@ latdif
 <a href="output/renders/of-a-panda-riding/ldif-4.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-4.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/ldif-5.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-5.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/ldif-6.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-6.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/ldif-7.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-7.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/ldif-8.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-8.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/ldif-9.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1415,6 +1631,9 @@ dalle-mini
 <a href="output/renders/of-a-panda-riding/dmin-4.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/dmin-4.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/dmin-5.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/dmin-5.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/dmin-6.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/dmin-6.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/dmin-7.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/dmin-7.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/dmin-8.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/dmin-8.png" width="150px" /></a>
+<a href="output/renders/of-a-panda-riding/dmin-9.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1455,6 +1674,9 @@ glid3
 <a href="output/renders/definition-of-beauty/glid3-4.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-4.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/glid3-5.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-5.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/glid3-6.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-6.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/glid3-7.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-7.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/glid3-8.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-8.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/glid3-9.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1470,6 +1692,9 @@ latdif
 <a href="output/renders/definition-of-beauty/ldif-4.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/ldif-4.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/ldif-5.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/ldif-5.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/ldif-6.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/ldif-6.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/ldif-7.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/ldif-7.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/ldif-8.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/ldif-8.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/ldif-9.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1480,6 +1705,9 @@ dalle-mini
 <a href="output/renders/definition-of-beauty/dmin-4.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/dmin-4.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/dmin-5.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/dmin-5.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/dmin-6.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/dmin-6.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/dmin-7.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/dmin-7.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/dmin-8.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/dmin-8.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/dmin-9.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1517,6 +1745,9 @@ glid3
 <a href="output/renders/time-travelers/glid3-4.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-4.png" width="150px" /></a>
 <a href="output/renders/time-travelers/glid3-5.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-5.png" width="150px" /></a>
 <a href="output/renders/time-travelers/glid3-6.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-6.png" width="150px" /></a>
+<a href="output/renders/time-travelers/glid3-7.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-7.png" width="150px" /></a>
+<a href="output/renders/time-travelers/glid3-8.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-8.png" width="150px" /></a>
+<a href="output/renders/time-travelers/glid3-9.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1532,6 +1763,9 @@ latdif
 <a href="output/renders/time-travelers/ldif-4.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-4.png" width="150px" /></a>
 <a href="output/renders/time-travelers/ldif-5.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-5.png" width="150px" /></a>
 <a href="output/renders/time-travelers/ldif-6.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-6.png" width="150px" /></a>
+<a href="output/renders/time-travelers/ldif-7.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-7.png" width="150px" /></a>
+<a href="output/renders/time-travelers/ldif-8.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-8.png" width="150px" /></a>
+<a href="output/renders/time-travelers/ldif-9.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1542,6 +1776,9 @@ dalle-mini
 <a href="output/renders/time-travelers/dmin-4.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-4.png" width="150px" /></a>
 <a href="output/renders/time-travelers/dmin-5.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-5.png" width="150px" /></a>
 <a href="output/renders/time-travelers/dmin-6.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-6.png" width="150px" /></a>
+<a href="output/renders/time-travelers/dmin-7.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-7.png" width="150px" /></a>
+<a href="output/renders/time-travelers/dmin-8.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-8.png" width="150px" /></a>
+<a href="output/renders/time-travelers/dmin-9.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-9.png" width="150px" /></a>
 
 
 midjourney
@@ -1578,6 +1815,9 @@ glid3
 <a href="output/renders/two-ships-passing-in-the/glid3-4.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-4.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/glid3-5.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-5.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/glid3-6.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-6.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/glid3-7.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-7.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/glid3-8.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-8.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/glid3-9.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-9.png" width="150px" /></a>
 
 
 disco-diffusion
@@ -1593,6 +1833,9 @@ latdif
 <a href="output/renders/two-ships-passing-in-the/ldif-4.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/ldif-4.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/ldif-5.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/ldif-5.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/ldif-6.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/ldif-6.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/ldif-7.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/ldif-7.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/ldif-8.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/ldif-8.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/ldif-9.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
@@ -1603,6 +1846,9 @@ dalle-mini
 <a href="output/renders/two-ships-passing-in-the/dmin-4.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/dmin-4.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/dmin-5.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/dmin-5.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/dmin-6.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/dmin-6.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/dmin-7.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/dmin-7.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/dmin-8.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/dmin-8.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/dmin-9.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/dmin-9.png" width="150px" /></a>
 
 
 midjourney

@@ -4,7 +4,6 @@ class MdPage:
         # self.path = f'output/renders/{filename}'
         self.path = filename
         self.fp = open(self.path, "w")
-        self.fp.write('# Preview \n')
 
     def line(self, text):
         self.fp.write(text + '\n')

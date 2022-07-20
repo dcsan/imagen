@@ -8,9 +8,7 @@ clear:
 
 # render output markdown file
 build-output:
-	# @rm output.md
 	python make_output.py
-	# head output.md
 
 git-push:
 	git add .
