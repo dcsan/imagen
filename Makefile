@@ -8,6 +8,6 @@ clear:
 
 # render output markdown file
 build-output:
-	@rm output/renders/output.md
+	@rm output.md
 	python make_output.py
-	head output/renders/output.md
+	head output.md
