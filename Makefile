@@ -9,7 +9,6 @@ clear:
 # render output markdown file
 build-output:
 	python make_output.py
-	head output.md -n 100
 
 git-push:
 	git add .

@@ -25,8 +25,7 @@ def add_prompt_list(dump):
         dump.line(f'1. [{link}](#{link})')
 
 
-def create_readme():
-    max_pix = 6
+def create_output(max_pix=3):
     size = 150
     filename = f'output-{max_pix}.md'
 
@@ -73,4 +72,10 @@ def create_readme():
     dump.close()
 
 
-create_readme()
+def main():
+    create_output(3)
+    create_output(6)
+    create_output(9)
+
+
+main()

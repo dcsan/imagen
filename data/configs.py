@@ -27,6 +27,7 @@ configs = [
             'batch_size': 3,
             'width': 256,
             'height': 256,
+            'display_rate': 1000,
             'diffusion_model': '256x256_diffusion_uncond',
         },
         'params': {
