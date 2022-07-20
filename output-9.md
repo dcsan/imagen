@@ -18,7 +18,7 @@
 1. [invention-keeping-everyone-happy](#invention-keeping-everyone-happy)
 1. [octopus-riding-skateboard](#octopus-riding-skateboard)
 1. [calm-psychedelic](#calm-psychedelic)
-1. [cubist-art-create-or-sculpture](#cubist-art-create-or-sculpture)
+1. [cubist-art-create-sculpture-abstract](#cubist-art-create-sculpture-abstract)
 1. [establishing-shot-criminals-lair-laid](#establishing-shot-criminals-lair-laid)
 1. [sale-baby-shoes-never-worn](#sale-baby-shoes-never-worn)
 1. [ghostbusters-inside-glass-jar-epic](#ghostbusters-inside-glass-jar-epic)
@@ -581,14 +581,14 @@ openai-dalle-2
 [X]
 [X]
 
-## cubist-art-create-or-sculpture 
+## cubist-art-create-sculpture-abstract 
 > [Cubist Art, create a painting or sculpture that is abstract and geometric in style. The work should be composed of basic shapes and have aflat, two-dimensional appearance. The colors should be bold and primary colors.]
 
 
 
 disco-diffusion
 
-<a href="output/renders/cubist-art-create-or-sculpture/disco-1.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/disco-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/disco-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/disco-1.png" width="150px" /></a>
 [X]
 [X]
 [X]
@@ -614,59 +614,59 @@ pixray-vqgan
 
 glid3
 
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-1.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-1.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-2.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-2.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-3.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-3.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-4.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-4.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-5.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-5.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-6.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-6.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-7.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-7.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-8.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-8.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/glid3-9.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/glid3-9.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-2.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-3.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-3.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-4.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-4.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-5.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-5.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-6.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-7.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-8.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/glid3-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/glid3-9.png" width="150px" /></a>
 
 
 latdif
 
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-1.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-1.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-2.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-2.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-3.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-3.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-4.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-4.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-5.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-5.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-6.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-6.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-7.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-7.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-8.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-8.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/ldif-9.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/ldif-9.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-2.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-3.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-3.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-4.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-4.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-5.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-5.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-6.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-7.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-8.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/ldif-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/ldif-9.png" width="150px" /></a>
 
 
 dalle-mini
 
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-1.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-1.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-2.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-2.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-3.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-3.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-4.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-4.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-5.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-5.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-6.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-6.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-7.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-7.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-8.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-8.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/dmin-9.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/dmin-9.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-2.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-3.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-3.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-4.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-4.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-5.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-5.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-6.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-7.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-8.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/dmin-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-9.png" width="150px" /></a>
 
 
 midjourney
 
-<a href="output/renders/cubist-art-create-or-sculpture/midj-1.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-1.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-2.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-2.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-3.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-3.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-4.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-4.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-5.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-5.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-6.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-6.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-7.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-7.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-8.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-8.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-or-sculpture/midj-9.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/midj-9.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-2.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-3.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-3.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-4.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-4.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-5.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-5.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-6.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-7.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-8.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-9.png" width="150px" /></a>
 
 
 simulacra
 
-<a href="output/renders/cubist-art-create-or-sculpture/simu-1.png"><img alt="cubist-art-create-or-sculpture" src="output/renders/cubist-art-create-or-sculpture/simu-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/simu-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/simu-1.png" width="150px" /></a>
 [X]
 [X]
 [X]

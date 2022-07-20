@@ -41,6 +41,7 @@ def remove_common(text):
         'of',
         'for',
         'on',
+        'or',
         'painting',
         'paparazzi',
         'photo',
@@ -48,7 +49,10 @@ def remove_common(text):
         'the',
         'still',
         'insanely',
-        'detailed'
+        'detailed',
+        'that',
+        'is',
+
         # '(\b|^)the\b',
         # '(\b|^)by\b',
         # '(\b|^)of',
