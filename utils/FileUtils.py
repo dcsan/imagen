@@ -14,9 +14,13 @@ def fetch_image(output, fpath):
     if type(output) == str:
         image_url = output
     elif type(output) == dict:
-        image_url = output.get('image') or output.get('url')
+        # all models are different ><
+        image_url = output.get('image') or \
+            output.get('url') or \
+            output.get('file')
     else:
         raise Exception(f'unknown output type: {type(output)}', output)
+
     if not image_url:
         raise Exception('cannot find image url', output)
 

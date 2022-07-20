@@ -59,7 +59,15 @@ glid3
 
 disco-diffusion
 
-[end]
+<a href="output/renders/of-jesus-going-into/disco-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-1.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/disco-2.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-2.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/disco-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-3.png" width="150px" /></a>
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -103,7 +111,15 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -112,12 +128,24 @@ simulacra
 <a href="output/renders/of-jesus-going-into/simu-2.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/simu-2.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/simu-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/simu-3.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/simu-4.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/simu-4.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## still-of-kermit-the 
 > [A still of Kermit the Frog in Mad Max Fury Road]
@@ -139,7 +167,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -183,7 +219,15 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -191,12 +235,25 @@ simulacra
 <a href="output/renders/still-of-kermit-the/simu-1.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/simu-1.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/simu-2.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/simu-2.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/simu-3.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/simu-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## invention-for-keeping-everyone 
 > [An invention for keeping everyone happy]
@@ -218,7 +275,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -262,19 +327,41 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/invention-for-keeping-everyone/simu-1.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/simu-1.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/simu-2.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/simu-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## octopus-riding-a-skateboard 
 > [An octopus riding a skateboard]
@@ -296,7 +383,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -340,18 +435,41 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/octopus-riding-a-skateboard/simu-1.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## calm-psychedelic 
 > [Calm, psychedelic]
@@ -373,7 +491,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -417,18 +543,41 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/calm-psychedelic/simu-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## cubist-art-create-a-or 
 > [Cubist Art, create a painting or sculpture that is abstract and geometric in style. The work should be composed of basic shapes and have aflat, two-dimensional appearance. The colors should be bold and primary colors.]
@@ -450,7 +599,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -494,18 +651,41 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/cubist-art-create-a-or/simu-1.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## establishing-shot-the-criminals-lair 
 > [Establishing shot: the criminal's lair, laid deep in the mountains, shot from above from a helicopter. bats are flying out of the windows. dark and foggy background. dusky sky approaching sunset]
@@ -527,7 +707,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -571,18 +759,41 @@ midjourney
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/establishing-shot-the-criminals-lair/simu-1.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## for-sale-baby-shoes-never 
 > [For sale baby shoes, never worn    ]
@@ -604,7 +815,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -637,24 +856,52 @@ midjourney
 
 <a href="output/renders/for-sale-baby-shoes-never/midj-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/midj-1.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/midj-2.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/for-sale-baby-shoes-never/simu-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/simu-1.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/simu-2.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/simu-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## ghostbusters-inside-a-glass-jar 
 > [Ghostbusters inside a glass jar, insanely detailed, epic lighting, cinematic composition, hyperrealistic, 8k render]
@@ -676,7 +923,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -709,12 +964,26 @@ midjourney
 
 <a href="output/renders/ghostbusters-inside-a-glass-jar/midj-1.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/midj-1.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/midj-2.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -722,12 +991,25 @@ simulacra
 <a href="output/renders/ghostbusters-inside-a-glass-jar/simu-1.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/simu-1.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/simu-2.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/simu-2.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/simu-3.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/simu-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## how-a-panic-attack-feels 
 > [How a panic attack feels]
@@ -749,7 +1031,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -783,12 +1073,25 @@ midjourney
 <a href="output/renders/how-a-panic-attack-feels/midj-1.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/midj-1.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/midj-2.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/midj-2.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/midj-3.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/midj-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -797,12 +1100,24 @@ simulacra
 <a href="output/renders/how-a-panic-attack-feels/simu-2.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/simu-2.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/simu-3.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/simu-3.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/simu-4.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/simu-4.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## it-was-a-dark-and 
 > [It was a dark and stormy night]
@@ -824,7 +1139,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -857,24 +1180,52 @@ midjourney
 
 <a href="output/renders/it-was-a-dark-and/midj-1.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/midj-1.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/midj-2.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/it-was-a-dark-and/simu-1.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/simu-1.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/simu-2.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/simu-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## muppets-in-mad-max-fury 
 > [Muppets in Mad Max Fury Road]
@@ -896,7 +1247,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -930,12 +1289,25 @@ midjourney
 <a href="output/renders/muppets-in-mad-max-fury/midj-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/midj-1.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/midj-2.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/midj-2.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/midj-3.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/midj-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -943,12 +1315,25 @@ simulacra
 <a href="output/renders/muppets-in-mad-max-fury/simu-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/simu-1.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/simu-2.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/simu-2.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/simu-3.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/simu-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## noahs-ark-by-jack-kirby 
 > [Noah's ark painting by Jack Kirby]
@@ -970,7 +1355,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1003,12 +1396,26 @@ midjourney
 
 <a href="output/renders/noahs-ark-by-jack-kirby/midj-1.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/midj-1.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/midj-2.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -1017,12 +1424,24 @@ simulacra
 <a href="output/renders/noahs-ark-by-jack-kirby/simu-2.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/simu-2.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/simu-3.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/simu-3.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/simu-4.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/simu-4.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## noahs-ark-by-picasso 
 > [Noah's ark painting by Picasso]
@@ -1044,7 +1463,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1077,23 +1504,52 @@ midjourney
 
 <a href="output/renders/noahs-ark-by-picasso/midj-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/midj-1.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/midj-2.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/noahs-ark-by-picasso/simu-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## rainbows-and-unicorns-nightmare 
 > [Rainbows and unicorns nightmare]
@@ -1115,7 +1571,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1146,22 +1610,54 @@ dalle-mini
 
 midjourney
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## court-jester-cyberpunk-playing 
 > [The court jester cyberpunk playing card illustration]
@@ -1183,7 +1679,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1216,23 +1720,52 @@ midjourney
 
 <a href="output/renders/court-jester-cyberpunk-playing/midj-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/midj-1.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/midj-2.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/court-jester-cyberpunk-playing/simu-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## of-mick-jagger-eating 
 > [A color paparazzi photo of Mick Jagger eating a hamburger national inquirer cover]
@@ -1254,7 +1787,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1287,23 +1828,52 @@ midjourney
 
 <a href="output/renders/of-mick-jagger-eating/midj-1.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/midj-1.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/midj-2.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/midj-2.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/of-mick-jagger-eating/simu-1.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## of-a-girl-putting 
 > [A high resolution photo of a girl putting make up on in the mirror looking at herself]
@@ -1325,7 +1895,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1359,23 +1937,51 @@ midjourney
 <a href="output/renders/of-a-girl-putting/midj-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/midj-1.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/midj-2.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/midj-2.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/midj-3.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/midj-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/of-a-girl-putting/simu-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## of-a-rainy-tokyo 
 > [A high resolution photo of a rainy Tokyo street scene at night with lots of neon lights reflections]
@@ -1397,7 +2003,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1429,23 +2043,53 @@ dalle-mini
 midjourney
 
 <a href="output/renders/of-a-rainy-tokyo/midj-1.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/midj-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/of-a-rainy-tokyo/simu-1.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## pretty-girl-putting-on 
 > [A pretty girl putting on makeup]
@@ -1467,7 +2111,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1498,22 +2150,54 @@ dalle-mini
 
 midjourney
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## realistic-beautiful-woman-night 
 > [A realistic beautiful woman, night time, wavy hairstyle, white hair, character concept art, created by Ross Tran, intricate accurate details, artstation trending, octane render, cinematic color grading, muted colors, soft light, cinematic, 8K]
@@ -1535,7 +2219,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1567,12 +2259,27 @@ dalle-mini
 midjourney
 
 <a href="output/renders/realistic-beautiful-woman-night/midj-1.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/midj-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -1580,12 +2287,25 @@ simulacra
 <a href="output/renders/realistic-beautiful-woman-night/simu-1.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/simu-1.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/simu-2.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/simu-2.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/simu-3.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/simu-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## of-a-panda-riding 
 > [Photograph of a panda riding a bicycle]
@@ -1607,7 +2327,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1641,12 +2369,25 @@ midjourney
 <a href="output/renders/of-a-panda-riding/midj-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/midj-1.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/midj-2.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/midj-2.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/midj-3.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/midj-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -1654,12 +2395,25 @@ simulacra
 <a href="output/renders/of-a-panda-riding/simu-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/simu-1.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/simu-2.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/simu-2.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/simu-3.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/simu-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## definition-of-beauty 
 > [The definition of beauty]
@@ -1681,7 +2435,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1712,12 +2474,28 @@ dalle-mini
 
 midjourney
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
@@ -1725,12 +2503,25 @@ simulacra
 <a href="output/renders/definition-of-beauty/simu-1.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/simu-1.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/simu-2.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/simu-2.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/simu-3.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/simu-3.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## time-travelers 
 > [Time travelers]
@@ -1752,7 +2543,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1784,23 +2583,53 @@ dalle-mini
 midjourney
 
 <a href="output/renders/time-travelers/midj-1.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/time-travelers/simu-1.png"><img alt="time-travelers" src="output/renders/time-travelers/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 ## two-ships-passing-in-the 
 > [Two ships passing in the night]
@@ -1822,7 +2651,15 @@ glid3
 
 disco-diffusion
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 latdif
@@ -1854,20 +2691,50 @@ dalle-mini
 midjourney
 
 <a href="output/renders/two-ships-passing-in-the/midj-1.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/midj-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 pixray-vqgan
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 simulacra
 
 <a href="output/renders/two-ships-passing-in-the/simu-1.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/simu-1.png" width="150px" /></a>
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
 
 
 openai-dalle-2
 
-[end]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]
+[X]

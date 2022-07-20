@@ -66,8 +66,8 @@ def create_output(max_pix=3):
                     dump.line(image_link)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
-                    dump.line(f'[end]')
-                    break
+                    dump.line(f'[X]')
+                    # break
 
     dump.close()
 
