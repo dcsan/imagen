@@ -36,7 +36,7 @@ def create_readme():
         for config in configs:
             algo = config['name']
             # algo
-            dump.line(f'\n > {algo}\n')
+            dump.line(f'\n{algo}\n')
             # anchor tag
             # dump.line(f'[{prompt}](#{link})')
             # eg 'simu' or 'glid'
