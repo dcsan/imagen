@@ -25,7 +25,8 @@ def create_readme():
         # big prompt
         link = min_dir_name(prompt)
 
-        dump.line(f'\n\n## [{prompt}](#{link}) \n\n')
+        dump.line(f'\n## {link} ')
+        dump.line(f'> [{prompt}]\n')
         # fpath = f'{min_dir_name(prompt)}'
 
         min_path = min_dir_name(prompt)
@@ -52,6 +53,7 @@ def create_readme():
                     dump.item(image_link)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
+                    dump.line(f'(nothing)')
                     break
 
     dump.close()
