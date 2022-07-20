@@ -53,7 +53,9 @@ glid3
 
 disco-diffusion
 
-[end]
+<a href="output/renders/of-jesus-going-into/disco-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-1.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/disco-2.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-2.png" width="150px" /></a>
+<a href="output/renders/of-jesus-going-into/disco-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-3.png" width="150px" /></a>
 
 
 latdif
