@@ -10,6 +10,12 @@ def remove_punctuation(text):
     return text2
 
 
+def clean_text(text):
+    text = remove_punctuation(text)
+    text = text.lower()
+    return text
+
+
 def safe_name(text):
     # replace spaces with -
     text = re.sub(r'\W+', '-', text)
@@ -21,34 +27,52 @@ def safe_name(text):
 
 def remove_common(text):
     common = [
-        'high resolution',
-        'photograph',
-        'photo',
-        'color ',
-        'paparazzi',
+        'a',
+        'an',  # before a
+        'at',  # before a
+        'and',
+        'by',
+        'color',
         'drawing',
-        'painting',
+        'high',
+        'resolution',
+        'in',
         'in the style of',
-        '(\b|^)the\b',
-        '(\b|^)by\b',
-        '(\b|^)of ',
-        '(\b|^)on ',
-        '(\b|^)in ',
-        '(\b|^)an ',  # before a
-        '(\b|^)and ',
-        # ' a ', # removes too many a and space
-        '(\b|^)the ',
-        '(\b|^)a\b',
-        '(\b|^)a\b',
-        '^a ',  # the line above _should_ get this but it doesnt :(
+        'of',
+        'for',
+        'on',
+        'painting',
+        'paparazzi',
+        'photo',
+        'photograph',
+        'the',
+        'still',
+        'insanely',
+        'detailed'
+        # '(\b|^)the\b',
+        # '(\b|^)by\b',
+        # '(\b|^)of',
+        # '(\b|^)on',
+        # '(\b|^)in',
+        # '(\b|^)an',  # before a
+        # '(\b|^)and',
+        # # ' a', # removes too many a and space
+        # '(\b|^)the',
+        # '(\b|^)a\b',
+        # '(\b|^)a\b',
+        # '^a',  # the line above _should_ get this but it doesnt :(
     ]
-    text = text.lower()
-    for word in common:
-        rex = re.compile(word, re.IGNORECASE)
-        text = rex.sub(' ', text)
-        text = re.sub(r'\s\s+', ' ', text)
+    text = clean_text(text)
+    text_words = text.split(' ')
+    text = [word for word in text_words if word not in common]
+    # for word in common:
+    #     for out in text:
+    #         if
+    # rex = re.compile(word, re.IGNORECASE)
+    # text = rex.sub(' ', text)
+    # text = re.sub(r'\s\s+', ' ', text)
     # two or more spaces
-    return text
+    return ' '.join(text)
 
 
 def min_dir_name(input):
