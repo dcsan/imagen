@@ -64,10 +64,10 @@ def create_readme():
                     # dump.line(f'![img_{count}]({fpath}/{image}) ')
                     image_tag = f'<img alt="{link}" src="{image_path}" width="{size}px" />'
                     image_link = f'<a href="{image_path}">{image_tag}</a>'
-                    dump.item(image_link)  # cannot have newlines
+                    dump.line(image_link)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
-                    dump.line(f'(nothing)')
+                    dump.line(f'[end]')
                     break
 
     dump.close()
