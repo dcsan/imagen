@@ -70,15 +70,15 @@
 
 
 ### midjourney
-![img_1](of-jesus-going-into/midj-1.png) 
-![img_2](of-jesus-going-into/midj-2.png) 
-![img_3](of-jesus-going-into/midj-3.png) 
-![img_4](of-jesus-going-into/midj-4.png) 
-![img_5](of-jesus-going-into/midj-5.png) 
-![img_6](of-jesus-going-into/midj-6.png) 
-![img_7](of-jesus-going-into/midj-7.png) 
-![img_8](of-jesus-going-into/midj-8.png) 
-![img_9](of-jesus-going-into/midj-9.png) 
+<img width='250px' src="of-jesus-going-into/midj-1.png" />
+<img width='250px' src="of-jesus-going-into/midj-2.png" />
+<img width='250px' src="of-jesus-going-into/midj-3.png" />
+<img width='250px' src="of-jesus-going-into/midj-4.png" />
+<img width='250px' src="of-jesus-going-into/midj-5.png" />
+<img width='250px' src="of-jesus-going-into/midj-6.png" />
+<img width='250px' src="of-jesus-going-into/midj-7.png" />
+<img width='250px' src="of-jesus-going-into/midj-8.png" />
+<img width='250px' src="of-jesus-going-into/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -248,15 +248,15 @@
 
 
 ### midjourney
-![img_1](invention-for-keeping-everyone/midj-1.png) 
-![img_2](invention-for-keeping-everyone/midj-2.png) 
-![img_3](invention-for-keeping-everyone/midj-3.png) 
-![img_4](invention-for-keeping-everyone/midj-4.png) 
-![img_5](invention-for-keeping-everyone/midj-5.png) 
-![img_6](invention-for-keeping-everyone/midj-6.png) 
-![img_7](invention-for-keeping-everyone/midj-7.png) 
-![img_8](invention-for-keeping-everyone/midj-8.png) 
-![img_9](invention-for-keeping-everyone/midj-9.png) 
+<img width='250px' src="invention-for-keeping-everyone/midj-1.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-2.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-3.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-4.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-5.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-6.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-7.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-8.png" />
+<img width='250px' src="invention-for-keeping-everyone/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -337,15 +337,15 @@
 
 
 ### midjourney
-![img_1](octopus-riding-a-skateboard/midj-1.png) 
-![img_2](octopus-riding-a-skateboard/midj-2.png) 
-![img_3](octopus-riding-a-skateboard/midj-3.png) 
-![img_4](octopus-riding-a-skateboard/midj-4.png) 
-![img_5](octopus-riding-a-skateboard/midj-5.png) 
-![img_6](octopus-riding-a-skateboard/midj-6.png) 
-![img_7](octopus-riding-a-skateboard/midj-7.png) 
-![img_8](octopus-riding-a-skateboard/midj-8.png) 
-![img_9](octopus-riding-a-skateboard/midj-9.png) 
+<img width='250px' src="octopus-riding-a-skateboard/midj-1.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-2.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-3.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-4.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-5.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-6.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-7.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-8.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -604,15 +604,15 @@
 
 
 ### midjourney
-![img_1](establishing-shot-the-criminals-lair/midj-1.png) 
-![img_2](establishing-shot-the-criminals-lair/midj-2.png) 
-![img_3](establishing-shot-the-criminals-lair/midj-3.png) 
-![img_4](establishing-shot-the-criminals-lair/midj-4.png) 
-![img_5](establishing-shot-the-criminals-lair/midj-5.png) 
-![img_6](establishing-shot-the-criminals-lair/midj-6.png) 
-![img_7](establishing-shot-the-criminals-lair/midj-7.png) 
-![img_8](establishing-shot-the-criminals-lair/midj-8.png) 
-![img_9](establishing-shot-the-criminals-lair/midj-9.png) 
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-1.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-2.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-3.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-4.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-5.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-6.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-7.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-8.png" />
+<img width='250px' src="establishing-shot-the-criminals-lair/midj-9.png" /> 
 
 
 ### pixray-vqgan
@@ -693,15 +693,15 @@
 
 
 ### midjourney
-![img_1](for-sale-baby-shoes-never/midj-1.png) 
-![img_2](for-sale-baby-shoes-never/midj-2.png) 
-![img_3](for-sale-baby-shoes-never/midj-3.png) 
-![img_4](for-sale-baby-shoes-never/midj-4.png) 
-![img_5](for-sale-baby-shoes-never/midj-5.png) 
-![img_6](for-sale-baby-shoes-never/midj-6.png) 
-![img_7](for-sale-baby-shoes-never/midj-7.png) 
-![img_8](for-sale-baby-shoes-never/midj-8.png) 
-![img_9](for-sale-baby-shoes-never/midj-9.png) 
+<img width='250px' src="for-sale-baby-shoes-never/midj-1.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-2.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-3.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-4.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-5.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-6.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-7.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-8.png" />
+<img width='250px' src="for-sale-baby-shoes-never/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -782,15 +782,15 @@
 
 
 ### midjourney
-![img_1](ghostbusters-inside-a-glass-jar/midj-1.png) 
-![img_2](ghostbusters-inside-a-glass-jar/midj-2.png) 
-![img_3](ghostbusters-inside-a-glass-jar/midj-3.png) 
-![img_4](ghostbusters-inside-a-glass-jar/midj-4.png) 
-![img_5](ghostbusters-inside-a-glass-jar/midj-5.png) 
-![img_6](ghostbusters-inside-a-glass-jar/midj-6.png) 
-![img_7](ghostbusters-inside-a-glass-jar/midj-7.png) 
-![img_8](ghostbusters-inside-a-glass-jar/midj-8.png) 
-![img_9](ghostbusters-inside-a-glass-jar/midj-9.png) 
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-1.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-2.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-3.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-4.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-5.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-6.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-7.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-8.png" />
+<img width='250px' src="ghostbusters-inside-a-glass-jar/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -871,15 +871,15 @@
 
 
 ### midjourney
-![img_1](how-a-panic-attack-feels/midj-1.png) 
-![img_2](how-a-panic-attack-feels/midj-2.png) 
-![img_3](how-a-panic-attack-feels/midj-3.png) 
-![img_4](how-a-panic-attack-feels/midj-4.png) 
-![img_5](how-a-panic-attack-feels/midj-5.png) 
-![img_6](how-a-panic-attack-feels/midj-6.png) 
-![img_7](how-a-panic-attack-feels/midj-7.png) 
-![img_8](how-a-panic-attack-feels/midj-8.png) 
-![img_9](how-a-panic-attack-feels/midj-9.png) 
+<img width='250px' src="how-a-panic-attack-feels/midj-1.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-2.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-3.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-4.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-5.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-6.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-7.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-8.png" />
+<img width='250px' src="how-a-panic-attack-feels/midj-9.png" /> 
 
 
 ### pixray-vqgan
@@ -960,15 +960,16 @@
 
 
 ### midjourney
-![img_1](it-was-a-dark-and/midj-1.png) 
-![img_2](it-was-a-dark-and/midj-2.png) 
-![img_3](it-was-a-dark-and/midj-3.png) 
-![img_4](it-was-a-dark-and/midj-4.png) 
-![img_5](it-was-a-dark-and/midj-5.png) 
-![img_6](it-was-a-dark-and/midj-6.png) 
-![img_7](it-was-a-dark-and/midj-7.png) 
-![img_8](it-was-a-dark-and/midj-8.png) 
-![img_9](it-was-a-dark-and/midj-9.png) 
+<img width='250px' src="it-was-a-dark-and/midj-1.png" />
+<img width='250px' src="it-was-a-dark-and/midj-2.png" />
+<img width='250px' src="it-was-a-dark-and/midj-3.png" />
+<img width='250px' src="it-was-a-dark-and/midj-4.png" />
+<img width='250px' src="it-was-a-dark-and/midj-5.png" />
+<img width='250px' src="it-was-a-dark-and/midj-6.png" />
+<img width='250px' src="it-was-a-dark-and/midj-7.png" />
+<img width='250px' src="it-was-a-dark-and/midj-8.png" />
+<img width='250px' src="it-was-a-dark-and/midj-9.png" />
+
 
 
 ### pixray-vqgan
@@ -1138,15 +1139,15 @@
 
 
 ### midjourney
-![img_1](noahs-ark-by-jack-kirby/midj-1.png) 
-![img_2](noahs-ark-by-jack-kirby/midj-2.png) 
-![img_3](noahs-ark-by-jack-kirby/midj-3.png) 
-![img_4](noahs-ark-by-jack-kirby/midj-4.png) 
-![img_5](noahs-ark-by-jack-kirby/midj-5.png) 
-![img_6](noahs-ark-by-jack-kirby/midj-6.png) 
-![img_7](noahs-ark-by-jack-kirby/midj-7.png) 
-![img_8](noahs-ark-by-jack-kirby/midj-8.png) 
-![img_9](noahs-ark-by-jack-kirby/midj-9.png) 
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-1.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-2.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-3.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-4.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-5.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-6.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-7.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-8.png" />
+<img width='250px' src="noahs-ark-by-jack-kirby/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -1227,15 +1228,16 @@
 
 
 ### midjourney
-![img_1](noahs-ark-by-picasso/midj-1.png) 
-![img_2](noahs-ark-by-picasso/midj-2.png) 
-![img_3](noahs-ark-by-picasso/midj-3.png) 
-![img_4](noahs-ark-by-picasso/midj-4.png) 
-![img_5](noahs-ark-by-picasso/midj-5.png) 
-![img_6](noahs-ark-by-picasso/midj-6.png) 
-![img_7](noahs-ark-by-picasso/midj-7.png) 
-![img_8](noahs-ark-by-picasso/midj-8.png) 
-![img_9](noahs-ark-by-picasso/midj-9.png) 
+<img width='250px' src="noahs-ark-by-picasso/midj-1.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-2.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-3.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-4.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-5.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-6.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-7.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-8.png" />
+<img width='250px' src="noahs-ark-by-picasso/midj-9.png" />
+
 
 
 ### pixray-vqgan
@@ -1494,15 +1496,15 @@
 
 
 ### midjourney
-![img_1](of-mick-jagger-eating/midj-1.png) 
-![img_2](of-mick-jagger-eating/midj-2.png) 
-![img_3](of-mick-jagger-eating/midj-3.png) 
-![img_4](of-mick-jagger-eating/midj-4.png) 
-![img_5](of-mick-jagger-eating/midj-5.png) 
-![img_6](of-mick-jagger-eating/midj-6.png) 
-![img_7](of-mick-jagger-eating/midj-7.png) 
-![img_8](of-mick-jagger-eating/midj-8.png) 
-![img_9](of-mick-jagger-eating/midj-9.png) 
+<img width='250px' src="of-mick-jagger-eating/midj-1.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-2.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-3.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-4.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-5.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-6.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-7.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-8.png" />
+<img width='250px' src="of-mick-jagger-eating/midj-9.png" /> 
 
 
 ### pixray-vqgan
@@ -1583,15 +1585,17 @@
 
 
 ### midjourney
-![img_1](of-a-girl-putting/midj-1.png) 
-![img_2](of-a-girl-putting/midj-2.png) 
-![img_3](of-a-girl-putting/midj-3.png) 
-![img_4](of-a-girl-putting/midj-4.png) 
-![img_5](of-a-girl-putting/midj-5.png) 
-![img_6](of-a-girl-putting/midj-6.png) 
-![img_7](of-a-girl-putting/midj-7.png) 
-![img_8](of-a-girl-putting/midj-8.png) 
-![img_9](of-a-girl-putting/midj-9.png) 
+<img width='250px' src="of-a-girl-putting/midj-1.png" />
+<img width='250px' src="of-a-girl-putting/midj-2.png" />
+<img width='250px' src="of-a-girl-putting/midj-3.png" />
+<img width='250px' src="of-a-girl-putting/midj-4.png" />
+<img width='250px' src="of-a-girl-putting/midj-5.png" />
+<img width='250px' src="of-a-girl-putting/midj-6.png" />
+<img width='250px' src="of-a-girl-putting/midj-7.png" />
+<img width='250px' src="of-a-girl-putting/midj-8.png" />
+<img width='250px' src="of-a-girl-putting/midj-9.png" />
+
+
 
 
 ### pixray-vqgan
@@ -1939,15 +1943,15 @@
 
 
 ### midjourney
-![img_1](octopus-riding-a-skateboard/midj-1.png) 
-![img_2](octopus-riding-a-skateboard/midj-2.png) 
-![img_3](octopus-riding-a-skateboard/midj-3.png) 
-![img_4](octopus-riding-a-skateboard/midj-4.png) 
-![img_5](octopus-riding-a-skateboard/midj-5.png) 
-![img_6](octopus-riding-a-skateboard/midj-6.png) 
-![img_7](octopus-riding-a-skateboard/midj-7.png) 
-![img_8](octopus-riding-a-skateboard/midj-8.png) 
-![img_9](octopus-riding-a-skateboard/midj-9.png) 
+<img width='250px' src="octopus-riding-a-skateboard/midj-1.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-2.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-3.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-4.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-5.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-6.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-7.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-8.png" />
+<img width='250px' src="octopus-riding-a-skateboard/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -2028,15 +2032,15 @@
 
 
 ### midjourney
-![img_1](of-a-panda-riding/midj-1.png) 
-![img_2](of-a-panda-riding/midj-2.png) 
-![img_3](of-a-panda-riding/midj-3.png) 
-![img_4](of-a-panda-riding/midj-4.png) 
-![img_5](of-a-panda-riding/midj-5.png) 
-![img_6](of-a-panda-riding/midj-6.png) 
-![img_7](of-a-panda-riding/midj-7.png) 
-![img_8](of-a-panda-riding/midj-8.png) 
-![img_9](of-a-panda-riding/midj-9.png) 
+<img width='250px' src="of-a-panda-riding/midj-1.png" />
+<img width='250px' src="of-a-panda-riding/midj-2.png" />
+<img width='250px' src="of-a-panda-riding/midj-3.png" />
+<img width='250px' src="of-a-panda-riding/midj-4.png" />
+<img width='250px' src="of-a-panda-riding/midj-5.png" />
+<img width='250px' src="of-a-panda-riding/midj-6.png" />
+<img width='250px' src="of-a-panda-riding/midj-7.png" />
+<img width='250px' src="of-a-panda-riding/midj-8.png" />
+<img width='250px' src="of-a-panda-riding/midj-9.png" />
 
 
 ### pixray-vqgan
@@ -2052,9 +2056,10 @@
 
 
 ### simulacra
-![img_1](of-a-panda-riding/simu-1.png) 
-![img_2](of-a-panda-riding/simu-2.png) 
-![img_3](of-a-panda-riding/simu-3.png) 
+<img width='250px' src="of-a-panda-riding/simu-1.png" />
+<img width='250px' src="of-a-panda-riding/simu-2.png" />
+<img width='250px' src="of-a-panda-riding/simu-3.png" /> 
+
 ![img_4](of-a-panda-riding/simu-4.png) 
 ![img_5](of-a-panda-riding/simu-5.png) 
 ![img_6](of-a-panda-riding/simu-6.png) 
@@ -2117,15 +2122,16 @@
 
 
 ### midjourney
-![img_1](definition-of-beauty/midj-1.png) 
-![img_2](definition-of-beauty/midj-2.png) 
-![img_3](definition-of-beauty/midj-3.png) 
-![img_4](definition-of-beauty/midj-4.png) 
-![img_5](definition-of-beauty/midj-5.png) 
-![img_6](definition-of-beauty/midj-6.png) 
-![img_7](definition-of-beauty/midj-7.png) 
-![img_8](definition-of-beauty/midj-8.png) 
-![img_9](definition-of-beauty/midj-9.png) 
+<img width='250px' src="definition-of-beauty/midj-1.png" />
+<img width='250px' src="definition-of-beauty/midj-2.png" />
+<img width='250px' src="definition-of-beauty/midj-3.png" />
+<img width='250px' src="definition-of-beauty/midj-4.png" />
+<img width='250px' src="definition-of-beauty/midj-5.png" />
+<img width='250px' src="definition-of-beauty/midj-6.png" />
+<img width='250px' src="definition-of-beauty/midj-7.png" />
+<img width='250px' src="definition-of-beauty/midj-8.png" />
+<img width='250px' src="definition-of-beauty/midj-9.png" />
+
 
 
 ### pixray-vqgan
@@ -2141,9 +2147,10 @@
 
 
 ### simulacra
-![img_1](definition-of-beauty/simu-1.png) 
-![img_2](definition-of-beauty/simu-2.png) 
-![img_3](definition-of-beauty/simu-3.png) 
+<img width='250px' src="definition-of-beauty/simu-1.png" />
+<img width='250px' src="definition-of-beauty/simu-2.png" />
+<img width='250px' src="definition-of-beauty/simu-3.png" />
+
 ![img_4](definition-of-beauty/simu-4.png) 
 ![img_5](definition-of-beauty/simu-5.png) 
 ![img_6](definition-of-beauty/simu-6.png) 
