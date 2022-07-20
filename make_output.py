@@ -15,7 +15,7 @@ def add_models(dump):
             dump.line(f'- {algo}')
         else:
             model_url = f'https://replicate.com/{model_path}'
-            dump.line(f'- [{algo}](#{model_url}')
+            dump.line(f'- [{algo}]({model_url}')
 
 
 def add_prompt_list(dump):
