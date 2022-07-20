@@ -10,6 +10,11 @@ class MdPage:
         self.fp.write(text + '\n')
         self.fp.flush()
 
+    # without newline
+    def item(self, text):
+        self.fp.write(text)
+        self.fp.flush()
+
     def plain(self, text):
         '''no p wrapper'''
         self.fp.write(f'{text}\n')

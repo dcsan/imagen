@@ -45,7 +45,7 @@ def create_readme():
                     # image = f'{config["params"]["image_prefix"]}-{count}.png'
                     # dump.line(f'![img_{count}]({fpath}/{image}) ')
                     image_tag = f'<img alt="{link}" src="{image_path}" width="250px" />'
-                    dump.line(image_tag)
+                    dump.item(image_tag)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
                     break
