@@ -13,8 +13,8 @@ def add_prompt_list(dump):
 
 
 def create_readme():
-    max_pix = 3
-    size = 100
+    max_pix = 6
+    size = 150
     filename = f'output-{max_pix}.md'
     dump = MdPage(filename)
     dump.line('# Preview')
