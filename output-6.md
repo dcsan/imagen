@@ -2,13 +2,13 @@
 
 ## Models 
 
-- [glid3](#https://replicate.com/afiaka87/glid-3-xl
-- [disco-diffusion](#https://replicate.com/nightmareai/disco-diffusion
-- [latdif](#https://replicate.com/nicholascelestin/latent-diffusion
-- [dalle-mini](#https://replicate.com/borisdayma/dalle-mini
+- [glid3](https://replicate.com/afiaka87/glid-3-xl
+- [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion
+- [latdif](https://replicate.com/nicholascelestin/latent-diffusion
+- [dalle-mini](https://replicate.com/borisdayma/dalle-mini
 - midjourney
-- [pixray-vqgan](#https://replicate.com/dribnet/pixray-vqgan
-- [simulacra](#https://replicate.com/dribnet/pixray-vqgan
+- [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan
+- [simulacra](https://replicate.com/dribnet/pixray-vqgan
 - openai-dalle-2
 
 ## Prompts
