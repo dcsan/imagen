@@ -21,6 +21,20 @@ configs = [
     },
 
     {
+        'name': 'disco-diffusion',
+        'skip': False,   # dont render
+        'model': {
+            'batch_size': 3,
+            'width': 256,
+            'height': 256,
+            'diffusion_model': '256x256_diffusion_uncond',
+        },
+        'params': {
+            'model_path': 'nightmareai/disco-diffusion',
+            'image_prefix': 'disco'
+        }
+    },
+    {
         'name': 'latdif',
         'skip': True,   # dont render
         'model': {
@@ -63,7 +77,7 @@ configs = [
 
     {
         'name': 'pixray-vqgan',
-        # 'skip': True,   # dont render
+        'skip': False,   # dont render
         'model': {
             'n_predictions': 3,
             'drawer': 'vqgan',

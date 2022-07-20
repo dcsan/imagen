@@ -6,7 +6,20 @@ from utils.presenter.MdPage import MdPage
 from os.path import exists
 
 
+def add_models(dump):
+    dump.line('\n## Models \n')
+    for config in configs:
+        algo = config['name']
+        model_path = config['params'].get('model_path')
+        if model_path is None:
+            dump.line(f'- {algo}')
+        else:
+            model_url = f'https://replicate.com/{model_path}'
+            dump.line(f'- [{algo}](#{model_url}')
+
+
 def add_prompt_list(dump):
+    dump.line('\n## Prompts\n')
     for prompt in lines:
         link = min_dir_name(prompt)
         dump.line(f'1. [{link}](#{link})')
@@ -16,9 +29,10 @@ def create_readme():
     max_pix = 6
     size = 150
     filename = f'output-{max_pix}.md'
+
     dump = MdPage(filename)
     dump.line('# Preview')
-
+    add_models(dump)
     add_prompt_list(dump)
 
     for prompt in lines:

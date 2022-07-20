@@ -1,5 +1,18 @@
-# Preview 
 # Preview
+
+## Models 
+
+- [glid3](#https://replicate.com/afiaka87/glid-3-xl
+- [disco-diffusion](#https://replicate.com/nightmareai/disco-diffusion
+- [latdif](#https://replicate.com/nicholascelestin/latent-diffusion
+- [dalle-mini](#https://replicate.com/borisdayma/dalle-mini
+- midjourney
+- [pixray-vqgan](#https://replicate.com/dribnet/pixray-vqgan
+- [simulacra](#https://replicate.com/dribnet/pixray-vqgan
+- openai-dalle-2
+
+## Prompts 
+
 1. [of-jesus-going-into](#of-jesus-going-into)
 1. [still-of-kermit-the](#still-of-kermit-the)
 1. [invention-for-keeping-everyone](#invention-for-keeping-everyone)
@@ -34,6 +47,11 @@
 glid3
 
 <a href="output/renders/of-jesus-going-into/glid3-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-1.png" width="150px" /></a><a href="output/renders/of-jesus-going-into/glid3-2.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-2.png" width="150px" /></a><a href="output/renders/of-jesus-going-into/glid3-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-3.png" width="150px" /></a><a href="output/renders/of-jesus-going-into/glid3-4.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-4.png" width="150px" /></a><a href="output/renders/of-jesus-going-into/glid3-5.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-5.png" width="150px" /></a><a href="output/renders/of-jesus-going-into/glid3-6.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -71,6 +89,11 @@ glid3
 
 <a href="output/renders/still-of-kermit-the/glid3-1.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-1.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/glid3-2.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-2.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/glid3-3.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-3.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/glid3-4.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-4.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/glid3-5.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-5.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/glid3-6.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/still-of-kermit-the/ldif-1.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-1.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/ldif-2.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-2.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/ldif-3.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-3.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/ldif-4.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-4.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/ldif-5.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-5.png" width="150px" /></a><a href="output/renders/still-of-kermit-the/ldif-6.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/ldif-6.png" width="150px" /></a>
@@ -106,6 +129,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/invention-for-keeping-everyone/glid3-1.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-1.png" width="150px" /></a><a href="output/renders/invention-for-keeping-everyone/glid3-2.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-2.png" width="150px" /></a><a href="output/renders/invention-for-keeping-everyone/glid3-3.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-3.png" width="150px" /></a><a href="output/renders/invention-for-keeping-everyone/glid3-4.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-4.png" width="150px" /></a><a href="output/renders/invention-for-keeping-everyone/glid3-5.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-5.png" width="150px" /></a><a href="output/renders/invention-for-keeping-everyone/glid3-6.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -143,6 +171,11 @@ glid3
 
 <a href="output/renders/octopus-riding-a-skateboard/glid3-1.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-1.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/glid3-2.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-2.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/glid3-3.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-3.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/glid3-4.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-4.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/glid3-5.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-5.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/glid3-6.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/octopus-riding-a-skateboard/ldif-1.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-1.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/ldif-2.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-2.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/ldif-3.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-3.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/ldif-4.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-4.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/ldif-5.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-5.png" width="150px" /></a><a href="output/renders/octopus-riding-a-skateboard/ldif-6.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/ldif-6.png" width="150px" /></a>
@@ -178,6 +211,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/calm-psychedelic/glid3-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-1.png" width="150px" /></a><a href="output/renders/calm-psychedelic/glid3-2.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-2.png" width="150px" /></a><a href="output/renders/calm-psychedelic/glid3-3.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-3.png" width="150px" /></a><a href="output/renders/calm-psychedelic/glid3-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-4.png" width="150px" /></a><a href="output/renders/calm-psychedelic/glid3-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-5.png" width="150px" /></a><a href="output/renders/calm-psychedelic/glid3-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -215,6 +253,11 @@ glid3
 
 <a href="output/renders/cubist-art-create-a-or/glid3-1.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-1.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/glid3-2.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-2.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/glid3-3.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-3.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/glid3-4.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-4.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/glid3-5.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-5.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/glid3-6.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/cubist-art-create-a-or/ldif-1.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-1.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/ldif-2.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-2.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/ldif-3.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-3.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/ldif-4.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-4.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/ldif-5.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-5.png" width="150px" /></a><a href="output/renders/cubist-art-create-a-or/ldif-6.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/ldif-6.png" width="150px" /></a>
@@ -250,6 +293,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/establishing-shot-the-criminals-lair/glid3-1.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-1.png" width="150px" /></a><a href="output/renders/establishing-shot-the-criminals-lair/glid3-2.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-2.png" width="150px" /></a><a href="output/renders/establishing-shot-the-criminals-lair/glid3-3.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-3.png" width="150px" /></a><a href="output/renders/establishing-shot-the-criminals-lair/glid3-4.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-4.png" width="150px" /></a><a href="output/renders/establishing-shot-the-criminals-lair/glid3-5.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-5.png" width="150px" /></a><a href="output/renders/establishing-shot-the-criminals-lair/glid3-6.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -287,6 +335,11 @@ glid3
 
 <a href="output/renders/for-sale-baby-shoes-never/glid3-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-1.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/glid3-2.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-2.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/glid3-3.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-3.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/glid3-4.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-4.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/glid3-5.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-5.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/glid3-6.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/for-sale-baby-shoes-never/ldif-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-1.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/ldif-2.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-2.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/ldif-3.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-3.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/ldif-4.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-4.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/ldif-5.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-5.png" width="150px" /></a><a href="output/renders/for-sale-baby-shoes-never/ldif-6.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/ldif-6.png" width="150px" /></a>
@@ -322,6 +375,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-1.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-1.png" width="150px" /></a><a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-2.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-2.png" width="150px" /></a><a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-3.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-3.png" width="150px" /></a><a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-4.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-4.png" width="150px" /></a><a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-5.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-5.png" width="150px" /></a><a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-6.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -359,6 +417,11 @@ glid3
 
 <a href="output/renders/how-a-panic-attack-feels/glid3-1.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-1.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/glid3-2.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-2.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/glid3-3.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-3.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/glid3-4.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-4.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/glid3-5.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-5.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/glid3-6.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/how-a-panic-attack-feels/ldif-1.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-1.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/ldif-2.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-2.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/ldif-3.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-3.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/ldif-4.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-4.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/ldif-5.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-5.png" width="150px" /></a><a href="output/renders/how-a-panic-attack-feels/ldif-6.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/ldif-6.png" width="150px" /></a>
@@ -394,6 +457,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/it-was-a-dark-and/glid3-1.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-1.png" width="150px" /></a><a href="output/renders/it-was-a-dark-and/glid3-2.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-2.png" width="150px" /></a><a href="output/renders/it-was-a-dark-and/glid3-3.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-3.png" width="150px" /></a><a href="output/renders/it-was-a-dark-and/glid3-4.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-4.png" width="150px" /></a><a href="output/renders/it-was-a-dark-and/glid3-5.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-5.png" width="150px" /></a><a href="output/renders/it-was-a-dark-and/glid3-6.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -431,6 +499,11 @@ glid3
 
 <a href="output/renders/muppets-in-mad-max-fury/glid3-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-1.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/glid3-2.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-2.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/glid3-3.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-3.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/glid3-4.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-4.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/glid3-5.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-5.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/glid3-6.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/muppets-in-mad-max-fury/ldif-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-1.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/ldif-2.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-2.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/ldif-3.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-3.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/ldif-4.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-4.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/ldif-5.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-5.png" width="150px" /></a><a href="output/renders/muppets-in-mad-max-fury/ldif-6.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/ldif-6.png" width="150px" /></a>
@@ -466,6 +539,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-1.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-1.png" width="150px" /></a><a href="output/renders/noahs-ark-by-jack-kirby/glid3-2.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-2.png" width="150px" /></a><a href="output/renders/noahs-ark-by-jack-kirby/glid3-3.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-3.png" width="150px" /></a><a href="output/renders/noahs-ark-by-jack-kirby/glid3-4.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-4.png" width="150px" /></a><a href="output/renders/noahs-ark-by-jack-kirby/glid3-5.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-5.png" width="150px" /></a><a href="output/renders/noahs-ark-by-jack-kirby/glid3-6.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -503,6 +581,11 @@ glid3
 
 <a href="output/renders/noahs-ark-by-picasso/glid3-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-1.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/glid3-2.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-2.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/glid3-3.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-3.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/glid3-4.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-4.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/glid3-5.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-5.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/glid3-6.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/noahs-ark-by-picasso/ldif-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-1.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/ldif-2.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-2.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/ldif-3.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-3.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/ldif-4.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-4.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/ldif-5.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-5.png" width="150px" /></a><a href="output/renders/noahs-ark-by-picasso/ldif-6.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/ldif-6.png" width="150px" /></a>
@@ -538,6 +621,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-1.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-1.png" width="150px" /></a><a href="output/renders/rainbows-and-unicorns-nightmare/glid3-2.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-2.png" width="150px" /></a><a href="output/renders/rainbows-and-unicorns-nightmare/glid3-3.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-3.png" width="150px" /></a><a href="output/renders/rainbows-and-unicorns-nightmare/glid3-4.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-4.png" width="150px" /></a><a href="output/renders/rainbows-and-unicorns-nightmare/glid3-5.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-5.png" width="150px" /></a><a href="output/renders/rainbows-and-unicorns-nightmare/glid3-6.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -575,6 +663,11 @@ glid3
 
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-1.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/glid3-2.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-2.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/glid3-3.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-3.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/glid3-4.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-4.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/glid3-5.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-5.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/glid3-6.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/court-jester-cyberpunk-playing/ldif-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-1.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/ldif-2.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-2.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/ldif-3.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-3.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/ldif-4.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-4.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/ldif-5.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-5.png" width="150px" /></a><a href="output/renders/court-jester-cyberpunk-playing/ldif-6.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/ldif-6.png" width="150px" /></a>
@@ -610,6 +703,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/of-mick-jagger-eating/glid3-1.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-1.png" width="150px" /></a><a href="output/renders/of-mick-jagger-eating/glid3-2.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-2.png" width="150px" /></a><a href="output/renders/of-mick-jagger-eating/glid3-3.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-3.png" width="150px" /></a><a href="output/renders/of-mick-jagger-eating/glid3-4.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-4.png" width="150px" /></a><a href="output/renders/of-mick-jagger-eating/glid3-5.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-5.png" width="150px" /></a><a href="output/renders/of-mick-jagger-eating/glid3-6.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -647,6 +745,11 @@ glid3
 
 <a href="output/renders/of-a-girl-putting/glid3-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-1.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/glid3-2.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-2.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/glid3-3.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-3.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/glid3-4.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-4.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/glid3-5.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-5.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/glid3-6.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/of-a-girl-putting/ldif-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-1.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/ldif-2.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-2.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/ldif-3.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-3.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/ldif-4.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-4.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/ldif-5.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-5.png" width="150px" /></a><a href="output/renders/of-a-girl-putting/ldif-6.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/ldif-6.png" width="150px" /></a>
@@ -682,6 +785,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/of-a-rainy-tokyo/glid3-1.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-1.png" width="150px" /></a><a href="output/renders/of-a-rainy-tokyo/glid3-2.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-2.png" width="150px" /></a><a href="output/renders/of-a-rainy-tokyo/glid3-3.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-3.png" width="150px" /></a><a href="output/renders/of-a-rainy-tokyo/glid3-4.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-4.png" width="150px" /></a><a href="output/renders/of-a-rainy-tokyo/glid3-5.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-5.png" width="150px" /></a><a href="output/renders/of-a-rainy-tokyo/glid3-6.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -719,6 +827,11 @@ glid3
 
 <a href="output/renders/pretty-girl-putting-on/glid3-1.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-1.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/glid3-2.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-2.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/glid3-3.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-3.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/glid3-4.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-4.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/glid3-5.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-5.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/glid3-6.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/pretty-girl-putting-on/ldif-1.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-1.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/ldif-2.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-2.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/ldif-3.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-3.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/ldif-4.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-4.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/ldif-5.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-5.png" width="150px" /></a><a href="output/renders/pretty-girl-putting-on/ldif-6.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/ldif-6.png" width="150px" /></a>
@@ -754,6 +867,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/realistic-beautiful-woman-night/glid3-1.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-1.png" width="150px" /></a><a href="output/renders/realistic-beautiful-woman-night/glid3-2.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-2.png" width="150px" /></a><a href="output/renders/realistic-beautiful-woman-night/glid3-3.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-3.png" width="150px" /></a><a href="output/renders/realistic-beautiful-woman-night/glid3-4.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-4.png" width="150px" /></a><a href="output/renders/realistic-beautiful-woman-night/glid3-5.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-5.png" width="150px" /></a><a href="output/renders/realistic-beautiful-woman-night/glid3-6.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -791,6 +909,11 @@ glid3
 
 <a href="output/renders/of-a-panda-riding/glid3-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-1.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/glid3-2.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-2.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/glid3-3.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-3.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/glid3-4.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-4.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/glid3-5.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-5.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/glid3-6.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/of-a-panda-riding/ldif-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-1.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/ldif-2.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-2.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/ldif-3.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-3.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/ldif-4.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-4.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/ldif-5.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-5.png" width="150px" /></a><a href="output/renders/of-a-panda-riding/ldif-6.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/ldif-6.png" width="150px" /></a>
@@ -826,6 +949,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/definition-of-beauty/glid3-1.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-1.png" width="150px" /></a><a href="output/renders/definition-of-beauty/glid3-2.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-2.png" width="150px" /></a><a href="output/renders/definition-of-beauty/glid3-3.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-3.png" width="150px" /></a><a href="output/renders/definition-of-beauty/glid3-4.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-4.png" width="150px" /></a><a href="output/renders/definition-of-beauty/glid3-5.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-5.png" width="150px" /></a><a href="output/renders/definition-of-beauty/glid3-6.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
@@ -863,6 +991,11 @@ glid3
 
 <a href="output/renders/time-travelers/glid3-1.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-1.png" width="150px" /></a><a href="output/renders/time-travelers/glid3-2.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-2.png" width="150px" /></a><a href="output/renders/time-travelers/glid3-3.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-3.png" width="150px" /></a><a href="output/renders/time-travelers/glid3-4.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-4.png" width="150px" /></a><a href="output/renders/time-travelers/glid3-5.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-5.png" width="150px" /></a><a href="output/renders/time-travelers/glid3-6.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-6.png" width="150px" /></a>
 
+disco-diffusion
+
+(nothing)
+
+
 latdif
 
 <a href="output/renders/time-travelers/ldif-1.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-1.png" width="150px" /></a><a href="output/renders/time-travelers/ldif-2.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-2.png" width="150px" /></a><a href="output/renders/time-travelers/ldif-3.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-3.png" width="150px" /></a><a href="output/renders/time-travelers/ldif-4.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-4.png" width="150px" /></a><a href="output/renders/time-travelers/ldif-5.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-5.png" width="150px" /></a><a href="output/renders/time-travelers/ldif-6.png"><img alt="time-travelers" src="output/renders/time-travelers/ldif-6.png" width="150px" /></a>
@@ -898,6 +1031,11 @@ openai-dalle-2
 glid3
 
 <a href="output/renders/two-ships-passing-in-the/glid3-1.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-1.png" width="150px" /></a><a href="output/renders/two-ships-passing-in-the/glid3-2.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-2.png" width="150px" /></a><a href="output/renders/two-ships-passing-in-the/glid3-3.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-3.png" width="150px" /></a><a href="output/renders/two-ships-passing-in-the/glid3-4.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-4.png" width="150px" /></a><a href="output/renders/two-ships-passing-in-the/glid3-5.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-5.png" width="150px" /></a><a href="output/renders/two-ships-passing-in-the/glid3-6.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-6.png" width="150px" /></a>
+
+disco-diffusion
+
+(nothing)
+
 
 latdif
 
