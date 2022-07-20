@@ -2,12 +2,12 @@
 
 ## Models 
 
-- [glid3](https://replicate.com/afiaka87/glid-3-xl) https://replicate.com/afiaka87/glid-3-xl
 - [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
+- [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
+- [glid3](https://replicate.com/afiaka87/glid-3-xl) https://replicate.com/afiaka87/glid-3-xl
 - [latdif](https://replicate.com/nicholascelestin/latent-diffusion) https://replicate.com/nicholascelestin/latent-diffusion
 - [dalle-mini](https://replicate.com/borisdayma/dalle-mini) https://replicate.com/borisdayma/dalle-mini
 - midjourney
-- [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - [simulacra](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - openai-dalle-2
 
@@ -44,18 +44,25 @@
 
 
 
+disco-diffusion
+
+<a href="output/renders/of-jesus-going-into/disco-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/of-jesus-going-into/glid3-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-1.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/glid3-2.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-2.png" width="150px" /></a>
 <a href="output/renders/of-jesus-going-into/glid3-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-<a href="output/renders/of-jesus-going-into/disco-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-1.png" width="150px" /></a>
-<a href="output/renders/of-jesus-going-into/disco-2.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-2.png" width="150px" /></a>
-<a href="output/renders/of-jesus-going-into/disco-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/disco-3.png" width="150px" /></a>
 
 
 latdif
@@ -79,13 +86,6 @@ midjourney
 <a href="output/renders/of-jesus-going-into/midj-3.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/of-jesus-going-into/simu-1.png"><img alt="of-jesus-going-into" src="output/renders/of-jesus-going-into/simu-1.png" width="150px" /></a>
@@ -104,18 +104,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/still-of-kermit-the/disco-1.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/still-of-kermit-the/glid3-1.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-1.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/glid3-2.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-2.png" width="150px" /></a>
 <a href="output/renders/still-of-kermit-the/glid3-3.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -139,13 +146,6 @@ midjourney
 <a href="output/renders/still-of-kermit-the/midj-3.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/still-of-kermit-the/simu-1.png"><img alt="still-of-kermit-the" src="output/renders/still-of-kermit-the/simu-1.png" width="150px" /></a>
@@ -164,18 +164,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/invention-for-keeping-everyone/disco-1.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/invention-for-keeping-everyone/glid3-1.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-1.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/glid3-2.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-2.png" width="150px" /></a>
 <a href="output/renders/invention-for-keeping-everyone/glid3-3.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -199,13 +206,6 @@ midjourney
 <a href="output/renders/invention-for-keeping-everyone/midj-3.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/invention-for-keeping-everyone/simu-1.png"><img alt="invention-for-keeping-everyone" src="output/renders/invention-for-keeping-everyone/simu-1.png" width="150px" /></a>
@@ -224,18 +224,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/octopus-riding-a-skateboard/disco-1.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/octopus-riding-a-skateboard/glid3-1.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-1.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/glid3-2.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-2.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-a-skateboard/glid3-3.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -259,13 +266,6 @@ midjourney
 <a href="output/renders/octopus-riding-a-skateboard/midj-3.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/octopus-riding-a-skateboard/simu-1.png"><img alt="octopus-riding-a-skateboard" src="output/renders/octopus-riding-a-skateboard/simu-1.png" width="150px" /></a>
@@ -284,18 +284,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/calm-psychedelic/disco-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/calm-psychedelic/glid3-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-1.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/glid3-2.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-2.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic/glid3-3.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -319,13 +326,6 @@ midjourney
 <a href="output/renders/calm-psychedelic/midj-3.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/calm-psychedelic/simu-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/simu-1.png" width="150px" /></a>
@@ -344,18 +344,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/cubist-art-create-a-or/disco-1.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/cubist-art-create-a-or/glid3-1.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-1.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/glid3-2.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-2.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-a-or/glid3-3.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -379,13 +386,6 @@ midjourney
 <a href="output/renders/cubist-art-create-a-or/midj-3.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/cubist-art-create-a-or/simu-1.png"><img alt="cubist-art-create-a-or" src="output/renders/cubist-art-create-a-or/simu-1.png" width="150px" /></a>
@@ -404,18 +404,25 @@ openai-dalle-2
 
 
 
-glid3
-
-<a href="output/renders/establishing-shot-the-criminals-lair/glid3-1.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-1.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-the-criminals-lair/glid3-2.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-2.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-the-criminals-lair/glid3-3.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-3.png" width="150px" /></a>
-
-
 disco-diffusion
 
 [X]
 [X]
 [X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
+glid3
+
+<a href="output/renders/establishing-shot-the-criminals-lair/glid3-1.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-1.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/glid3-2.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-2.png" width="150px" /></a>
+<a href="output/renders/establishing-shot-the-criminals-lair/glid3-3.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/glid3-3.png" width="150px" /></a>
 
 
 latdif
@@ -439,13 +446,6 @@ midjourney
 <a href="output/renders/establishing-shot-the-criminals-lair/midj-3.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/establishing-shot-the-criminals-lair/simu-1.png"><img alt="establishing-shot-the-criminals-lair" src="output/renders/establishing-shot-the-criminals-lair/simu-1.png" width="150px" /></a>
@@ -460,8 +460,22 @@ openai-dalle-2
 [X]
 
 ## for-sale-baby-shoes-never 
-> [For sale baby shoes, never worn    ]
+> [For sale baby shoes, never worn]
 
+
+
+disco-diffusion
+
+<a href="output/renders/for-sale-baby-shoes-never/disco-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
 
 
 glid3
@@ -469,13 +483,6 @@ glid3
 <a href="output/renders/for-sale-baby-shoes-never/glid3-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-1.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/glid3-2.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-2.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/glid3-3.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -496,14 +503,7 @@ midjourney
 
 <a href="output/renders/for-sale-baby-shoes-never/midj-1.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/midj-1.png" width="150px" /></a>
 <a href="output/renders/for-sale-baby-shoes-never/midj-2.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/for-sale-baby-shoes-never/midj-3.png"><img alt="for-sale-baby-shoes-never" src="output/renders/for-sale-baby-shoes-never/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -524,18 +524,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/ghostbusters-inside-a-glass-jar/disco-1.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-1.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-1.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-2.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-2.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/glid3-3.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -556,14 +563,7 @@ midjourney
 
 <a href="output/renders/ghostbusters-inside-a-glass-jar/midj-1.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/midj-1.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-a-glass-jar/midj-2.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/ghostbusters-inside-a-glass-jar/midj-3.png"><img alt="ghostbusters-inside-a-glass-jar" src="output/renders/ghostbusters-inside-a-glass-jar/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -584,18 +584,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/how-a-panic-attack-feels/disco-1.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/how-a-panic-attack-feels/glid3-1.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-1.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/glid3-2.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-2.png" width="150px" /></a>
 <a href="output/renders/how-a-panic-attack-feels/glid3-3.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -619,13 +626,6 @@ midjourney
 <a href="output/renders/how-a-panic-attack-feels/midj-3.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/how-a-panic-attack-feels/simu-1.png"><img alt="how-a-panic-attack-feels" src="output/renders/how-a-panic-attack-feels/simu-1.png" width="150px" /></a>
@@ -644,18 +644,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/it-was-a-dark-and/disco-1.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/it-was-a-dark-and/glid3-1.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-1.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/glid3-2.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-2.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/glid3-3.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -676,14 +683,7 @@ midjourney
 
 <a href="output/renders/it-was-a-dark-and/midj-1.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/midj-1.png" width="150px" /></a>
 <a href="output/renders/it-was-a-dark-and/midj-2.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/it-was-a-dark-and/midj-3.png"><img alt="it-was-a-dark-and" src="output/renders/it-was-a-dark-and/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -704,18 +704,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/muppets-in-mad-max-fury/disco-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/muppets-in-mad-max-fury/glid3-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-1.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/glid3-2.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-2.png" width="150px" /></a>
 <a href="output/renders/muppets-in-mad-max-fury/glid3-3.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -739,13 +746,6 @@ midjourney
 <a href="output/renders/muppets-in-mad-max-fury/midj-3.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/muppets-in-mad-max-fury/simu-1.png"><img alt="muppets-in-mad-max-fury" src="output/renders/muppets-in-mad-max-fury/simu-1.png" width="150px" /></a>
@@ -764,18 +764,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/noahs-ark-by-jack-kirby/disco-1.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-1.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-1.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-2.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-2.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/glid3-3.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -796,14 +803,7 @@ midjourney
 
 <a href="output/renders/noahs-ark-by-jack-kirby/midj-1.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/midj-1.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-jack-kirby/midj-2.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/noahs-ark-by-jack-kirby/midj-3.png"><img alt="noahs-ark-by-jack-kirby" src="output/renders/noahs-ark-by-jack-kirby/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -824,18 +824,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/noahs-ark-by-picasso/disco-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/noahs-ark-by-picasso/glid3-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-1.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/glid3-2.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-2.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/glid3-3.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -856,14 +863,7 @@ midjourney
 
 <a href="output/renders/noahs-ark-by-picasso/midj-1.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/midj-1.png" width="150px" /></a>
 <a href="output/renders/noahs-ark-by-picasso/midj-2.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/noahs-ark-by-picasso/midj-3.png"><img alt="noahs-ark-by-picasso" src="output/renders/noahs-ark-by-picasso/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -884,18 +884,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/rainbows-and-unicorns-nightmare/disco-1.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-1.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-1.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-2.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-2.png" width="150px" /></a>
 <a href="output/renders/rainbows-and-unicorns-nightmare/glid3-3.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -914,16 +921,9 @@ dalle-mini
 
 midjourney
 
-[X]
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/rainbows-and-unicorns-nightmare/midj-1.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/midj-1.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/midj-2.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/midj-2.png" width="150px" /></a>
+<a href="output/renders/rainbows-and-unicorns-nightmare/midj-3.png"><img alt="rainbows-and-unicorns-nightmare" src="output/renders/rainbows-and-unicorns-nightmare/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -944,18 +944,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/court-jester-cyberpunk-playing/disco-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-1.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-2.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-2.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/glid3-3.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -976,14 +983,7 @@ midjourney
 
 <a href="output/renders/court-jester-cyberpunk-playing/midj-1.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/midj-1.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing/midj-2.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/court-jester-cyberpunk-playing/midj-3.png"><img alt="court-jester-cyberpunk-playing" src="output/renders/court-jester-cyberpunk-playing/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1004,18 +1004,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/of-mick-jagger-eating/disco-1.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/of-mick-jagger-eating/glid3-1.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-1.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/glid3-2.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-2.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/glid3-3.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1036,14 +1043,7 @@ midjourney
 
 <a href="output/renders/of-mick-jagger-eating/midj-1.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/midj-1.png" width="150px" /></a>
 <a href="output/renders/of-mick-jagger-eating/midj-2.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/midj-2.png" width="150px" /></a>
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/of-mick-jagger-eating/midj-3.png"><img alt="of-mick-jagger-eating" src="output/renders/of-mick-jagger-eating/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1064,18 +1064,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/of-a-girl-putting/disco-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/of-a-girl-putting/glid3-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-1.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/glid3-2.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-2.png" width="150px" /></a>
 <a href="output/renders/of-a-girl-putting/glid3-3.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1099,13 +1106,6 @@ midjourney
 <a href="output/renders/of-a-girl-putting/midj-3.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/of-a-girl-putting/simu-1.png"><img alt="of-a-girl-putting" src="output/renders/of-a-girl-putting/simu-1.png" width="150px" /></a>
@@ -1124,18 +1124,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/of-a-rainy-tokyo/disco-1.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/of-a-rainy-tokyo/glid3-1.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-1.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/glid3-2.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-2.png" width="150px" /></a>
 <a href="output/renders/of-a-rainy-tokyo/glid3-3.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1155,15 +1162,8 @@ dalle-mini
 midjourney
 
 <a href="output/renders/of-a-rainy-tokyo/midj-1.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/midj-1.png" width="150px" /></a>
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/of-a-rainy-tokyo/midj-2.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/midj-2.png" width="150px" /></a>
+<a href="output/renders/of-a-rainy-tokyo/midj-3.png"><img alt="of-a-rainy-tokyo" src="output/renders/of-a-rainy-tokyo/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1184,18 +1184,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/pretty-girl-putting-on/disco-1.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/pretty-girl-putting-on/glid3-1.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-1.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/glid3-2.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-2.png" width="150px" /></a>
 <a href="output/renders/pretty-girl-putting-on/glid3-3.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1214,16 +1221,9 @@ dalle-mini
 
 midjourney
 
-[X]
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/pretty-girl-putting-on/midj-1.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/midj-1.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/midj-2.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/midj-2.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-on/midj-3.png"><img alt="pretty-girl-putting-on" src="output/renders/pretty-girl-putting-on/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1244,18 +1244,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/realistic-beautiful-woman-night/disco-1.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/realistic-beautiful-woman-night/glid3-1.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-1.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/glid3-2.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-2.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night/glid3-3.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1275,15 +1282,8 @@ dalle-mini
 midjourney
 
 <a href="output/renders/realistic-beautiful-woman-night/midj-1.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/midj-1.png" width="150px" /></a>
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/realistic-beautiful-woman-night/midj-2.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/midj-2.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night/midj-3.png"><img alt="realistic-beautiful-woman-night" src="output/renders/realistic-beautiful-woman-night/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1304,18 +1304,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/of-a-panda-riding/disco-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/of-a-panda-riding/glid3-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-1.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/glid3-2.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-2.png" width="150px" /></a>
 <a href="output/renders/of-a-panda-riding/glid3-3.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1339,13 +1346,6 @@ midjourney
 <a href="output/renders/of-a-panda-riding/midj-3.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/midj-3.png" width="150px" /></a>
 
 
-pixray-vqgan
-
-[X]
-[X]
-[X]
-
-
 simulacra
 
 <a href="output/renders/of-a-panda-riding/simu-1.png"><img alt="of-a-panda-riding" src="output/renders/of-a-panda-riding/simu-1.png" width="150px" /></a>
@@ -1364,18 +1364,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/definition-of-beauty/disco-1.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/definition-of-beauty/glid3-1.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-1.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/glid3-2.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-2.png" width="150px" /></a>
 <a href="output/renders/definition-of-beauty/glid3-3.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1394,16 +1401,9 @@ dalle-mini
 
 midjourney
 
-[X]
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/definition-of-beauty/midj-1.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/midj-1.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/midj-2.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/midj-2.png" width="150px" /></a>
+<a href="output/renders/definition-of-beauty/midj-3.png"><img alt="definition-of-beauty" src="output/renders/definition-of-beauty/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1424,18 +1424,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/time-travelers/disco-1.png"><img alt="time-travelers" src="output/renders/time-travelers/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/time-travelers/glid3-1.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-1.png" width="150px" /></a>
 <a href="output/renders/time-travelers/glid3-2.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-2.png" width="150px" /></a>
 <a href="output/renders/time-travelers/glid3-3.png"><img alt="time-travelers" src="output/renders/time-travelers/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1455,15 +1462,8 @@ dalle-mini
 midjourney
 
 <a href="output/renders/time-travelers/midj-1.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-1.png" width="150px" /></a>
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/time-travelers/midj-2.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-2.png" width="150px" /></a>
+<a href="output/renders/time-travelers/midj-3.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-3.png" width="150px" /></a>
 
 
 simulacra
@@ -1484,18 +1484,25 @@ openai-dalle-2
 
 
 
+disco-diffusion
+
+<a href="output/renders/two-ships-passing-in-the/disco-1.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/disco-1.png" width="150px" /></a>
+[X]
+[X]
+
+
+pixray-vqgan
+
+[X]
+[X]
+[X]
+
+
 glid3
 
 <a href="output/renders/two-ships-passing-in-the/glid3-1.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-1.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/glid3-2.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-2.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-in-the/glid3-3.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/glid3-3.png" width="150px" /></a>
-
-
-disco-diffusion
-
-[X]
-[X]
-[X]
 
 
 latdif
@@ -1515,15 +1522,8 @@ dalle-mini
 midjourney
 
 <a href="output/renders/two-ships-passing-in-the/midj-1.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/midj-1.png" width="150px" /></a>
-[X]
-[X]
-
-
-pixray-vqgan
-
-[X]
-[X]
-[X]
+<a href="output/renders/two-ships-passing-in-the/midj-2.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/midj-2.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-in-the/midj-3.png"><img alt="two-ships-passing-in-the" src="output/renders/two-ships-passing-in-the/midj-3.png" width="150px" /></a>
 
 
 simulacra
