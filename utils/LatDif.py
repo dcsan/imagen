@@ -13,10 +13,8 @@ verbose = False
 
 
 def single(prompt, config, retries=0):
-    if config.get('skip'):
-        print('skipping', prompt, config.get('name'))
-        return
 
+    start = time.time()
     if render_exists(prompt, config):
         print('render exists', prompt, config.get('name'))
         return
@@ -28,6 +26,7 @@ def single(prompt, config, retries=0):
         prediction = make_prediction(prompt, config)
         print('dumping', prompt)
         dump_images(prediction, prompt, config)
+        print('done duration', time.time() - start)
     except Exception as e:
         print('exception: on prompt:', prompt)
         print('exception: ', get_traceback(e))

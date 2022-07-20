@@ -7,7 +7,7 @@ lines = [
     "Calm, psychedelic",
     "Cubist Art, create a painting or sculpture that is abstract and geometric in style. The work should be composed of basic shapes and have aflat, two-dimensional appearance. The colors should be bold and primary colors.",
     "Establishing shot: the criminal's lair, laid deep in the mountains, shot from above from a helicopter. bats are flying out of the windows. dark and foggy background. dusky sky approaching sunset",
-    "For sale baby shoes, never worn    ",
+    "For sale baby shoes, never worn",
     "Ghostbusters inside a glass jar, insanely detailed, epic lighting, cinematic composition, hyperrealistic, 8k render",
     "How a panic attack feels",
     "It was a dark and stormy night",

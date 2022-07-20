@@ -14,10 +14,15 @@ def main():
         print('\n\n------ prompt:', prompt)
 
         for config in configs:
-            print('config:')
-            pp(config)
+            if config.get('skip'):
+                print('skipping', prompt, config.get('name'))
+                continue
+
+            print('\n---- name:', config.get('name'))
+            print('\n---- config:', config)
             min_dir_name(prompt)
             single(prompt, config)
+            pp(config)
             print('\n')
         print('\n')
 
