@@ -30,6 +30,9 @@ various = [
     'The definition of beauty',
     'Time travelers',
     'Two ships passing in the night',
+    'psychedelic broccoli mushroom cloud rainbow spectrum',
+    'Shanghai Jingan temple in the year 2064 Cyberpunk style, raining, trending on artstation, thunderstorm and lightning',
+    'The statue of liberty made of gold reflecting on the water raining frogs, cyberpunk style fantasy book cover by Dave Mckean'
 ]
 
 

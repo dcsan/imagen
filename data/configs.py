@@ -14,7 +14,7 @@ configs = [
         'skip': True,   # dont render
         'params': {
             'model_path': None,
-            'image_prefix': 'stabAIv01'
+            'image_prefix': 'stabv1'
         }
     },
 
