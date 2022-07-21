@@ -1,14 +1,20 @@
 # imagen
-image generator
+image generator using various Text2Image models
 
-using replicate API
+The goal is to compare across a range of different prompt types:
+- made up - 'panda riding a bicycle'
+- artistic - detailed prompts with styles
+- concepts - 'how does a panic attack feel'
+- style transfer - xx in style of Warhol
+- photos, drawings, illustrations, diagrams
+- other types of imaginative prompts
+
+Often using replicate API
 https://replicate.com/docs/api/getting-started-public
 
-# Models:
-various text2image modeals
-
--  Pixray
-https://replicate.com/pixray/text2image
+- See list of models in [data/configs.py](./data/configs.py)
+- Renders get saved into [output/renders](./output/renders)
+- Markdown gallery like [this one](./gallery-3.md)
 
 # Setup
 
