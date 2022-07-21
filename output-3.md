@@ -1,6 +1,6 @@
 # Preview
 
-## Models 
+## Models
 
 - [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
 - [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
@@ -13,35 +13,38 @@
 
 ## Prompts
 
-1. [jesus-going-into-nightclub-flash](#jesus-going-into-nightclub-flash)
-1. [kermit-frog-mad-max-fury](#kermit-frog-mad-max-fury)
-1. [invention-keeping-everyone-happy](#invention-keeping-everyone-happy)
-1. [octopus-riding-skateboard](#octopus-riding-skateboard)
-1. [calm-psychedelic](#calm-psychedelic)
-1. [cubist-art-create-sculpture-abstract](#cubist-art-create-sculpture-abstract)
-1. [aerial-criminals-lair-deep-mountains](#aerial-criminals-lair-deep-mountains)
-1. [sale-baby-shoes-never-worn](#sale-baby-shoes-never-worn)
-1. [ghostbusters-inside-glass-jar-epic](#ghostbusters-inside-glass-jar-epic)
-1. [how-panic-attack-feels](#how-panic-attack-feels)
-1. [it-was-dark-stormy-night](#it-was-dark-stormy-night)
-1. [muppets-mad-max-fury-road](#muppets-mad-max-fury-road)
-1. [noahs-ark-jack-kirby](#noahs-ark-jack-kirby)
-1. [noahs-ark-picasso](#noahs-ark-picasso)
-1. [rainbows-unicorns-nightmare](#rainbows-unicorns-nightmare)
-1. [court-jester-cyberpunk-playing-card](#court-jester-cyberpunk-playing-card)
-1. [huge-octopus-climbing-up-empire](#huge-octopus-climbing-up-empire)
-1. [new-type-fish-discovered-deepest](#new-type-fish-discovered-deepest)
-1. [mick-jagger-eating-hamburger-national](#mick-jagger-eating-hamburger-national)
-1. [girl-putting-make-up-mirror](#girl-putting-make-up-mirror)
-1. [rainy-tokyo-street-scene-night](#rainy-tokyo-street-scene-night)
-1. [pretty-girl-putting-makeup](#pretty-girl-putting-makeup)
-1. [realistic-beautiful-woman-night-time](#realistic-beautiful-woman-night-time)
-1. [panda-riding-bicycle](#panda-riding-bicycle)
-1. [definition-beauty](#definition-beauty)
-1. [time-travelers](#time-travelers)
-1. [two-ships-passing-night](#two-ships-passing-night)
+- [Preview](#preview)
+  - [Models](#models)
+  - [Prompts](#prompts)
+  - [jesus-going-into-nightclub-flash](#jesus-going-into-nightclub-flash)
+  - [kermit-frog-mad-max-fury](#kermit-frog-mad-max-fury)
+  - [invention-keeping-everyone-happy](#invention-keeping-everyone-happy)
+  - [octopus-riding-skateboard](#octopus-riding-skateboard)
+  - [calm-psychedelic](#calm-psychedelic)
+  - [cubist-art-create-sculpture-abstract](#cubist-art-create-sculpture-abstract)
+  - [aerial-criminals-lair-deep-mountains](#aerial-criminals-lair-deep-mountains)
+  - [sale-baby-shoes-never-worn](#sale-baby-shoes-never-worn)
+  - [ghostbusters-inside-glass-jar-epic](#ghostbusters-inside-glass-jar-epic)
+  - [how-panic-attack-feels](#how-panic-attack-feels)
+  - [it-was-dark-stormy-night](#it-was-dark-stormy-night)
+  - [muppets-mad-max-fury-road](#muppets-mad-max-fury-road)
+  - [noahs-ark-jack-kirby](#noahs-ark-jack-kirby)
+  - [noahs-ark-picasso](#noahs-ark-picasso)
+  - [rainbows-unicorns-nightmare](#rainbows-unicorns-nightmare)
+  - [court-jester-cyberpunk-playing-card](#court-jester-cyberpunk-playing-card)
+  - [huge-octopus-climbing-up-empire](#huge-octopus-climbing-up-empire)
+  - [new-type-fish-discovered-deepest](#new-type-fish-discovered-deepest)
+  - [mick-jagger-eating-hamburger-national](#mick-jagger-eating-hamburger-national)
+  - [girl-putting-make-up-mirror](#girl-putting-make-up-mirror)
+  - [rainy-tokyo-street-scene-night](#rainy-tokyo-street-scene-night)
+  - [pretty-girl-putting-makeup](#pretty-girl-putting-makeup)
+  - [realistic-beautiful-woman-night-time](#realistic-beautiful-woman-night-time)
+  - [panda-riding-bicycle](#panda-riding-bicycle)
+  - [definition-beauty](#definition-beauty)
+  - [time-travelers](#time-travelers)
+  - [two-ships-passing-night](#two-ships-passing-night)
 
-## jesus-going-into-nightclub-flash 
+## jesus-going-into-nightclub-flash
 > [A paparazzi photograph of Jesus going into a nightclub. Flash photography, blurred people]
 
 
@@ -101,7 +104,7 @@ openai-dalle-2
 [X]
 [X]
 
-## kermit-frog-mad-max-fury 
+## kermit-frog-mad-max-fury
 > [A still of Kermit the Frog in Mad Max Fury Road]
 
 
@@ -161,7 +164,7 @@ openai-dalle-2
 [X]
 [X]
 
-## invention-keeping-everyone-happy 
+## invention-keeping-everyone-happy
 > [An invention for keeping everyone happy]
 
 
@@ -221,7 +224,7 @@ openai-dalle-2
 [X]
 [X]
 
-## octopus-riding-skateboard 
+## octopus-riding-skateboard
 > [An octopus riding a skateboard]
 
 
@@ -281,7 +284,7 @@ openai-dalle-2
 [X]
 [X]
 
-## calm-psychedelic 
+## calm-psychedelic
 > [Calm, psychedelic]
 
 
@@ -341,7 +344,7 @@ openai-dalle-2
 [X]
 [X]
 
-## cubist-art-create-sculpture-abstract 
+## cubist-art-create-sculpture-abstract
 > [Cubist Art, create a painting or sculpture that is abstract and geometric in style. The work should be composed of basic shapes and have aflat, two-dimensional appearance. The colors should be bold and primary colors.]
 
 
@@ -401,7 +404,7 @@ openai-dalle-2
 [X]
 [X]
 
-## aerial-criminals-lair-deep-mountains 
+## aerial-criminals-lair-deep-mountains
 > [Aerial shot of the criminal's lair deep in the mountains. Bats are flying out of the windows. Dark and foggy background. Dusky sky approaching sunset]
 
 
@@ -461,7 +464,7 @@ openai-dalle-2
 [X]
 [X]
 
-## sale-baby-shoes-never-worn 
+## sale-baby-shoes-never-worn
 > [For sale baby shoes, never worn]
 
 
@@ -521,7 +524,7 @@ openai-dalle-2
 [X]
 [X]
 
-## ghostbusters-inside-glass-jar-epic 
+## ghostbusters-inside-glass-jar-epic
 > [Ghostbusters inside a glass jar, insanely detailed, epic lighting, cinematic composition, hyperrealistic, 8k render]
 
 
@@ -581,7 +584,7 @@ openai-dalle-2
 [X]
 [X]
 
-## how-panic-attack-feels 
+## how-panic-attack-feels
 > [How a panic attack feels]
 
 
@@ -641,7 +644,7 @@ openai-dalle-2
 [X]
 [X]
 
-## it-was-dark-stormy-night 
+## it-was-dark-stormy-night
 > [It was a dark and stormy night]
 
 
@@ -701,7 +704,7 @@ openai-dalle-2
 [X]
 [X]
 
-## muppets-mad-max-fury-road 
+## muppets-mad-max-fury-road
 > [Muppets in Mad Max Fury Road]
 
 
@@ -761,7 +764,7 @@ openai-dalle-2
 [X]
 [X]
 
-## noahs-ark-jack-kirby 
+## noahs-ark-jack-kirby
 > [Noah's ark painting by Jack Kirby]
 
 
@@ -821,7 +824,7 @@ openai-dalle-2
 [X]
 [X]
 
-## noahs-ark-picasso 
+## noahs-ark-picasso
 > [Noah's ark painting by Picasso]
 
 
@@ -881,7 +884,7 @@ openai-dalle-2
 [X]
 [X]
 
-## rainbows-unicorns-nightmare 
+## rainbows-unicorns-nightmare
 > [Rainbows and unicorns nightmare]
 
 
@@ -941,7 +944,7 @@ openai-dalle-2
 [X]
 [X]
 
-## court-jester-cyberpunk-playing-card 
+## court-jester-cyberpunk-playing-card
 > [The court jester cyberpunk playing card illustration]
 
 
@@ -1001,7 +1004,7 @@ openai-dalle-2
 [X]
 [X]
 
-## huge-octopus-climbing-up-empire 
+## huge-octopus-climbing-up-empire
 > [A huge octopus climbing up the Empire State building]
 
 
@@ -1061,7 +1064,7 @@ openai-dalle-2
 [X]
 [X]
 
-## new-type-fish-discovered-deepest 
+## new-type-fish-discovered-deepest
 > [A new type of fish discovered in the deepest darkest sea, neon lighting vivid saturated palette]
 
 
@@ -1121,7 +1124,7 @@ openai-dalle-2
 [X]
 [X]
 
-## mick-jagger-eating-hamburger-national 
+## mick-jagger-eating-hamburger-national
 > [A color paparazzi photo of Mick Jagger eating a hamburger national inquirer cover]
 
 
@@ -1181,7 +1184,7 @@ openai-dalle-2
 [X]
 [X]
 
-## girl-putting-make-up-mirror 
+## girl-putting-make-up-mirror
 > [A high resolution photo of a girl putting make up on in the mirror looking at herself]
 
 
@@ -1241,7 +1244,7 @@ openai-dalle-2
 [X]
 [X]
 
-## rainy-tokyo-street-scene-night 
+## rainy-tokyo-street-scene-night
 > [A high resolution photo of a rainy Tokyo street scene at night with lots of neon lights reflections]
 
 
@@ -1301,7 +1304,7 @@ openai-dalle-2
 [X]
 [X]
 
-## pretty-girl-putting-makeup 
+## pretty-girl-putting-makeup
 > [A pretty girl putting on makeup]
 
 
@@ -1361,7 +1364,7 @@ openai-dalle-2
 [X]
 [X]
 
-## realistic-beautiful-woman-night-time 
+## realistic-beautiful-woman-night-time
 > [A realistic beautiful woman, night time, wavy hairstyle, white hair, character concept art, created by Ross Tran, intricate accurate details, artstation trending, octane render, cinematic color grading, muted colors, soft light, cinematic, 8K]
 
 
@@ -1421,7 +1424,7 @@ openai-dalle-2
 [X]
 [X]
 
-## panda-riding-bicycle 
+## panda-riding-bicycle
 > [Photograph of a panda riding a bicycle]
 
 
@@ -1481,7 +1484,7 @@ openai-dalle-2
 [X]
 [X]
 
-## definition-beauty 
+## definition-beauty
 > [The definition of beauty]
 
 
@@ -1541,7 +1544,7 @@ openai-dalle-2
 [X]
 [X]
 
-## time-travelers 
+## time-travelers
 > [Time travelers]
 
 
@@ -1601,7 +1604,7 @@ openai-dalle-2
 [X]
 [X]
 
-## two-ships-passing-night 
+## two-ships-passing-night
 > [Two ships passing in the night]
 
 
