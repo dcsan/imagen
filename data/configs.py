@@ -77,7 +77,7 @@ configs = [
 
     {
         'name': 'disco-diffusion',
-        'skip': True,   # dont render
+        'skip': False,   # dont render
         'model': {
             'batch_size': 5,
             'width': 256,

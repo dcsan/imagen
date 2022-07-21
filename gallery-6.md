@@ -1705,8 +1705,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png" width="150px" /></a>
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png" width="150px" /></a>
+1
+2
 <a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png" width="150px" /></a>
 4
 5
@@ -2081,8 +2081,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png" width="150px" /></a>
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png" width="150px" /></a>
+1
+2
 <a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png" width="150px" /></a>
 4
 5
@@ -2269,9 +2269,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png" width="150px" /></a>
+1
 2
-3
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png" width="150px" /></a>
 4
 5
 6
