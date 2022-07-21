@@ -50,7 +50,7 @@ def create_output(max_pix=3):
         for config in configs:
             algo = config['name']
             dump.line('\n')
-            dump.span(algo, size=size, pad=12)
+            dump.span(algo, size=size, pad=15)
 
             # algo
             # dump.line(f'\n\n{algo}\n')
@@ -69,7 +69,8 @@ def create_output(max_pix=3):
                     dump.line(image_link)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
-                    dump.span(count, size=size)
+                    # dump.span(count, size=size)
+                    dump.line(count)
                     # break
 
     dump.close()
