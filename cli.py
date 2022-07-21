@@ -15,5 +15,5 @@ def make_output():
     create_output(taskname, lines=various, max_pix=9)
 
 
-do_renders()
+# do_renders()
 make_output()
