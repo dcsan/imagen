@@ -141,9 +141,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-1.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-2.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -205,9 +205,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-1.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-2.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1869,9 +1869,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-1.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-2.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1909,9 +1909,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-1
-2
-3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/midj-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/midj-1.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/midj-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/midj-2.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/midj-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/midj-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
@@ -1933,9 +1933,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-1.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-2.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1997,9 +1997,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-1.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-2.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
