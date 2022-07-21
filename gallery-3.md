@@ -135,9 +135,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
-1
-2
-3
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-1.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-2.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
@@ -507,15 +507,15 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/octopus-riding-skateboard-22826850/stab-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/stab-1.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard-22826850/stab-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/stab-2.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard-22826850/stab-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/octopus-riding-skateboard-22826850/simu-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/octopus-riding-skateboard-22826850/simu-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/simu-2.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard-22826850/simu-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/simu-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
@@ -1863,9 +1863,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
-1
-2
-3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-1.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-2.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
@@ -1927,9 +1927,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
-1
-2
-3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-1.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-2.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
@@ -1991,9 +1991,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
-1
-2
-3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-1.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-2.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
