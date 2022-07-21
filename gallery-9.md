@@ -65,9 +65,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/stab-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/stab-1.png" width="150px" /></a>
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/stab-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/stab-2.png" width="150px" /></a>
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/stab-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/stab-3.png" width="150px" /></a>
 4
 5
 6
@@ -189,9 +189,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/stab-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/stab-1.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/stab-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/stab-2.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/stab-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/stab-3.png" width="150px" /></a>
 4
 5
 6
@@ -201,12 +201,12 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
-4
-5
-6
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/simu-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/simu-1.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/simu-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/simu-2.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/simu-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/simu-3.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/simu-4.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/simu-4.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/simu-5.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/simu-5.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/simu-6.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/simu-6.png" width="150px" /></a>
 7
 8
 9
