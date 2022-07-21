@@ -22,3 +22,8 @@ class MdPage:
     def close(self):
         # self.fp.write('</body></html>\n')
         self.fp.close()
+
+    def span(self, text, size=150):
+        style = f'''width:{size}px; display:inline-block; border-botttom:1px solid #ccc;'''
+        line = f'<span style="{style}">{text} </span>'
+        self.line(line)

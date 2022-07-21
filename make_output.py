@@ -39,7 +39,7 @@ def create_output(max_pix=3):
         link = min_dir_name(prompt)
 
         dump.line(f'\n## {link} ')
-        dump.line(f'> [{prompt}]\n')
+        dump.line(f'> {prompt}\n')
         # fpath = f'{min_dir_name(prompt)}'
 
         min_path = min_dir_name(prompt)
@@ -49,8 +49,11 @@ def create_output(max_pix=3):
 
         for config in configs:
             algo = config['name']
+            dump.line('\n')
+            dump.span(algo, size=size)
+
             # algo
-            dump.line(f'\n\n{algo}\n')
+            # dump.line(f'\n\n{algo}\n')
             # anchor tag
             # dump.line(f'[{prompt}](#{link})')
             # eg 'simu' or 'glid'
@@ -66,7 +69,7 @@ def create_output(max_pix=3):
                     dump.line(image_link)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
-                    dump.line(f'[X]')
+                    dump.span(count, size=size)
                     # break
 
     dump.close()
