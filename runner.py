@@ -5,15 +5,15 @@ from utils.TextUtils import min_dir_name
 from utils.LatDif import single
 from utils.LogPage import LogPage
 
-from data.prompts import lines
 from data.configs import configs
+from data.prompts import storylines
 
 
-def main():
+def main(lines):
 
     for config in configs:
         if config.get('skip'):
-            print('skipping', prompt, config.get('name'))
+            print('skipping', config.get('name'))
             continue
 
         for prompt in lines:
@@ -27,4 +27,4 @@ def main():
             print('\n')
 
 
-main()
+main(storylines)

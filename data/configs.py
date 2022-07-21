@@ -30,9 +30,35 @@ configs = [
         },
     },
 
+    # seems to bring down replicate frequently
+    {
+        'name': 'dalle-mini',
+        'skip': False,   # dont render
+        'model': {
+            'n_predictions': 9,
+        },
+        'params': {
+            'model_path': 'borisdayma/dalle-mini',
+            'image_prefix': 'dmin'
+        },
+    },
+
+    {
+        'name': 'latdif',
+        'skip': False,   # dont render
+        'model': {
+            'batch_size': 9,
+            'width': 256,
+            'height': 256,
+        },
+        'params': {
+            'model_path': 'nicholascelestin/latent-diffusion',
+            'image_prefix': 'ldif'
+        }
+    },
     {
         'name': 'disco-diffusion',
-        'skip': False,   # dont render
+        'skip': True,   # dont render
         'model': {
             'batch_size': 5,
             'width': 256,
@@ -81,33 +107,6 @@ configs = [
             'model_path': 'afiaka87/glid-3-xl',
             'image_prefix': 'glid3',
         }
-    },
-
-    {
-        'name': 'latdif',
-        'skip': True,   # dont render
-        'model': {
-            'batch_size': 9,
-            'width': 256,
-            'height': 256,
-        },
-        'params': {
-            'model_path': 'nicholascelestin/latent-diffusion',
-            'image_prefix': 'ldif'
-        }
-    },
-
-    # seems to bring down replicate frequently
-    {
-        'name': 'dalle-mini',
-        'skip': True,   # dont render
-        'model': {
-            'n_predictions': 9,
-        },
-        'params': {
-            'model_path': 'borisdayma/dalle-mini',
-            'image_prefix': 'dmin'
-        },
     },
 
     {

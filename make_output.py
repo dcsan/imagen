@@ -1,9 +1,12 @@
-from data.prompts import lines
 from data.configs import configs
 from utils.FileUtils import ensure_dir
 from utils.TextUtils import min_dir_name, safe_name
 from utils.presenter.MdPage import MdPage
 from os.path import exists
+
+from data.prompts import storylines
+
+lines = storylines
 
 
 def add_models(dump):
@@ -25,21 +28,21 @@ def add_prompt_list(dump):
         dump.line(f'1. [{link}](#{link})')
 
 
-def create_output(max_pix=3):
+def create_output(taskname='output', max_pix=3):
     size = 150
-    filename = f'output-{max_pix}.md'
+    filename = f'{taskname}-{max_pix}.md'
 
-    dump = MdPage(filename)
-    dump.line('# Preview')
-    add_models(dump)
-    add_prompt_list(dump)
+    dumper = MdPage(filename)
+    dumper.line('# Preview')
+    add_models(dumper)
+    add_prompt_list(dumper)
 
     for prompt in lines:
         # big prompt
         link = min_dir_name(prompt)
 
-        dump.line(f'\n## {link} ')
-        dump.line(f'> {prompt}\n')
+        dumper.line(f'\n## {link} ')
+        dumper.line(f'> {prompt}\n')
         # fpath = f'{min_dir_name(prompt)}'
 
         min_path = min_dir_name(prompt)
@@ -49,8 +52,8 @@ def create_output(max_pix=3):
 
         for config in configs:
             algo = config['name']
-            dump.line('\n')
-            dump.span(algo, size=size, pad=15)
+            dumper.line('\n')
+            dumper.span(algo, size=size, pad=15)
 
             # algo
             # dump.line(f'\n\n{algo}\n')
@@ -66,20 +69,21 @@ def create_output(max_pix=3):
                     # dump.line(f'![img_{count}]({fpath}/{image}) ')
                     image_tag = f'<img alt="{link}" src="{image_path}" width="{size}px" />'
                     image_link = f'<a href="{image_path}">{image_tag}</a>'
-                    dump.line(image_link)  # cannot have newlines
+                    dumper.line(image_link)  # cannot have newlines
                 else:
                     # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
                     # dump.span(count, size=size)
-                    dump.line(count)
+                    dumper.line(count)
                     # break
 
-    dump.close()
+    dumper.close()
 
 
 def main():
-    create_output(3)
-    create_output(6)
-    create_output(9)
+    taskname = 'storyboard'
+    create_output(taskname, 3)
+    create_output(taskname, 6)
+    create_output(taskname, 9)
 
 
 main()

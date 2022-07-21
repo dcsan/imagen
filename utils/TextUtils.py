@@ -1,4 +1,11 @@
 import re
+import hashlib
+
+
+def get_hash(text):
+    key = int(hashlib.sha1(text.encode("utf-8")).hexdigest(), 16) % (10 ** 8)
+    print('hashed', key, 'from', text)
+    return key
 
 
 def remove_suffix(text):
@@ -68,9 +75,11 @@ def remove_common(text):
         # '(\b|^)a\b',
         # '^a',  # the line above _should_ get this but it doesnt :(
     ]
+
     text = clean_text(text)
     text_words = text.split(' ')
     text = [word for word in text_words if word not in common]
+
     # for word in common:
     #     for out in text:
     #         if
@@ -78,7 +87,8 @@ def remove_common(text):
     # text = rex.sub(' ', text)
     # text = re.sub(r'\s\s+', ' ', text)
     # two or more spaces
-    return ' '.join(text)
+    join = ' '.join(text)
+    return join
 
 
 def min_dir_name(input):
@@ -86,8 +96,11 @@ def min_dir_name(input):
     text = input.lower()
     text = remove_punctuation(text)
     text = remove_common(text)
+    uniq = get_hash(text)
+
     parts = text.split(' ')[0:5]
     dir_name = '-'.join(parts)
     dir_name = safe_name(dir_name)
+    dir_name = f'{dir_name}-{uniq}'
     print('\ninput\t', input, '\ntext:\t', text, '\nname:\t', dir_name)
     return dir_name

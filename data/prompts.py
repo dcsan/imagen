@@ -30,3 +30,13 @@ lines = [
     'Time travelers',
     'Two ships passing in the night',
 ]
+
+
+storylines = [
+    "A girl is lost in the forest",
+    "The girl met a scary looking Ogre who is holding a candle",
+    "the ogre showed the girl a path to find her way out of the forest",
+    "A pretty girl wearing a red cape / is lost in / A dark and scary looking forest with many tall green trees in the style of Studio Ghibli",
+    "A pretty girl wearing a red cape / met / A huge green, ugly Ogre with a nice smile / who is holding a candle / in / A dark and scary looking forest with many tall green trees in the style of Studio Ghibli",
+    "A huge green, ugly Ogre with a nice smile / showed / A pretty girl wearing a red cape / a path to find her way out of the forest / in the style of Studio Ghibli",
+]
