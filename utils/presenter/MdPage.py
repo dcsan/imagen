@@ -6,6 +6,7 @@ class MdPage:
         self.fp = open(self.path, "w")
 
     def line(self, text):
+        text = str(text)
         self.fp.write(text + '\n')
         self.fp.flush()
 
