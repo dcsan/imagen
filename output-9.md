@@ -2,13 +2,13 @@
 
 ## Models 
 
+- midjourney
+- [simulacra](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
 - [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - [glid3](https://replicate.com/afiaka87/glid-3-xl) https://replicate.com/afiaka87/glid-3-xl
 - [latdif](https://replicate.com/nicholascelestin/latent-diffusion) https://replicate.com/nicholascelestin/latent-diffusion
 - [dalle-mini](https://replicate.com/borisdayma/dalle-mini) https://replicate.com/borisdayma/dalle-mini
-- midjourney
-- [simulacra](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - openai-dalle-2
 
 ## Prompts
@@ -44,6 +44,30 @@
 ## huge-octopus-climbing-up-empire 
 > A huge octopus climbing up the Empire State building
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/huge-octopus-climbing-up-empire/midj-1.png"><img alt="huge-octopus-climbing-up-empire" src="output/renders/huge-octopus-climbing-up-empire/midj-1.png" width="150px" /></a>
+<a href="output/renders/huge-octopus-climbing-up-empire/midj-2.png"><img alt="huge-octopus-climbing-up-empire" src="output/renders/huge-octopus-climbing-up-empire/midj-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -106,9 +130,25 @@
 <a href="output/renders/huge-octopus-climbing-up-empire/dmin-9.png"><img alt="huge-octopus-climbing-up-empire" src="output/renders/huge-octopus-climbing-up-empire/dmin-9.png" width="150px" /></a>
 
 
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+## new-type-fish-discovered-deepest 
+> A new type of fish discovered in the deepest darkest sea, neon lighting vivid saturated palette
+
+
+
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/huge-octopus-climbing-up-empire/midj-1.png"><img alt="huge-octopus-climbing-up-empire" src="output/renders/huge-octopus-climbing-up-empire/midj-1.png" width="150px" /></a>
-<a href="output/renders/huge-octopus-climbing-up-empire/midj-2.png"><img alt="huge-octopus-climbing-up-empire" src="output/renders/huge-octopus-climbing-up-empire/midj-2.png" width="150px" /></a>
+1
+2
 3
 4
 5
@@ -128,22 +168,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-## new-type-fish-discovered-deepest 
-> A new type of fish discovered in the deepest darkest sea, neon lighting vivid saturated palette
-
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -206,30 +230,6 @@
 9
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -244,6 +244,30 @@
 ## jesus-going-into-nightclub-flash 
 > A paparazzi photograph of Jesus going into a nightclub. Flash photography, blurred people
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-1.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-1.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-2.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-2.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-3.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-3.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-4.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-4.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-5.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-5.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-6.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-6.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-7.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-7.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-8.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-8.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/midj-9.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/jesus-going-into-nightclub-flash/simu-1.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-1.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/simu-2.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-2.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/simu-3.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-3.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash/simu-4.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -306,30 +330,6 @@
 <a href="output/renders/jesus-going-into-nightclub-flash/dmin-9.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-1.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-1.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-2.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-2.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-3.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-3.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-4.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-4.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-5.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-5.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-6.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-6.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-7.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-7.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-8.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-8.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/midj-9.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/jesus-going-into-nightclub-flash/simu-1.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-1.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/simu-2.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-2.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/simu-3.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-3.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash/simu-4.png"><img alt="jesus-going-into-nightclub-flash" src="output/renders/jesus-going-into-nightclub-flash/simu-4.png" width="150px" /></a>
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -344,6 +344,30 @@
 ## kermit-frog-mad-max-fury 
 > A still of Kermit the Frog in Mad Max Fury Road
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-1.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-1.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-2.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-2.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-3.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-3.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-4.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-4.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-5.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-5.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-6.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-6.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-7.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-7.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-8.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-8.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/midj-9.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/kermit-frog-mad-max-fury/simu-1.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/simu-1.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/simu-2.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/simu-2.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury/simu-3.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/simu-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -406,30 +430,6 @@
 <a href="output/renders/kermit-frog-mad-max-fury/dmin-9.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-1.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-1.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-2.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-2.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-3.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-3.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-4.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-4.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-5.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-5.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-6.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-6.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-7.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-7.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-8.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-8.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/midj-9.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/kermit-frog-mad-max-fury/simu-1.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/simu-1.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/simu-2.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/simu-2.png" width="150px" /></a>
-<a href="output/renders/kermit-frog-mad-max-fury/simu-3.png"><img alt="kermit-frog-mad-max-fury" src="output/renders/kermit-frog-mad-max-fury/simu-3.png" width="150px" /></a>
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -444,6 +444,30 @@
 ## aerial-criminals-lair-deep-mountains 
 > Aerial shot of the criminal's lair deep in the mountains. Bats are flying out of the windows. Dark and foggy background. Dusky sky approaching sunset
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-1.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-1.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-2.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-2.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-3.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-3.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-4.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-4.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-5.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-5.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-6.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-6.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-7.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-7.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-8.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-8.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-9.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/aerial-criminals-lair-deep-mountains/simu-1.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -506,30 +530,6 @@
 <a href="output/renders/aerial-criminals-lair-deep-mountains/dmin-9.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-1.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-1.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-2.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-2.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-3.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-3.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-4.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-4.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-5.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-5.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-6.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-6.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-7.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-7.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-8.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-8.png" width="150px" /></a>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/midj-9.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/aerial-criminals-lair-deep-mountains/simu-1.png"><img alt="aerial-criminals-lair-deep-mountains" src="output/renders/aerial-criminals-lair-deep-mountains/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -544,6 +544,30 @@
 ## invention-keeping-everyone-happy 
 > An invention for keeping everyone happy
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/invention-keeping-everyone-happy/midj-1.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-1.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-2.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-2.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-3.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-3.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-4.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-4.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-5.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-5.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-6.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-6.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-7.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-7.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-8.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-8.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/midj-9.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/invention-keeping-everyone-happy/simu-1.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/simu-1.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy/simu-2.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/simu-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -606,30 +630,6 @@
 <a href="output/renders/invention-keeping-everyone-happy/dmin-9.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/invention-keeping-everyone-happy/midj-1.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-1.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-2.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-2.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-3.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-3.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-4.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-4.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-5.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-5.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-6.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-6.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-7.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-7.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-8.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-8.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/midj-9.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/invention-keeping-everyone-happy/simu-1.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/simu-1.png" width="150px" /></a>
-<a href="output/renders/invention-keeping-everyone-happy/simu-2.png"><img alt="invention-keeping-everyone-happy" src="output/renders/invention-keeping-everyone-happy/simu-2.png" width="150px" /></a>
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -644,6 +644,30 @@
 ## octopus-riding-skateboard 
 > An octopus riding a skateboard
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/octopus-riding-skateboard/midj-1.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-1.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-2.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-2.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-3.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-3.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-4.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-4.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-5.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-5.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-6.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-6.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-7.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-7.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-8.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-8.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard/midj-9.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/octopus-riding-skateboard/simu-1.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -706,30 +730,6 @@
 <a href="output/renders/octopus-riding-skateboard/dmin-9.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/octopus-riding-skateboard/midj-1.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-1.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-2.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-2.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-3.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-3.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-4.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-4.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-5.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-5.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-6.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-6.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-7.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-7.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-8.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-8.png" width="150px" /></a>
-<a href="output/renders/octopus-riding-skateboard/midj-9.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/octopus-riding-skateboard/simu-1.png"><img alt="octopus-riding-skateboard" src="output/renders/octopus-riding-skateboard/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -744,6 +744,30 @@
 ## calm-psychedelic 
 > Calm, psychedelic
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/calm-psychedelic/midj-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-1.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-2.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-2.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-3.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-3.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-4.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-5.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-6.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-7.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-7.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-8.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-8.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic/midj-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/calm-psychedelic/simu-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -806,30 +830,6 @@
 <a href="output/renders/calm-psychedelic/dmin-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/calm-psychedelic/midj-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-1.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-2.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-2.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-3.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-3.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-4.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-4.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-5.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-5.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-6.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-6.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-7.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-7.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-8.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-8.png" width="150px" /></a>
-<a href="output/renders/calm-psychedelic/midj-9.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/calm-psychedelic/simu-1.png"><img alt="calm-psychedelic" src="output/renders/calm-psychedelic/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -844,6 +844,30 @@
 ## cubist-art-create-sculpture-abstract 
 > Cubist Art, create a painting or sculpture that is abstract and geometric in style. The work should be composed of basic shapes and have aflat, two-dimensional appearance. The colors should be bold and primary colors.
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-2.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-3.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-3.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-4.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-4.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-5.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-5.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-6.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-6.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-7.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-7.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-8.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-8.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract/midj-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/cubist-art-create-sculpture-abstract/simu-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -906,30 +930,6 @@
 <a href="output/renders/cubist-art-create-sculpture-abstract/dmin-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-1.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-2.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-2.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-3.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-3.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-4.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-4.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-5.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-5.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-6.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-6.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-7.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-7.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-8.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-8.png" width="150px" /></a>
-<a href="output/renders/cubist-art-create-sculpture-abstract/midj-9.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/cubist-art-create-sculpture-abstract/simu-1.png"><img alt="cubist-art-create-sculpture-abstract" src="output/renders/cubist-art-create-sculpture-abstract/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -944,6 +944,30 @@
 ## sale-baby-shoes-never-worn 
 > For sale baby shoes, never worn
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-1.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-1.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-2.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-2.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-3.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-3.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-4.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-4.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-5.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-5.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-6.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-6.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-7.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-7.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-8.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-8.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/midj-9.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/sale-baby-shoes-never-worn/simu-1.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/simu-1.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn/simu-2.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/simu-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1006,30 +1030,6 @@
 <a href="output/renders/sale-baby-shoes-never-worn/dmin-9.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-1.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-1.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-2.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-2.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-3.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-3.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-4.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-4.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-5.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-5.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-6.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-6.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-7.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-7.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-8.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-8.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/midj-9.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/sale-baby-shoes-never-worn/simu-1.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/simu-1.png" width="150px" /></a>
-<a href="output/renders/sale-baby-shoes-never-worn/simu-2.png"><img alt="sale-baby-shoes-never-worn" src="output/renders/sale-baby-shoes-never-worn/simu-2.png" width="150px" /></a>
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1044,6 +1044,30 @@
 ## ghostbusters-inside-glass-jar-epic 
 > Ghostbusters inside a glass jar, insanely detailed, epic lighting, cinematic composition, hyperrealistic, 8k render
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-1.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-1.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-2.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-2.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-3.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-3.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-4.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-4.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-5.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-5.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-6.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-6.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-7.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-7.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-8.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-8.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-9.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/simu-1.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/simu-1.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/simu-2.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/simu-2.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic/simu-3.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/simu-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1106,30 +1130,6 @@
 <a href="output/renders/ghostbusters-inside-glass-jar-epic/dmin-9.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-1.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-1.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-2.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-2.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-3.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-3.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-4.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-4.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-5.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-5.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-6.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-6.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-7.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-7.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-8.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-8.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/midj-9.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/simu-1.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/simu-1.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/simu-2.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/simu-2.png" width="150px" /></a>
-<a href="output/renders/ghostbusters-inside-glass-jar-epic/simu-3.png"><img alt="ghostbusters-inside-glass-jar-epic" src="output/renders/ghostbusters-inside-glass-jar-epic/simu-3.png" width="150px" /></a>
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1144,6 +1144,30 @@
 ## how-panic-attack-feels 
 > How a panic attack feels
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/how-panic-attack-feels/midj-1.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-1.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-2.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-2.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-3.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-3.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-4.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-4.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-5.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-5.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-6.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-6.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-7.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-7.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-8.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-8.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/midj-9.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/how-panic-attack-feels/simu-1.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-1.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/simu-2.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-2.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/simu-3.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-3.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels/simu-4.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1206,30 +1230,6 @@
 <a href="output/renders/how-panic-attack-feels/dmin-9.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/how-panic-attack-feels/midj-1.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-1.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-2.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-2.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-3.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-3.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-4.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-4.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-5.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-5.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-6.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-6.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-7.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-7.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-8.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-8.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/midj-9.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/how-panic-attack-feels/simu-1.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-1.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/simu-2.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-2.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/simu-3.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-3.png" width="150px" /></a>
-<a href="output/renders/how-panic-attack-feels/simu-4.png"><img alt="how-panic-attack-feels" src="output/renders/how-panic-attack-feels/simu-4.png" width="150px" /></a>
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1244,6 +1244,30 @@
 ## it-was-dark-stormy-night 
 > It was a dark and stormy night
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/it-was-dark-stormy-night/midj-1.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-1.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-2.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-2.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-3.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-3.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-4.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-4.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-5.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-5.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-6.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-6.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-7.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-7.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-8.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-8.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/midj-9.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/it-was-dark-stormy-night/simu-1.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/simu-1.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night/simu-2.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/simu-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1306,30 +1330,6 @@
 <a href="output/renders/it-was-dark-stormy-night/dmin-9.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/it-was-dark-stormy-night/midj-1.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-1.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-2.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-2.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-3.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-3.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-4.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-4.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-5.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-5.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-6.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-6.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-7.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-7.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-8.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-8.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/midj-9.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/midj-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/it-was-dark-stormy-night/simu-1.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/simu-1.png" width="150px" /></a>
-<a href="output/renders/it-was-dark-stormy-night/simu-2.png"><img alt="it-was-dark-stormy-night" src="output/renders/it-was-dark-stormy-night/simu-2.png" width="150px" /></a>
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1344,6 +1344,30 @@
 ## muppets-mad-max-fury-road 
 > Muppets in Mad Max Fury Road
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/muppets-mad-max-fury-road/midj-1.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-1.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/midj-2.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-2.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/midj-3.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-3.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/midj-4.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-4.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/midj-5.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-5.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/midj-6.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/muppets-mad-max-fury-road/simu-1.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/simu-1.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/simu-2.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/simu-2.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road/simu-3.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/simu-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1406,30 +1430,6 @@
 <a href="output/renders/muppets-mad-max-fury-road/dmin-9.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/muppets-mad-max-fury-road/midj-1.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-1.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/midj-2.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-2.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/midj-3.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-3.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/midj-4.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-4.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/midj-5.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-5.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/midj-6.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/muppets-mad-max-fury-road/simu-1.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/simu-1.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/simu-2.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/simu-2.png" width="150px" /></a>
-<a href="output/renders/muppets-mad-max-fury-road/simu-3.png"><img alt="muppets-mad-max-fury-road" src="output/renders/muppets-mad-max-fury-road/simu-3.png" width="150px" /></a>
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1444,6 +1444,30 @@
 ## noahs-ark-jack-kirby 
 > Noah's ark painting by Jack Kirby
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/noahs-ark-jack-kirby/midj-1.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-1.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/midj-2.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-2.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/midj-3.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-3.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/midj-4.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-4.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/midj-5.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-5.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/midj-6.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/noahs-ark-jack-kirby/simu-1.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-1.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/simu-2.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-2.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/simu-3.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-3.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby/simu-4.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1506,30 +1530,6 @@
 <a href="output/renders/noahs-ark-jack-kirby/dmin-9.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/noahs-ark-jack-kirby/midj-1.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-1.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/midj-2.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-2.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/midj-3.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-3.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/midj-4.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-4.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/midj-5.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-5.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/midj-6.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/noahs-ark-jack-kirby/simu-1.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-1.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/simu-2.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-2.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/simu-3.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-3.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-jack-kirby/simu-4.png"><img alt="noahs-ark-jack-kirby" src="output/renders/noahs-ark-jack-kirby/simu-4.png" width="150px" /></a>
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1544,6 +1544,30 @@
 ## noahs-ark-picasso 
 > Noah's ark painting by Picasso
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/noahs-ark-picasso/midj-1.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-1.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso/midj-2.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-2.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso/midj-3.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-3.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso/midj-4.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-4.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso/midj-5.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-5.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso/midj-6.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/noahs-ark-picasso/simu-1.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1606,30 +1630,6 @@
 <a href="output/renders/noahs-ark-picasso/dmin-9.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/noahs-ark-picasso/midj-1.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-1.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-picasso/midj-2.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-2.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-picasso/midj-3.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-3.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-picasso/midj-4.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-4.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-picasso/midj-5.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-5.png" width="150px" /></a>
-<a href="output/renders/noahs-ark-picasso/midj-6.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/noahs-ark-picasso/simu-1.png"><img alt="noahs-ark-picasso" src="output/renders/noahs-ark-picasso/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1644,6 +1644,30 @@
 ## rainbows-unicorns-nightmare 
 > Rainbows and unicorns nightmare
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/rainbows-unicorns-nightmare/midj-1.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-1.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare/midj-2.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-2.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare/midj-3.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-3.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare/midj-4.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-4.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare/midj-5.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-5.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare/midj-6.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -1706,30 +1730,6 @@
 <a href="output/renders/rainbows-unicorns-nightmare/dmin-9.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/rainbows-unicorns-nightmare/midj-1.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-1.png" width="150px" /></a>
-<a href="output/renders/rainbows-unicorns-nightmare/midj-2.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-2.png" width="150px" /></a>
-<a href="output/renders/rainbows-unicorns-nightmare/midj-3.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-3.png" width="150px" /></a>
-<a href="output/renders/rainbows-unicorns-nightmare/midj-4.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-4.png" width="150px" /></a>
-<a href="output/renders/rainbows-unicorns-nightmare/midj-5.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-5.png" width="150px" /></a>
-<a href="output/renders/rainbows-unicorns-nightmare/midj-6.png"><img alt="rainbows-unicorns-nightmare" src="output/renders/rainbows-unicorns-nightmare/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1746,9 +1746,33 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/court-jester-cyberpunk-playing-card/midj-1.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-1.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card/midj-2.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-2.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card/midj-3.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-3.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card/midj-4.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-4.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card/midj-5.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-5.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card/midj-6.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/court-jester-cyberpunk-playing-card/simu-1.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/simu-1.png" width="150px" /></a>
 2
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<a href="output/renders/court-jester-cyberpunk-playing-card/disco-1.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/disco-1.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card/disco-2.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/disco-2.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing-card/disco-3.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/disco-3.png" width="150px" /></a>
 4
 5
@@ -1806,30 +1830,6 @@
 <a href="output/renders/court-jester-cyberpunk-playing-card/dmin-9.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/court-jester-cyberpunk-playing-card/midj-1.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-1.png" width="150px" /></a>
-<a href="output/renders/court-jester-cyberpunk-playing-card/midj-2.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-2.png" width="150px" /></a>
-<a href="output/renders/court-jester-cyberpunk-playing-card/midj-3.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-3.png" width="150px" /></a>
-<a href="output/renders/court-jester-cyberpunk-playing-card/midj-4.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-4.png" width="150px" /></a>
-<a href="output/renders/court-jester-cyberpunk-playing-card/midj-5.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-5.png" width="150px" /></a>
-<a href="output/renders/court-jester-cyberpunk-playing-card/midj-6.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/court-jester-cyberpunk-playing-card/simu-1.png"><img alt="court-jester-cyberpunk-playing-card" src="output/renders/court-jester-cyberpunk-playing-card/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1846,9 +1846,33 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/mick-jagger-eating-hamburger-national/midj-1.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-1.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national/midj-2.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-2.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national/midj-3.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-3.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national/midj-4.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-4.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national/midj-5.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-5.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national/midj-6.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/mick-jagger-eating-hamburger-national/simu-1.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/simu-1.png" width="150px" /></a>
 2
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<a href="output/renders/mick-jagger-eating-hamburger-national/disco-1.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/disco-1.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national/disco-2.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/disco-2.png" width="150px" /></a>
 <a href="output/renders/mick-jagger-eating-hamburger-national/disco-3.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/disco-3.png" width="150px" /></a>
 4
 5
@@ -1906,30 +1930,6 @@
 <a href="output/renders/mick-jagger-eating-hamburger-national/dmin-9.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/mick-jagger-eating-hamburger-national/midj-1.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-1.png" width="150px" /></a>
-<a href="output/renders/mick-jagger-eating-hamburger-national/midj-2.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-2.png" width="150px" /></a>
-<a href="output/renders/mick-jagger-eating-hamburger-national/midj-3.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-3.png" width="150px" /></a>
-<a href="output/renders/mick-jagger-eating-hamburger-national/midj-4.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-4.png" width="150px" /></a>
-<a href="output/renders/mick-jagger-eating-hamburger-national/midj-5.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-5.png" width="150px" /></a>
-<a href="output/renders/mick-jagger-eating-hamburger-national/midj-6.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/mick-jagger-eating-hamburger-national/simu-1.png"><img alt="mick-jagger-eating-hamburger-national" src="output/renders/mick-jagger-eating-hamburger-national/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -1944,6 +1944,30 @@
 ## girl-putting-make-up-mirror 
 > A high resolution photo of a girl putting make up on in the mirror looking at herself
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/girl-putting-make-up-mirror/midj-1.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-1.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror/midj-2.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-2.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror/midj-3.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-3.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror/midj-4.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-4.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror/midj-5.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-5.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror/midj-6.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/girl-putting-make-up-mirror/simu-1.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2006,30 +2030,6 @@
 <a href="output/renders/girl-putting-make-up-mirror/dmin-9.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/girl-putting-make-up-mirror/midj-1.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-1.png" width="150px" /></a>
-<a href="output/renders/girl-putting-make-up-mirror/midj-2.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-2.png" width="150px" /></a>
-<a href="output/renders/girl-putting-make-up-mirror/midj-3.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-3.png" width="150px" /></a>
-<a href="output/renders/girl-putting-make-up-mirror/midj-4.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-4.png" width="150px" /></a>
-<a href="output/renders/girl-putting-make-up-mirror/midj-5.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-5.png" width="150px" /></a>
-<a href="output/renders/girl-putting-make-up-mirror/midj-6.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/girl-putting-make-up-mirror/simu-1.png"><img alt="girl-putting-make-up-mirror" src="output/renders/girl-putting-make-up-mirror/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2044,6 +2044,30 @@
 ## rainy-tokyo-street-scene-night 
 > A high resolution photo of a rainy Tokyo street scene at night with lots of neon lights reflections
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/rainy-tokyo-street-scene-night/midj-1.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-1.png" width="150px" /></a>
+<a href="output/renders/rainy-tokyo-street-scene-night/midj-2.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-2.png" width="150px" /></a>
+<a href="output/renders/rainy-tokyo-street-scene-night/midj-3.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-3.png" width="150px" /></a>
+<a href="output/renders/rainy-tokyo-street-scene-night/midj-4.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-4.png" width="150px" /></a>
+<a href="output/renders/rainy-tokyo-street-scene-night/midj-5.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-5.png" width="150px" /></a>
+<a href="output/renders/rainy-tokyo-street-scene-night/midj-6.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/rainy-tokyo-street-scene-night/simu-1.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2106,30 +2130,6 @@
 <a href="output/renders/rainy-tokyo-street-scene-night/dmin-9.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/rainy-tokyo-street-scene-night/midj-1.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-1.png" width="150px" /></a>
-<a href="output/renders/rainy-tokyo-street-scene-night/midj-2.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-2.png" width="150px" /></a>
-<a href="output/renders/rainy-tokyo-street-scene-night/midj-3.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-3.png" width="150px" /></a>
-<a href="output/renders/rainy-tokyo-street-scene-night/midj-4.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-4.png" width="150px" /></a>
-<a href="output/renders/rainy-tokyo-street-scene-night/midj-5.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-5.png" width="150px" /></a>
-<a href="output/renders/rainy-tokyo-street-scene-night/midj-6.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/rainy-tokyo-street-scene-night/simu-1.png"><img alt="rainy-tokyo-street-scene-night" src="output/renders/rainy-tokyo-street-scene-night/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2144,6 +2144,30 @@
 ## pretty-girl-putting-makeup 
 > A pretty girl putting on makeup
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/pretty-girl-putting-makeup/midj-1.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-1.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup/midj-2.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-2.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup/midj-3.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-3.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup/midj-4.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-4.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup/midj-5.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-5.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup/midj-6.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2206,30 +2230,6 @@
 <a href="output/renders/pretty-girl-putting-makeup/dmin-9.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/pretty-girl-putting-makeup/midj-1.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-1.png" width="150px" /></a>
-<a href="output/renders/pretty-girl-putting-makeup/midj-2.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-2.png" width="150px" /></a>
-<a href="output/renders/pretty-girl-putting-makeup/midj-3.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-3.png" width="150px" /></a>
-<a href="output/renders/pretty-girl-putting-makeup/midj-4.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-4.png" width="150px" /></a>
-<a href="output/renders/pretty-girl-putting-makeup/midj-5.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-5.png" width="150px" /></a>
-<a href="output/renders/pretty-girl-putting-makeup/midj-6.png"><img alt="pretty-girl-putting-makeup" src="output/renders/pretty-girl-putting-makeup/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2244,6 +2244,30 @@
 ## realistic-beautiful-woman-night-time 
 > A realistic beautiful woman, night time, wavy hairstyle, white hair, character concept art, created by Ross Tran, intricate accurate details, artstation trending, octane render, cinematic color grading, muted colors, soft light, cinematic, 8K
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/realistic-beautiful-woman-night-time/midj-1.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-1.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/midj-2.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-2.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/midj-3.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-3.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/midj-4.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-4.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/midj-5.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-5.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/midj-6.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/realistic-beautiful-woman-night-time/simu-1.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/simu-1.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/simu-2.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/simu-2.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time/simu-3.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/simu-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2306,30 +2330,6 @@
 <a href="output/renders/realistic-beautiful-woman-night-time/dmin-9.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/realistic-beautiful-woman-night-time/midj-1.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-1.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/midj-2.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-2.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/midj-3.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-3.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/midj-4.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-4.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/midj-5.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-5.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/midj-6.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/realistic-beautiful-woman-night-time/simu-1.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/simu-1.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/simu-2.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/simu-2.png" width="150px" /></a>
-<a href="output/renders/realistic-beautiful-woman-night-time/simu-3.png"><img alt="realistic-beautiful-woman-night-time" src="output/renders/realistic-beautiful-woman-night-time/simu-3.png" width="150px" /></a>
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2344,6 +2344,30 @@
 ## panda-riding-bicycle 
 > Photograph of a panda riding a bicycle
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/panda-riding-bicycle/midj-1.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-1.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/midj-2.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-2.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/midj-3.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-3.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/midj-4.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-4.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/midj-5.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-5.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/midj-6.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/panda-riding-bicycle/simu-1.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/simu-1.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/simu-2.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/simu-2.png" width="150px" /></a>
+<a href="output/renders/panda-riding-bicycle/simu-3.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/simu-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2406,30 +2430,6 @@
 <a href="output/renders/panda-riding-bicycle/dmin-9.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/panda-riding-bicycle/midj-1.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-1.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/midj-2.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-2.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/midj-3.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-3.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/midj-4.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-4.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/midj-5.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-5.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/midj-6.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/panda-riding-bicycle/simu-1.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/simu-1.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/simu-2.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/simu-2.png" width="150px" /></a>
-<a href="output/renders/panda-riding-bicycle/simu-3.png"><img alt="panda-riding-bicycle" src="output/renders/panda-riding-bicycle/simu-3.png" width="150px" /></a>
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2444,6 +2444,30 @@
 ## definition-beauty 
 > The definition of beauty
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/definition-beauty/midj-1.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-1.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/midj-2.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-2.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/midj-3.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-3.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/midj-4.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-4.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/midj-5.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-5.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/midj-6.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/definition-beauty/simu-1.png"><img alt="definition-beauty" src="output/renders/definition-beauty/simu-1.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/simu-2.png"><img alt="definition-beauty" src="output/renders/definition-beauty/simu-2.png" width="150px" /></a>
+<a href="output/renders/definition-beauty/simu-3.png"><img alt="definition-beauty" src="output/renders/definition-beauty/simu-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2506,30 +2530,6 @@
 <a href="output/renders/definition-beauty/dmin-9.png"><img alt="definition-beauty" src="output/renders/definition-beauty/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/definition-beauty/midj-1.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-1.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/midj-2.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-2.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/midj-3.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-3.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/midj-4.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-4.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/midj-5.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-5.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/midj-6.png"><img alt="definition-beauty" src="output/renders/definition-beauty/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/definition-beauty/simu-1.png"><img alt="definition-beauty" src="output/renders/definition-beauty/simu-1.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/simu-2.png"><img alt="definition-beauty" src="output/renders/definition-beauty/simu-2.png" width="150px" /></a>
-<a href="output/renders/definition-beauty/simu-3.png"><img alt="definition-beauty" src="output/renders/definition-beauty/simu-3.png" width="150px" /></a>
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2544,6 +2544,30 @@
 ## time-travelers 
 > Time travelers
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/time-travelers/midj-1.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-1.png" width="150px" /></a>
+<a href="output/renders/time-travelers/midj-2.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-2.png" width="150px" /></a>
+<a href="output/renders/time-travelers/midj-3.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-3.png" width="150px" /></a>
+<a href="output/renders/time-travelers/midj-4.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-4.png" width="150px" /></a>
+<a href="output/renders/time-travelers/midj-5.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-5.png" width="150px" /></a>
+<a href="output/renders/time-travelers/midj-6.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/time-travelers/simu-1.png"><img alt="time-travelers" src="output/renders/time-travelers/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2606,30 +2630,6 @@
 <a href="output/renders/time-travelers/dmin-9.png"><img alt="time-travelers" src="output/renders/time-travelers/dmin-9.png" width="150px" /></a>
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/time-travelers/midj-1.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-1.png" width="150px" /></a>
-<a href="output/renders/time-travelers/midj-2.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-2.png" width="150px" /></a>
-<a href="output/renders/time-travelers/midj-3.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-3.png" width="150px" /></a>
-<a href="output/renders/time-travelers/midj-4.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-4.png" width="150px" /></a>
-<a href="output/renders/time-travelers/midj-5.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-5.png" width="150px" /></a>
-<a href="output/renders/time-travelers/midj-6.png"><img alt="time-travelers" src="output/renders/time-travelers/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/time-travelers/simu-1.png"><img alt="time-travelers" src="output/renders/time-travelers/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
-
-
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
 2
@@ -2644,6 +2644,30 @@
 ## two-ships-passing-night 
 > Two ships passing in the night
 
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+<a href="output/renders/two-ships-passing-night/midj-1.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-1.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-night/midj-2.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-2.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-night/midj-3.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-3.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-night/midj-4.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-4.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-night/midj-5.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-5.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-night/midj-6.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-6.png" width="150px" /></a>
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+<a href="output/renders/two-ships-passing-night/simu-1.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/simu-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -2704,30 +2728,6 @@
 <a href="output/renders/two-ships-passing-night/dmin-7.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/dmin-7.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-night/dmin-8.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/dmin-8.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-night/dmin-9.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/dmin-9.png" width="150px" /></a>
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-<a href="output/renders/two-ships-passing-night/midj-1.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-1.png" width="150px" /></a>
-<a href="output/renders/two-ships-passing-night/midj-2.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-2.png" width="150px" /></a>
-<a href="output/renders/two-ships-passing-night/midj-3.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-3.png" width="150px" /></a>
-<a href="output/renders/two-ships-passing-night/midj-4.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-4.png" width="150px" /></a>
-<a href="output/renders/two-ships-passing-night/midj-5.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-5.png" width="150px" /></a>
-<a href="output/renders/two-ships-passing-night/midj-6.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/midj-6.png" width="150px" /></a>
-7
-8
-9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-<a href="output/renders/two-ships-passing-night/simu-1.png"><img alt="two-ships-passing-night" src="output/renders/two-ships-passing-night/simu-1.png" width="150px" /></a>
-2
-3
-4
-5
-6
-7
-8
-9
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
