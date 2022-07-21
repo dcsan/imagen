@@ -9,7 +9,7 @@ from data.configs import configs
 from data.prompts import storylines
 
 
-def render_many(lines):
+def render_many(lines=[]):
 
     for config in configs:
         if config.get('skip'):

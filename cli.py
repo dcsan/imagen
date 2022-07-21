@@ -5,7 +5,7 @@ from utils.DocMaker import create_output
 
 
 def do_renders():
-    render_many(storylines)
+    render_many(lines=various)
 
 
 def make_output():
@@ -15,6 +15,6 @@ def make_output():
     create_output(taskname, lines=storylines, max_pix=9)
 
 
-make_output()
+# make_output()
 
-# do_renders()
+do_renders()
