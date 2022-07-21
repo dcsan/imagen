@@ -43,17 +43,26 @@ This will execute the `run` command inside the [Makefile](./Makefile)
 
 Depending on what's configured, it should output images into `renders/`
 
-Have a look at the `runner.py` to see what will be run.
+Have a look at the `cli.py` to see what commands are available.
 
+# Output
 
-# Docs
+Renders get saved into [output/renders](./output/renders)
+
+Another command makes a markdown gallery like [this one](./gallery-3.md)
+
+Full link to anchor example:
+
+https://github.com/dcsan/imagen/blob/main/gallery-3.md#octopus-riding-skateboard-22826850
+
+# References
 
 settings:
 https://dazhizhong.gitbook.io/pixray-docs/docs/primary-settings
 
 <img src='docs/pixray-options.jpg' />
 
-artstyles:
+## artstyles:
 
 https://bardotbrush.com/30-art-styles-to-try-in-procreate/
 
