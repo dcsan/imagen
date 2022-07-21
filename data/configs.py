@@ -3,14 +3,18 @@ configs = [
     {
         'name': 'midjourney',
         'skip': True,   # dont render
-        'model': {
-            'batch_size': 9,
-            'width': 256,
-            'height': 256,
-        },
         'params': {
             'model_path': None,
             'image_prefix': 'midj'
+        }
+    },
+
+    {
+        'name': 'stabAI-fast',
+        'skip': True,   # dont render
+        'params': {
+            'model_path': None,
+            'image_prefix': 'stabAIv01'
         }
     },
 

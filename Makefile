@@ -1,7 +1,7 @@
 
 
 run: clear
-	python3 runner.py
+	python3 cli.py
 
 clear:
 	clear && printf '\e[3J'

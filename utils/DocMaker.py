@@ -4,10 +4,6 @@ from utils.TextUtils import min_dir_name, safe_name
 from utils.presenter.MdPage import MdPage
 from os.path import exists
 
-from data.prompts import storylines
-
-lines = storylines
-
 
 def add_models(dump):
     dump.line('\n## Models \n')
@@ -21,21 +17,21 @@ def add_models(dump):
             dump.line(f'- [{algo}]({model_url}) {model_url}')
 
 
-def add_prompt_list(dump):
+def add_prompt_list(dump, lines):
     dump.line('\n## Prompts\n')
     for prompt in lines:
         link = min_dir_name(prompt)
         dump.line(f'1. [{link}](#{link})')
 
 
-def create_output(taskname='output', max_pix=3):
+def create_output(taskname='output', lines=[], max_pix=3):
     size = 150
     filename = f'{taskname}-{max_pix}.md'
 
     dumper = MdPage(filename)
     dumper.line('# Preview')
     add_models(dumper)
-    add_prompt_list(dumper)
+    add_prompt_list(dumper, lines)
 
     for prompt in lines:
         # big prompt
@@ -77,13 +73,3 @@ def create_output(taskname='output', max_pix=3):
                     # break
 
     dumper.close()
-
-
-def main():
-    taskname = 'storyboard'
-    create_output(taskname, 3)
-    create_output(taskname, 6)
-    create_output(taskname, 9)
-
-
-main()
