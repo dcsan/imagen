@@ -60,6 +60,21 @@ configs = [
             'image_prefix': 'ldif'
         }
     },
+
+
+    {
+        'name': 'lmd',
+        'skip': True,   # dont render
+        'model': {
+            'batch_size': 9,
+            'width': 256,
+            'height': 256,
+        },
+        'params': {
+            'image_prefix': 'lmdv16'
+        }
+    },
+
     {
         'name': 'disco-diffusion',
         'skip': True,   # dont render
@@ -124,7 +139,7 @@ configs = [
             }
         },
         'params': {
-            'image_prefix': 'opai-dalle'
+            'image_prefix': 'opd2'
         },
     },
 

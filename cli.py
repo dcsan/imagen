@@ -9,10 +9,10 @@ def do_renders():
 
 
 def make_output():
-    taskname = 'snaps'
+    taskname = 'gallery'
     create_output(taskname, lines=various, max_pix=3)
-    # create_output(taskname, lines=storylines, max_pix=6)
-    # create_output(taskname, lines=storylines, max_pix=9)
+    create_output(taskname, lines=storylines, max_pix=6)
+    create_output(taskname, lines=storylines, max_pix=9)
 
 
 make_output()
