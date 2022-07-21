@@ -42,6 +42,8 @@ def remove_common(text):
         'for',
         'on',
         'or',
+        'establishing',
+        'shot',
         'painting',
         'paparazzi',
         'photo',

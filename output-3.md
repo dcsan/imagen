@@ -19,7 +19,7 @@
 1. [octopus-riding-skateboard](#octopus-riding-skateboard)
 1. [calm-psychedelic](#calm-psychedelic)
 1. [cubist-art-create-sculpture-abstract](#cubist-art-create-sculpture-abstract)
-1. [establishing-shot-criminals-lair-laid](#establishing-shot-criminals-lair-laid)
+1. [aerial-criminals-lair-deep-mountains](#aerial-criminals-lair-deep-mountains)
 1. [sale-baby-shoes-never-worn](#sale-baby-shoes-never-worn)
 1. [ghostbusters-inside-glass-jar-epic](#ghostbusters-inside-glass-jar-epic)
 1. [how-panic-attack-feels](#how-panic-attack-feels)
@@ -401,8 +401,8 @@ openai-dalle-2
 [X]
 [X]
 
-## establishing-shot-criminals-lair-laid 
-> [Establishing shot: the criminal's lair, laid deep in the mountains, shot from above from a helicopter. bats are flying out of the windows. dark and foggy background. dusky sky approaching sunset]
+## aerial-criminals-lair-deep-mountains 
+> [Aerial shot of the criminal's lair deep in the mountains. Bats are flying out of the windows. Dark and foggy background. Dusky sky approaching sunset]
 
 
 
@@ -422,35 +422,35 @@ pixray-vqgan
 
 glid3
 
-<a href="output/renders/establishing-shot-criminals-lair-laid/glid3-1.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/glid3-1.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/glid3-2.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/glid3-2.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/glid3-3.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/glid3-3.png" width="150px" /></a>
+[X]
+[X]
+[X]
 
 
 latdif
 
-<a href="output/renders/establishing-shot-criminals-lair-laid/ldif-1.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/ldif-1.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/ldif-2.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/ldif-2.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/ldif-3.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/ldif-3.png" width="150px" /></a>
+[X]
+[X]
+[X]
 
 
 dalle-mini
 
-<a href="output/renders/establishing-shot-criminals-lair-laid/dmin-1.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/dmin-1.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/dmin-2.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/dmin-2.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/dmin-3.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/dmin-3.png" width="150px" /></a>
+[X]
+[X]
+[X]
 
 
 midjourney
 
-<a href="output/renders/establishing-shot-criminals-lair-laid/midj-1.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/midj-1.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/midj-2.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/midj-2.png" width="150px" /></a>
-<a href="output/renders/establishing-shot-criminals-lair-laid/midj-3.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/midj-3.png" width="150px" /></a>
+[X]
+[X]
+[X]
 
 
 simulacra
 
-<a href="output/renders/establishing-shot-criminals-lair-laid/simu-1.png"><img alt="establishing-shot-criminals-lair-laid" src="output/renders/establishing-shot-criminals-lair-laid/simu-1.png" width="150px" /></a>
+[X]
 [X]
 [X]
 

@@ -10,13 +10,14 @@ from data.configs import configs
 
 
 def main():
-    for prompt in lines:
-        print('\n\n------ prompt:', prompt)
 
-        for config in configs:
-            if config.get('skip'):
-                print('skipping', prompt, config.get('name'))
-                continue
+    for config in configs:
+        if config.get('skip'):
+            print('skipping', prompt, config.get('name'))
+            continue
+
+        for prompt in lines:
+            print('\n\n------ prompt:', prompt)
 
             print('\n---- name:', config.get('name'))
             print('\n---- config:', config)
@@ -24,7 +25,6 @@ def main():
             single(prompt, config)
             pp(config)
             print('\n')
-        print('\n')
 
 
 main()
