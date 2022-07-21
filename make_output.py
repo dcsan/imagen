@@ -50,7 +50,7 @@ def create_output(max_pix=3):
         for config in configs:
             algo = config['name']
             dump.line('\n')
-            dump.span(algo, size=size, pad=20)
+            dump.span(algo, size=size, pad=15)
 
             # algo
             # dump.line(f'\n\n{algo}\n')
