@@ -125,7 +125,7 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-1.png" width="150px" /></a>
+1
 <a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-2.png" width="150px" /></a>
 <a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-3.png" width="150px" /></a>
 4
@@ -249,9 +249,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-1.png" width="150px" /></a>
+1
 <a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-2.png" width="150px" /></a>
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-3.png" width="150px" /></a>
+3
 4
 5
 6
@@ -373,8 +373,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-1.png" width="150px" /></a>
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-2.png" width="150px" /></a>
+1
+2
 <a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-3.png" width="150px" /></a>
 4
 5
@@ -497,9 +497,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-1.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-1.png" width="150px" /></a>
+1
 <a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-2.png" width="150px" /></a>
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-3.png" width="150px" /></a>
+3
 4
 5
 6
