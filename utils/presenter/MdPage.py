@@ -25,7 +25,7 @@ class MdPage:
 
     def span(self, text, size=150, pad=20):
         text = str(text)
-        text = text.rjust(pad, ' ')
+        text = text.ljust(pad, '_')
         text = f'`{text}`'  # fixed width
         style = f'''width:{size}px; display:inline-block; border-botttom:1px solid #ccc;'''
         line = f'<span style="{style}">{text} </span>'
