@@ -357,12 +357,12 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
-4
-5
-6
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-1.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-1.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-2.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-2.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-3.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-3.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-4.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-4.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-5.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-5.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-6.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-6.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
@@ -433,12 +433,12 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-2
-3
-4
-5
-6
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-1.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-1.png" width="150px" /></a>
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-2.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-2.png" width="150px" /></a>
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-3.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-3.png" width="150px" /></a>
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-4.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-4.png" width="150px" /></a>
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-5.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-5.png" width="150px" /></a>
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-6.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-6.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
