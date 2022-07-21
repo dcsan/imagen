@@ -23,7 +23,10 @@ class MdPage:
         # self.fp.write('</body></html>\n')
         self.fp.close()
 
-    def span(self, text, size=150):
+    def span(self, text, size=150, pad=20):
+        text = str(text)
+        text = text.rjust(pad, ' ')
+        text = f'`{text}`'  # fixed width
         style = f'''width:{size}px; display:inline-block; border-botttom:1px solid #ccc;'''
         line = f'<span style="{style}">{text} </span>'
         self.line(line)
