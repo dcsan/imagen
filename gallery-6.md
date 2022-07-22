@@ -71,9 +71,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/simu-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/simu-1.png" width="150px" /></a>
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/simu-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/simu-2.png" width="150px" /></a>
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/simu-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -259,9 +259,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/simu-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/simu-1.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/simu-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/simu-2.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/simu-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -357,8 +357,8 @@
 <a href="output/renders/jesus-going-into-nightclub-flash-35355915/simu-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/simu-2.png" width="150px" /></a>
 <a href="output/renders/jesus-going-into-nightclub-flash-35355915/simu-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/simu-3.png" width="150px" /></a>
 <a href="output/renders/jesus-going-into-nightclub-flash-35355915/simu-4.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/simu-4.png" width="150px" /></a>
-5
-6
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/simu-5.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/simu-5.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/simu-6.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/simu-6.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
@@ -542,8 +542,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/simu-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/simu-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/simu-2.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/simu-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -637,7 +637,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/invention-keeping-everyone-happy-10206604/simu-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/simu-1.png" width="150px" /></a>
 <a href="output/renders/invention-keeping-everyone-happy-10206604/simu-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/simu-2.png" width="150px" /></a>
-3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/simu-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -824,8 +824,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/calm-psychedelic-41369943/simu-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/calm-psychedelic-41369943/simu-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/simu-2.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic-41369943/simu-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -918,8 +918,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/cubist-art-create-sculpture-abstract-54244456/simu-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/simu-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/simu-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/simu-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1013,7 +1013,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/sale-baby-shoes-never-worn-57831209/simu-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/simu-1.png" width="150px" /></a>
 <a href="output/renders/sale-baby-shoes-never-worn-57831209/simu-2.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/simu-2.png" width="150px" /></a>
-3
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/simu-3.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1295,7 +1295,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/it-was-dark-stormy-night-29412/simu-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/simu-1.png" width="150px" /></a>
 <a href="output/renders/it-was-dark-stormy-night-29412/simu-2.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/simu-2.png" width="150px" /></a>
-3
+<a href="output/renders/it-was-dark-stormy-night-29412/simu-3.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1576,8 +1576,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/noahs-ark-picasso-25002770/simu-1.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/noahs-ark-picasso-25002770/simu-2.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/simu-2.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso-25002770/simu-3.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1669,9 +1669,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/simu-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/simu-1.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/simu-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/simu-2.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/simu-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1764,8 +1764,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/court-jester-cyberpunk-playing-card-61722276/simu-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/simu-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/simu-2.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/simu-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1858,8 +1858,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/mick-jagger-eating-hamburger-national-18182675/simu-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/simu-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/simu-2.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/simu-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -1952,8 +1952,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/girl-putting-make-up-mirror-4928040/simu-1.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/girl-putting-make-up-mirror-4928040/simu-2.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/simu-2.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror-4928040/simu-3.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -2139,9 +2139,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
+<a href="output/renders/pretty-girl-putting-makeup-43810362/simu-1.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/simu-1.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup-43810362/simu-2.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/simu-2.png" width="150px" /></a>
+<a href="output/renders/pretty-girl-putting-makeup-43810362/simu-3.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -2516,8 +2516,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/time-travelers-99427836/simu-1.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/time-travelers-99427836/simu-2.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/simu-2.png" width="150px" /></a>
+<a href="output/renders/time-travelers-99427836/simu-3.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -2610,8 +2610,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/two-ships-passing-night-77149352/simu-1.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/two-ships-passing-night-77149352/simu-2.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/simu-2.png" width="150px" /></a>
+<a href="output/renders/two-ships-passing-night-77149352/simu-3.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -2703,9 +2703,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
-1
-2
-3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/simu-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/simu-1.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/simu-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/simu-2.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/simu-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -2798,8 +2798,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/shanghai-jingan-temple-year-2064-90809681/simu-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/simu-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/simu-2.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/simu-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/simu-3.png" width="150px" /></a>
 4
 5
 6
@@ -2892,8 +2892,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/simu-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/simu-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/simu-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/simu-2.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/simu-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/simu-3.png" width="150px" /></a>
 4
 5
 6
