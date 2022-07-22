@@ -621,8 +621,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-1.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-2.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-2.png" width="150px" /></a>
 <a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-3.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-3.png" width="150px" /></a>
 4
 5
@@ -745,8 +745,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-1.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-2.png" width="150px" /></a>
 <a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-3.png" width="150px" /></a>
 4
 5
@@ -869,9 +869,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-1.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-2.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -993,8 +993,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/octopus-riding-skateboard-22826850/disco-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-1.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard-22826850/disco-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-2.png" width="150px" /></a>
 <a href="output/renders/octopus-riding-skateboard-22826850/disco-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-3.png" width="150px" /></a>
 4
 5
@@ -1117,9 +1117,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/calm-psychedelic-41369943/disco-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-1.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic-41369943/disco-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-2.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic-41369943/disco-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-3.png" width="150px" /></a>
 <a href="output/renders/calm-psychedelic-41369943/disco-4.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-4.png" width="150px" /></a>
 5
 6
@@ -1241,9 +1241,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-3.png" width="150px" /></a>
 <a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-4.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-4.png" width="150px" /></a>
 5
 6
@@ -1489,9 +1489,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-1.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-2.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-2.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-3.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-3.png" width="150px" /></a>
 <a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-4.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-4.png" width="150px" /></a>
 5
 6
@@ -1613,9 +1613,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/how-panic-attack-feels-28207342/disco-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-1.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels-28207342/disco-2.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-2.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels-28207342/disco-3.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-3.png" width="150px" /></a>
 <a href="output/renders/how-panic-attack-feels-28207342/disco-4.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-4.png" width="150px" /></a>
 5
 6
@@ -1861,8 +1861,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-1.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-2.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-2.png" width="150px" /></a>
 <a href="output/renders/muppets-mad-max-fury-road-58009097/disco-3.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-3.png" width="150px" /></a>
 <a href="output/renders/muppets-mad-max-fury-road-58009097/disco-4.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-4.png" width="150px" /></a>
 5
@@ -2233,8 +2233,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png" width="150px" /></a>
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png" width="150px" /></a>
 <a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png" width="150px" /></a>
 4
 5
@@ -2357,8 +2357,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-1.png" width="150px" /></a>
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-2.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-3.png" width="150px" /></a>
 4
 5
@@ -2481,8 +2481,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-1.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-2.png" width="150px" /></a>
 <a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-3.png" width="150px" /></a>
 4
 5
@@ -2729,8 +2729,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png" width="150px" /></a>
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png" width="150px" /></a>
 <a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png" width="150px" /></a>
 4
 5
@@ -2977,8 +2977,8 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png" width="150px" /></a>
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-2.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-2.png" width="150px" /></a>
 <a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png" width="150px" /></a>
 4
 5
@@ -3597,9 +3597,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-1.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-2.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3721,9 +3721,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-1.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-2.png" width="150px" /></a>
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3845,9 +3845,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
-1
-2
-3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png" width="150px" /></a>
 4
 5
 6
