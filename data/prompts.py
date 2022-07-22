@@ -32,7 +32,12 @@ various = [
     'Two ships passing in the night',
     'psychedelic broccoli mushroom cloud rainbow spectrum',
     'Shanghai Jingan temple in the year 2064 Cyberpunk style, raining, trending on artstation, thunderstorm and lightning',
-    'The statue of liberty made of gold reflecting on the water raining frogs, cyberpunk style fantasy book cover by Dave Mckean'
+    'The statue of liberty made of gold reflecting on the water raining frogs, cyberpunk style fantasy book cover by Dave Mckean',
+    'A woman at a coffeeshop working on her laptop and wearing headphones, screenshots from the miyazaki anime movie',
+    'Captain America and Iron Man standing side by side',
+    'an advertisement for sound-cancelling headphones, in the style of surrealism',
+    'a mermaid swimming underwater, photorealistic digital art',
+
 ]
 
 
