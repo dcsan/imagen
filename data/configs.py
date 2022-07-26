@@ -1,4 +1,33 @@
 configs = [
+    {
+        'name': 'disco-diffusion',
+        'skip': False,   # dont render
+        'model': {
+            'batch_size': 10,
+            'width': 256,
+            'height': 256,
+            'steps': 250,
+            'display_rate': 500,
+            'diffusion_model': '256x256_diffusion_uncond',
+        },
+        'params': {
+            'model_path': 'nightmareai/disco-diffusion',
+            'image_prefix': 'disco'
+        }
+    },
+
+    # seems to bring down replicate frequently
+    {
+        'name': 'dalle-mini',
+        'skip': False,   # dont render
+        'model': {
+            'n_predictions': 9,
+        },
+        'params': {
+            'model_path': 'borisdayma/dalle-mini',
+            'image_prefix': 'dmin'
+        },
+    },
 
     {
         'name': 'midjourney',
@@ -34,18 +63,6 @@ configs = [
         },
     },
 
-    # seems to bring down replicate frequently
-    {
-        'name': 'dalle-mini',
-        'skip': False,   # dont render
-        'model': {
-            'n_predictions': 9,
-        },
-        'params': {
-            'model_path': 'borisdayma/dalle-mini',
-            'image_prefix': 'dmin'
-        },
-    },
 
     {
         'name': 'latdif',
@@ -72,23 +89,6 @@ configs = [
         },
         'params': {
             'image_prefix': 'lmdv16'
-        }
-    },
-
-    {
-        'name': 'disco-diffusion',
-        'skip': False,   # dont render
-        'model': {
-            'batch_size': 5,
-            'width': 256,
-            'height': 256,
-            'steps': 250,
-            'display_rate': 250,
-            'diffusion_model': '256x256_diffusion_uncond',
-        },
-        'params': {
-            'model_path': 'nightmareai/disco-diffusion',
-            'image_prefix': 'disco'
         }
     },
 

@@ -7,8 +7,11 @@ clear:
 	clear && printf '\e[3J'
 
 # render output markdown file
-build-output:
-	python make_output.py
+gallery:
+	python cli.py -t gallery
+
+renders:
+	python cli.py -t renders
 
 git-push:
 	git add .
