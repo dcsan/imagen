@@ -46,6 +46,10 @@
 1. [psychedelic-broccoli-mushroom-cloud-rainbow-69752948](#psychedelic-broccoli-mushroom-cloud-rainbow-69752948)
 1. [shanghai-jingan-temple-year-2064-90809681](#shanghai-jingan-temple-year-2064-90809681)
 1. [statue-liberty-made-gold-reflecting-62248159](#statue-liberty-made-gold-reflecting-62248159)
+1. [woman-coffeeshop-working-her-laptop-53010207](#woman-coffeeshop-working-her-laptop-53010207)
+1. [captain-america-iron-man-standing-38534890](#captain-america-iron-man-standing-38534890)
+1. [advertisement-soundcancelling-headphones-style-surrealism-20867902](#advertisement-soundcancelling-headphones-style-surrealism-20867902)
+1. [mermaid-swimming-underwater-photorealistic-digital-77993612](#mermaid-swimming-underwater-photorealistic-digital-77993612)
 
 ## huge-octopus-climbing-up-empire-5539864 
 > A huge octopus climbing up the Empire State building
@@ -55,7 +59,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
 <a href="output/renders/huge-octopus-climbing-up-empire-5539864/midj-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/midj-1.png" width="150px" /></a>
 <a href="output/renders/huge-octopus-climbing-up-empire-5539864/midj-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/midj-2.png" width="150px" /></a>
-3
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/midj-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/midj-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
@@ -117,9 +121,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-1
-2
-3
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/midj-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/midj-1.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/midj-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/midj-2.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/midj-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/midj-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
@@ -181,15 +185,15 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-1
-2
-3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/midj-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/midj-1.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/midj-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/midj-2.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/midj-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/midj-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/new-type-fish-discovered-deepest-85026766/stab-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/stab-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/stab-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/stab-2.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/stab-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -251,9 +255,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/stab-1.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/stab-1.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/stab-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/stab-2.png" width="150px" /></a>
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/stab-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -317,7 +321,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/kermit-frog-mad-max-fury-13438697/stab-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/stab-1.png" width="150px" /></a>
 <a href="output/renders/kermit-frog-mad-max-fury-13438697/stab-2.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/stab-2.png" width="150px" /></a>
-3
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/stab-3.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -379,9 +383,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/stab-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/stab-1.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/stab-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/stab-2.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/stab-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -445,7 +449,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/invention-keeping-everyone-happy-10206604/stab-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/stab-1.png" width="150px" /></a>
 <a href="output/renders/invention-keeping-everyone-happy-10206604/stab-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/stab-2.png" width="150px" /></a>
-3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/stab-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -572,8 +576,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/calm-psychedelic-41369943/stab-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/stab-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/calm-psychedelic-41369943/stab-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/stab-2.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic-41369943/stab-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -636,8 +640,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/cubist-art-create-sculpture-abstract-54244456/stab-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/stab-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/stab-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/stab-2.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/stab-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -699,9 +703,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/stab-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/stab-1.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/stab-2.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/stab-2.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/stab-3.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -764,8 +768,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/stab-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/stab-1.png" width="150px" /></a>
-2
-3
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/stab-2.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/stab-2.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/stab-3.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -827,9 +831,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/how-panic-attack-feels-28207342/stab-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/stab-1.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels-28207342/stab-2.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/stab-2.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels-28207342/stab-3.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -891,9 +895,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/it-was-dark-stormy-night-29412/stab-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/stab-1.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night-29412/stab-2.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/stab-2.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night-29412/stab-3.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -955,9 +959,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/muppets-mad-max-fury-road-58009097/stab-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/stab-1.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road-58009097/stab-2.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/stab-2.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road-58009097/stab-3.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1019,9 +1023,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/noahs-ark-jack-kirby-24946484/stab-1.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/stab-1.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby-24946484/stab-2.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/stab-2.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-jack-kirby-24946484/stab-3.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1083,9 +1087,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/noahs-ark-picasso-25002770/stab-1.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/stab-1.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso-25002770/stab-2.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/stab-2.png" width="150px" /></a>
+<a href="output/renders/noahs-ark-picasso-25002770/stab-3.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1149,7 +1153,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/rainbows-unicorns-nightmare-9515819/stab-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/stab-1.png" width="150px" /></a>
 <a href="output/renders/rainbows-unicorns-nightmare-9515819/stab-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/stab-2.png" width="150px" /></a>
-3
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/stab-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1213,7 +1217,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/court-jester-cyberpunk-playing-card-61722276/stab-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/stab-1.png" width="150px" /></a>
 <a href="output/renders/court-jester-cyberpunk-playing-card-61722276/stab-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/stab-2.png" width="150px" /></a>
-3
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/stab-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1275,9 +1279,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/stab-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/stab-1.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/stab-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/stab-2.png" width="150px" /></a>
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/stab-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1339,9 +1343,9 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/girl-putting-make-up-mirror-4928040/stab-1.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/stab-1.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror-4928040/stab-2.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/stab-2.png" width="150px" /></a>
+<a href="output/renders/girl-putting-make-up-mirror-4928040/stab-3.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1789,7 +1793,7 @@
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/two-ships-passing-night-77149352/stab-1.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/stab-1.png" width="150px" /></a>
 <a href="output/renders/two-ships-passing-night-77149352/stab-2.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/stab-2.png" width="150px" /></a>
-3
+<a href="output/renders/two-ships-passing-night-77149352/stab-3.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1845,15 +1849,15 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-1
-2
-3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/midj-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/midj-1.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/midj-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/midj-2.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/midj-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/midj-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
-1
-2
-3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/stab-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/stab-1.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/stab-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/stab-2.png" width="150px" /></a>
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/stab-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/stab-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
@@ -1973,14 +1977,14 @@
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
-1
-2
-3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/midj-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/midj-1.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/midj-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/midj-2.png" width="150px" /></a>
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/midj-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/midj-3.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/stab-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/stab-1.png" width="150px" /></a>
-2
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/stab-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/stab-2.png" width="150px" /></a>
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/stab-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/stab-3.png" width="150px" /></a>
 
 
@@ -2012,6 +2016,262 @@
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png" width="150px" /></a>
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png" width="150px" /></a>
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`pixray-vqgan___` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`glid3__________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
+1
+2
+3
+
+## woman-coffeeshop-working-her-laptop-53010207 
+> A woman at a coffeeshop working on her laptop and wearing headphones, screenshots from the miyazaki anime movie
+
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`pixray-vqgan___` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`glid3__________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
+1
+2
+3
+
+## captain-america-iron-man-standing-38534890 
+> Captain America and Iron Man standing side by side
+
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`pixray-vqgan___` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`glid3__________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
+1
+2
+3
+
+## advertisement-soundcancelling-headphones-style-surrealism-20867902 
+> an advertisement for sound-cancelling headphones, in the style of surrealism
+
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`pixray-vqgan___` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`glid3__________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
+1
+2
+3
+
+## mermaid-swimming-underwater-photorealistic-digital-77993612 
+> a mermaid swimming underwater, photorealistic digital art
+
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`stabAI-fast____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`simulacra______` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`dalle-mini_____` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
+1
+2
+3
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+2
+3
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`pixray-vqgan___` </span>
