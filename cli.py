@@ -11,9 +11,13 @@ def do_renders():
 
 
 def make_gallery(taskname='gallery'):
-    create_output(taskname, lines=various, max_pix=3)
-    create_output(taskname, lines=various, max_pix=6)
-    create_output(taskname, lines=various, max_pix=9)
+    if taskname == 'gallery':
+        lines = various
+    elif taskname == 'storyboard':
+        lines = storylines
+    create_output(taskname, lines, max_pix=3)
+    create_output(taskname, lines, max_pix=6)
+    create_output(taskname, lines, max_pix=9)
 
 
 def show_help():

@@ -10,6 +10,9 @@ clear:
 gallery:
 	python cli.py -t gallery
 
+storyboard:
+	python cli.py -t storyboard
+
 renders:
 	python cli.py -t renders
 
