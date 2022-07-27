@@ -10,8 +10,7 @@ def do_renders():
     render_many(lines=various)
 
 
-def make_gallery():
-    taskname = 'gallery'
+def make_gallery(taskname='gallery'):
     create_output(taskname, lines=various, max_pix=3)
     create_output(taskname, lines=various, max_pix=6)
     create_output(taskname, lines=various, max_pix=9)
@@ -41,7 +40,9 @@ def main(argv):
     if taskname == 'renders':
         do_renders()
     elif taskname == 'gallery':
-        make_gallery()
+        make_gallery('gallery')
+    elif taskname == 'storyboard':
+        make_gallery('storyboard')
     else:
         print('task not found:', taskname)
         show_help()
