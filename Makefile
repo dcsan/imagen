@@ -22,4 +22,4 @@ git-push:
 	git push
 
 shrink:
-	mogrify -format jpg output/dalle-2/*png
+	mogrify -verbose -format jpg output/dalle-2/*png

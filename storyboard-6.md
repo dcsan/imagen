@@ -341,9 +341,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-1.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-2.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-3.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-4.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-4.jpg" width="150px" /></a>
 5
 6
 

@@ -235,8 +235,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-1.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-2.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/ogre-showed-girl-path-to-92793386/dal2-3.jpg"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dal2-3.jpg" width="150px" /></a>
 
 ## pretty-girl-wearing-red-cape-11115090 
 > A pretty girl wearing a red cape / is lost in / A dark and scary looking forest with many tall green trees in the style of Studio Ghibli
