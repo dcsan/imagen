@@ -418,9 +418,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-1.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-2.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-3.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-4.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -928,9 +932,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-1.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-2.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-3.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-4.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -2340,9 +2348,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-1.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-2.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-3.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-4.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -2467,9 +2479,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-1.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-2.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-3.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-4.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -2721,9 +2737,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-1.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-2.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-3.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-4.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -2849,9 +2869,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-1.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-2.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-3.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-4.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -3727,9 +3751,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-1.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-2.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-3.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-4.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -3848,9 +3876,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-1.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-2.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-3.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-4.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -3966,8 +3998,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-1.jpg"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-2.jpg"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-3.jpg"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-3.jpg" width="150px" /></a>
 4
 5
 6
@@ -4075,9 +4110,13 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-1.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-2.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-3.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-4.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-4.jpg" width="150px" /></a>
 5
 6
 
@@ -4399,8 +4438,12 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-1.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-2.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-3.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-3.jpg" width="150px" /></a>
 4
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-4.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-4.jpg" width="150px" /></a>
 5
 6

@@ -302,8 +302,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-1.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-2.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/dal2-3.jpg"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dal2-3.jpg" width="150px" /></a>
 
 ## jesus-going-into-nightclub-flash-35355915 
 > A paparazzi photograph of Jesus going into a nightclub. Flash photography, blurred people
@@ -641,8 +644,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-1.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-2.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/dal2-3.jpg"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dal2-3.jpg" width="150px" /></a>
 
 ## octopus-riding-skateboard-22826850 
 > An octopus riding a skateboard
@@ -1579,8 +1585,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-1.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-2.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/dal2-3.jpg"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dal2-3.jpg" width="150px" /></a>
 
 ## court-jester-cyberpunk-playing-card-61722276 
 > The court jester cyberpunk playing card illustration
@@ -1664,8 +1673,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-1.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-2.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-3.jpg"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dal2-3.jpg" width="150px" /></a>
 
 ## mick-jagger-eating-hamburger-national-18182675 
 > A color paparazzi photo of Mick Jagger eating a hamburger national inquirer cover
@@ -1834,8 +1846,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-1.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-2.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/girl-putting-make-up-mirror-4928040/dal2-3.jpg"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dal2-3.jpg" width="150px" /></a>
 
 ## rainy-tokyo-street-scene-night-31738623 
 > A high resolution photo of a rainy Tokyo street scene at night with lots of neon lights reflections
@@ -1919,8 +1934,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-1.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-2.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-3.jpg"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dal2-3.jpg" width="150px" /></a>
 
 ## pretty-girl-putting-makeup-43810362 
 > A pretty girl putting on makeup
@@ -2508,8 +2526,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-1.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-2.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-3.jpg"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dal2-3.jpg" width="150px" /></a>
 
 ## shanghai-jingan-temple-year-2064-90809681 
 > Shanghai Jingan temple in the year 2064 Cyberpunk style, raining, trending on artstation, thunderstorm and lightning
@@ -2590,8 +2611,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-1.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-2.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-3.jpg"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dal2-3.jpg" width="150px" /></a>
 
 ## statue-liberty-made-gold-reflecting-62248159 
 > The statue of liberty made of gold reflecting on the water raining frogs, cyberpunk style fantasy book cover by Dave Mckean
@@ -2672,8 +2696,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-1.jpg"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-2.jpg"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-3.jpg"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dal2-3.jpg" width="150px" /></a>
 
 ## woman-coffeeshop-working-her-laptop-53010207 
 > A woman at a coffeeshop working on her laptop and wearing headphones, screenshots from the miyazaki anime movie
@@ -2745,8 +2772,11 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-1.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-2.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-3.jpg"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dal2-3.jpg" width="150px" /></a>
 
 ## captain-america-iron-man-standing-38534890 
 > Captain America and Iron Man standing side by side
@@ -2961,5 +2991,8 @@
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`openai-dalle-2_` </span>
 1
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-1.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-1.jpg" width="150px" /></a>
 2
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-2.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-2.jpg" width="150px" /></a>
 3
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-3.jpg"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dal2-3.jpg" width="150px" /></a>
