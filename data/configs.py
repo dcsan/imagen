@@ -139,7 +139,7 @@ configs = [
             }
         },
         'params': {
-            'image_prefix': 'opd2'
+            'image_prefix': 'dal2'
         },
     },
 

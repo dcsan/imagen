@@ -17,3 +17,6 @@ git-push:
 	git add .
 	git commit -m "update"
 	git push
+
+shrink:
+	mogrify -format jpg output/dalle-2/*png

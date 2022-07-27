@@ -58,18 +58,19 @@ def create_output(taskname='output', lines=[], max_pix=3):
             # eg 'simu' or 'glid'
             image_prefix = config["params"]["image_prefix"]
             for count in range(1, max_pix+1):
-                image_path = f'{render_path}/{image_prefix}-{count}.png'
-                file_exists = exists(image_path)
-                if file_exists:
-                    # image = f'{config["params"]["image_prefix"]}-{count}.png'
-                    # dump.line(f'![img_{count}]({fpath}/{image}) ')
-                    image_tag = f'<img alt="{link}" src="{image_path}" width="{size}px" />'
-                    image_link = f'<a href="{image_path}">{image_tag}</a>'
-                    dumper.line(image_link)  # cannot have newlines
-                else:
-                    # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
-                    # dump.span(count, size=size)
-                    dumper.line(count)
-                    # break
+                dumper.line(count)
+                for suffix in ['png', 'jpg']:
+                    image_path = f'{render_path}/{image_prefix}-{count}.{suffix}'
+                    file_exists = exists(image_path)
+                    if file_exists:
+                        # image = f'{config["params"]["image_prefix"]}-{count}.png'
+                        # dump.line(f'![img_{count}]({fpath}/{image}) ')
+                        image_tag = f'<img alt="{link}" src="{image_path}" width="{size}px" />'
+                        image_link = f'<a href="{image_path}">{image_tag}</a>'
+                        dumper.line(image_link)  # cannot have newlines
+                    # else:
+                        # dump.line(f'\n> no file: algo: {algo} / {image_path}\n')
+                        # dump.span(count, size=size)
+                        # break
 
     dumper.close()
