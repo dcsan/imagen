@@ -1,14 +1,15 @@
 configs = [
+
     {
         'name': 'disco-diffusion',
         'skip': False,   # dont render
         'model': {
-            'batch_size': 10,
+            'batch_size': 9,
             'width': 256,
             'height': 256,
             'steps': 250,
-            'display_rate': 500,
-            'diffusion_model': '256x256_diffusion_uncond',
+            # 'display_rate': 500,
+            # 'diffusion_model': '256x256_diffusion_uncond',
         },
         'params': {
             'model_path': 'nightmareai/disco-diffusion',
@@ -16,10 +17,24 @@ configs = [
         }
     },
 
+    {
+        'name': 'latdif',
+        'skip': False,   # dont render
+        'model': {
+            'batch_size': 9,
+            'width': 256,
+            'height': 256,
+        },
+        'params': {
+            'model_path': 'nicholascelestin/latent-diffusion',
+            'image_prefix': 'ldif'
+        }
+    },
+
     # seems to bring down replicate frequently
     {
         'name': 'dalle-mini',
-        'skip': False,   # dont render
+        'skip': True,   # dont render
         'model': {
             'n_predictions': 9,
         },
@@ -62,22 +77,6 @@ configs = [
             'image_prefix': 'simu'
         },
     },
-
-
-    {
-        'name': 'latdif',
-        'skip': False,   # dont render
-        'model': {
-            'batch_size': 9,
-            'width': 256,
-            'height': 256,
-        },
-        'params': {
-            'model_path': 'nicholascelestin/latent-diffusion',
-            'image_prefix': 'ldif'
-        }
-    },
-
 
     {
         'name': 'lmd',
