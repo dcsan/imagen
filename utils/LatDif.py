@@ -19,7 +19,7 @@ def single(prompt, config, retries=0):
         print('render exists', prompt, config.get('name'))
         return
 
-    print('single:', config)
+    print('config:', config)
 
     try:
         print('predicting:', prompt)
@@ -61,7 +61,6 @@ def make_prediction(prompt, config):
         return
 
     model = replicate.models.get(model_path)
-
     model_options = config['model']
 
     if model_name == 'majdif':
@@ -75,7 +74,8 @@ def make_prediction(prompt, config):
         }
 
     input = input | model_options
-    print('input', input)
+    print('input')
+    pp(input)
 
     prediction = replicate.predictions.create(
         version=model.versions.list()[0],

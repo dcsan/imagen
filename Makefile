@@ -13,8 +13,11 @@ gallery:
 storyboard:
 	python cli.py -t storyboard
 
-renders:
-	python cli.py -t renders
+render-story:
+	python cli.py -t render-story
+
+render-lines:
+	python cli.py -t render-lines
 
 git-push:
 	git add .

@@ -19,11 +19,12 @@ def render_many(lines=[]):
             continue
 
         for prompt in lines:
-            print('\n\n------ prompt:', prompt)
-
-            print('\n---- name:', config.get('name'))
-            print('\n---- config:', config)
-            min_dir_name(prompt)
+            # prompt = prompt.replace('/ ', '\n')
+            print('\n\n\n---- prompt:', prompt)
+            print('---- name:', config.get('name'))
+            print('---- config:')
+            pp(config)
+            # min_dir_name(prompt)
             single(prompt, config)
             pp(config)
             print('\n')

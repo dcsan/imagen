@@ -2,6 +2,27 @@
 configs = [
 
     {
+        'name': 'majdif',
+        'active': True,
+        'model': {
+            'width': 384,
+            'height': 384,
+            'clip_scale': 16000,
+            'latent_scale': 12,
+            'model': 'finetuned',
+            'output_steps': 0,
+
+        },
+        'params': {
+            'model_path': 'nightmareai/majesty-diffusion',
+            'image_prefix': 'mdif',
+            'prompt_fields': [
+                'clip_prompts',
+                'latent_prompt',
+            ]
+        }
+    },
+    {
         'name': 'dalle-mini',
         'active': True,   # dont render
         'model': {
@@ -41,25 +62,6 @@ configs = [
         'params': {
             'model_path': 'nicholascelestin/latent-diffusion',
             'image_prefix': 'ldif'
-        }
-    },
-
-    {
-        'name': 'majdif',
-        'active': False,   # dont render
-        'model': {
-            'batch_size': 9,
-            'width': 256,
-            'height': 256,
-            'output_steps': 0
-        },
-        'params': {
-            'model_path': 'nightmareai/majesty-diffusion',
-            'image_prefix': 'mdif',
-            'prompt_fields': [
-                'clip_prompts',
-                'latent_prompt',
-            ]
         }
     },
 

@@ -33,6 +33,8 @@ def create_output(taskname='output', lines=[], max_pix=3):
     add_models(dumper)
     add_prompt_list(dumper, lines)
 
+    print('doc', taskname, max_pix)
+
     for prompt in lines:
         # big prompt
         link = min_dir_name(prompt)

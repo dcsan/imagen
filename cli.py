@@ -6,8 +6,8 @@ from utils.RenderLoop import render_many
 from utils.DocMaker import create_output
 
 
-def do_renders():
-    render_many(lines=various)
+def do_renders(lines):
+    render_many(lines)
 
 
 def make_gallery(taskname='gallery'):
@@ -41,8 +41,10 @@ def get_task(argv):
 
 def main(argv):
     taskname = get_task(argv)
-    if taskname == 'renders':
-        do_renders()
+    if taskname == 'render-lines':
+        do_renders(various)
+    if taskname == 'render-story':
+        do_renders(storylines)
     elif taskname == 'gallery':
         make_gallery('gallery')
     elif taskname == 'storyboard':

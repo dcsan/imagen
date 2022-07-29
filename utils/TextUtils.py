@@ -4,7 +4,7 @@ import hashlib
 
 def get_hash(text):
     key = int(hashlib.sha1(text.encode("utf-8")).hexdigest(), 16) % (10 ** 8)
-    print('hashed', key, 'from', text)
+    # print('hashed', key, 'from', text)
     return key
 
 
@@ -102,5 +102,5 @@ def min_dir_name(input):
     dir_name = '-'.join(parts)
     dir_name = safe_name(dir_name)
     dir_name = f'{dir_name}-{uniq}'
-    print('\ninput\t', input, '\ntext:\t', text, '\nname:\t', dir_name)
+    # print('\ninput\t', input, '\ntext:\t', text, '\nname:\t', dir_name)
     return dir_name

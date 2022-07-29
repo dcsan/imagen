@@ -2,12 +2,13 @@
 
 ## Models 
 
-- [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
+- [majdif](https://replicate.com/nightmareai/majesty-diffusion) https://replicate.com/nightmareai/majesty-diffusion
 - [dalle-mini](https://replicate.com/borisdayma/dalle-mini) https://replicate.com/borisdayma/dalle-mini
+- [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
+- [latdif](https://replicate.com/nicholascelestin/latent-diffusion) https://replicate.com/nicholascelestin/latent-diffusion
 - midjourney
 - stabAI-fast
 - [simulacra](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
-- [latdif](https://replicate.com/nicholascelestin/latent-diffusion) https://replicate.com/nicholascelestin/latent-diffusion
 - lmd
 - [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - [glid3](https://replicate.com/afiaka87/glid-3-xl) https://replicate.com/afiaka87/glid-3-xl
@@ -27,8 +28,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/girl-lost-forest-15746896/mdif-1.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -58,6 +60,41 @@
 <a href="output/renders/girl-lost-forest-15746896/dmin-8.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/girl-lost-forest-15746896/dmin-9.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/girl-lost-forest-15746896/disco-1.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/girl-lost-forest-15746896/disco-2.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/girl-lost-forest-15746896/ldif-1.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/girl-lost-forest-15746896/ldif-2.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/girl-lost-forest-15746896/ldif-3.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/girl-lost-forest-15746896/ldif-4.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/girl-lost-forest-15746896/ldif-5.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/girl-lost-forest-15746896/ldif-6.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/girl-lost-forest-15746896/ldif-7.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/girl-lost-forest-15746896/ldif-8.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/girl-lost-forest-15746896/ldif-9.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -94,27 +131,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/girl-lost-forest-15746896/ldif-1.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/girl-lost-forest-15746896/ldif-2.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/girl-lost-forest-15746896/ldif-3.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/girl-lost-forest-15746896/ldif-4.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/girl-lost-forest-15746896/ldif-5.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/girl-lost-forest-15746896/ldif-6.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/girl-lost-forest-15746896/ldif-7.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/girl-lost-forest-15746896/ldif-8.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/girl-lost-forest-15746896/ldif-9.png"><img alt="girl-lost-forest-15746896" src="output/renders/girl-lost-forest-15746896/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -173,8 +189,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/mdif-1.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -204,6 +221,41 @@
 <a href="output/renders/girl-met-scary-looking-ogre-9967181/dmin-8.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/girl-met-scary-looking-ogre-9967181/dmin-9.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/disco-1.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/disco-2.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-1.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-2.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-3.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-4.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-5.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-6.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-7.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-8.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-9.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -240,27 +292,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-1.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-2.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-3.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-4.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-5.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-6.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-7.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-8.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/girl-met-scary-looking-ogre-9967181/ldif-9.png"><img alt="girl-met-scary-looking-ogre-9967181" src="output/renders/girl-met-scary-looking-ogre-9967181/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -318,8 +349,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/ogre-showed-girl-path-to-92793386/mdif-1.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -349,6 +381,41 @@
 <a href="output/renders/ogre-showed-girl-path-to-92793386/dmin-8.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/ogre-showed-girl-path-to-92793386/dmin-9.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/ogre-showed-girl-path-to-92793386/disco-1.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/ogre-showed-girl-path-to-92793386/disco-2.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-1.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-2.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-3.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-4.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-5.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-6.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-7.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-8.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-9.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -385,27 +452,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-1.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-2.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-3.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-4.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-5.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-6.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-7.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-8.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/ogre-showed-girl-path-to-92793386/ldif-9.png"><img alt="ogre-showed-girl-path-to-92793386" src="output/renders/ogre-showed-girl-path-to-92793386/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -464,8 +510,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/mdif-1.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -495,6 +542,41 @@
 <a href="output/renders/pretty-girl-wearing-red-cape-11115090/dmin-8.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/pretty-girl-wearing-red-cape-11115090/dmin-9.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/disco-1.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/disco-2.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-1.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-2.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-3.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-4.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-5.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-6.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-7.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-8.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-9.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -534,27 +616,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-1.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-2.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-3.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-4.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-5.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-6.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-7.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-8.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-9.png"><img alt="pretty-girl-wearing-red-cape-11115090" src="output/renders/pretty-girl-wearing-red-cape-11115090/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -613,8 +674,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/mdif-1.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -644,6 +706,41 @@
 <a href="output/renders/pretty-girl-wearing-red-cape-42572298/dmin-8.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/pretty-girl-wearing-red-cape-42572298/dmin-9.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/disco-1.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/disco-2.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-1.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-2.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-3.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-4.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-5.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-6.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-7.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-8.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-9.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -683,27 +780,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-1.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-2.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-3.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-4.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-5.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-6.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-7.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-8.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-9.png"><img alt="pretty-girl-wearing-red-cape-42572298" src="output/renders/pretty-girl-wearing-red-cape-42572298/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -762,8 +838,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/mdif-1.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -793,6 +870,41 @@
 <a href="output/renders/huge-green-ugly-ogre-with-65248104/dmin-8.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/huge-green-ugly-ogre-with-65248104/dmin-9.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/disco-1.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/disco-2.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-1.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-2.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-3.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-4.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-5.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-6.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-7.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-8.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-9.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -829,27 +941,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-1.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-2.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-3.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-4.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-5.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-6.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-7.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-8.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/huge-green-ugly-ogre-with-65248104/ldif-9.png"><img alt="huge-green-ugly-ogre-with-65248104" src="output/renders/huge-green-ugly-ogre-with-65248104/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>

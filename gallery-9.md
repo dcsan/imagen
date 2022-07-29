@@ -2,12 +2,13 @@
 
 ## Models 
 
-- [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
+- [majdif](https://replicate.com/nightmareai/majesty-diffusion) https://replicate.com/nightmareai/majesty-diffusion
 - [dalle-mini](https://replicate.com/borisdayma/dalle-mini) https://replicate.com/borisdayma/dalle-mini
+- [disco-diffusion](https://replicate.com/nightmareai/disco-diffusion) https://replicate.com/nightmareai/disco-diffusion
+- [latdif](https://replicate.com/nicholascelestin/latent-diffusion) https://replicate.com/nicholascelestin/latent-diffusion
 - midjourney
 - stabAI-fast
 - [simulacra](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
-- [latdif](https://replicate.com/nicholascelestin/latent-diffusion) https://replicate.com/nicholascelestin/latent-diffusion
 - lmd
 - [pixray-vqgan](https://replicate.com/dribnet/pixray-vqgan) https://replicate.com/dribnet/pixray-vqgan
 - [glid3](https://replicate.com/afiaka87/glid-3-xl) https://replicate.com/afiaka87/glid-3-xl
@@ -56,13 +57,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-1.png" width="150px" /></a>
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/mdif-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -90,6 +89,42 @@
 <a href="output/renders/huge-octopus-climbing-up-empire-5539864/dmin-8.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/huge-octopus-climbing-up-empire-5539864/dmin-9.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/disco-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-4.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-5.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-6.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-7.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-8.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-9.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -135,27 +170,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-1.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-2.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-3.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-4.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-5.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-6.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-7.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-8.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-9.png"><img alt="huge-octopus-climbing-up-empire-5539864" src="output/renders/huge-octopus-climbing-up-empire-5539864/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -224,11 +238,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-1.png" width="150px" /></a>
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/mdif-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-2.png" width="150px" /></a>
 3
 4
 5
@@ -257,6 +270,41 @@
 <a href="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-8.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-9.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/disco-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/disco-2.png" width="150px" /></a>
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-4.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-5.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-6.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-7.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-8.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-9.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -305,27 +353,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-1.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-2.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-3.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-4.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-5.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-6.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-7.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-8.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-9.png"><img alt="huge-purple-octopus-climbing-up-54624381" src="output/renders/huge-purple-octopus-climbing-up-54624381/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -380,13 +407,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-1.png" width="150px" /></a>
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/mdif-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -414,6 +439,42 @@
 <a href="output/renders/new-type-fish-discovered-deepest-85026766/dmin-8.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/new-type-fish-discovered-deepest-85026766/dmin-9.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/disco-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-4.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-5.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-6.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-7.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-8.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-9.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -459,27 +520,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-1.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-2.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-3.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-4.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-5.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-6.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-7.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-8.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/new-type-fish-discovered-deepest-85026766/ldif-9.png"><img alt="new-type-fish-discovered-deepest-85026766" src="output/renders/new-type-fish-discovered-deepest-85026766/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -547,12 +587,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/mdif-1.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -580,6 +619,42 @@
 <a href="output/renders/jesus-going-into-nightclub-flash-35355915/dmin-8.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/jesus-going-into-nightclub-flash-35355915/dmin-9.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-1.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/disco-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-1.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-4.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-5.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-6.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-7.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-8.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-9.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -634,27 +709,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-1.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-2.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-3.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-4.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-5.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-6.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-7.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-8.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-9.png"><img alt="jesus-going-into-nightclub-flash-35355915" src="output/renders/jesus-going-into-nightclub-flash-35355915/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -718,13 +772,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-1.png" width="150px" /></a>
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/mdif-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-2.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-3.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -752,6 +804,42 @@
 <a href="output/renders/kermit-frog-mad-max-fury-13438697/dmin-8.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/kermit-frog-mad-max-fury-13438697/dmin-9.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-2.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/disco-3.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-2.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-3.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-4.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-5.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-6.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-7.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-8.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-9.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -803,27 +891,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-1.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-2.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-3.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-4.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-5.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-6.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-7.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-8.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/kermit-frog-mad-max-fury-13438697/ldif-9.png"><img alt="kermit-frog-mad-max-fury-13438697" src="output/renders/kermit-frog-mad-max-fury-13438697/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -887,13 +954,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-1.png" width="150px" /></a>
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/mdif-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -921,6 +986,42 @@
 <a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/dmin-8.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/dmin-9.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-4.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-5.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-6.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-7.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-8.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-9.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -972,27 +1073,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-1.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-2.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-3.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-4.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-5.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-6.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-7.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-8.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-9.png"><img alt="aerial-criminals-lair-deep-mountains-68125277" src="output/renders/aerial-criminals-lair-deep-mountains-68125277/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1056,13 +1136,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-1.png" width="150px" /></a>
+<a href="output/renders/invention-keeping-everyone-happy-10206604/mdif-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -1090,6 +1168,42 @@
 <a href="output/renders/invention-keeping-everyone-happy-10206604/dmin-8.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/invention-keeping-everyone-happy-10206604/dmin-9.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/disco-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-4.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-5.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-6.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-7.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-8.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-9.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -1141,27 +1255,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-1.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-2.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-3.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-4.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-5.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-6.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-7.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-8.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/invention-keeping-everyone-happy-10206604/ldif-9.png"><img alt="invention-keeping-everyone-happy-10206604" src="output/renders/invention-keeping-everyone-happy-10206604/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1229,13 +1322,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/octopus-riding-skateboard-22826850/disco-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-1.png" width="150px" /></a>
+<a href="output/renders/octopus-riding-skateboard-22826850/mdif-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/octopus-riding-skateboard-22826850/disco-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/octopus-riding-skateboard-22826850/disco-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -1263,6 +1354,42 @@
 <a href="output/renders/octopus-riding-skateboard-22826850/dmin-8.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/octopus-riding-skateboard-22826850/dmin-9.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/octopus-riding-skateboard-22826850/disco-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/octopus-riding-skateboard-22826850/disco-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/octopus-riding-skateboard-22826850/disco-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-4.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-5.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-6.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-7.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-8.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/octopus-riding-skateboard-22826850/ldif-9.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -1317,27 +1444,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-1.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-2.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-3.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-4.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-5.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-6.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-7.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-8.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/octopus-riding-skateboard-22826850/ldif-9.png"><img alt="octopus-riding-skateboard-22826850" src="output/renders/octopus-riding-skateboard-22826850/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1401,15 +1507,12 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/calm-psychedelic-41369943/disco-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-1.png" width="150px" /></a>
+<a href="output/renders/calm-psychedelic-41369943/mdif-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/calm-psychedelic-41369943/disco-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/calm-psychedelic-41369943/disco-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/calm-psychedelic-41369943/disco-4.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -1436,6 +1539,43 @@
 <a href="output/renders/calm-psychedelic-41369943/dmin-8.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/calm-psychedelic-41369943/dmin-9.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/calm-psychedelic-41369943/disco-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/calm-psychedelic-41369943/disco-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/calm-psychedelic-41369943/disco-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/calm-psychedelic-41369943/disco-4.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/calm-psychedelic-41369943/ldif-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/calm-psychedelic-41369943/ldif-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/calm-psychedelic-41369943/ldif-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/calm-psychedelic-41369943/ldif-4.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/calm-psychedelic-41369943/ldif-5.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/calm-psychedelic-41369943/ldif-6.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/calm-psychedelic-41369943/ldif-7.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/calm-psychedelic-41369943/ldif-8.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/calm-psychedelic-41369943/ldif-9.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -1487,27 +1627,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/calm-psychedelic-41369943/ldif-1.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/calm-psychedelic-41369943/ldif-2.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/calm-psychedelic-41369943/ldif-3.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/calm-psychedelic-41369943/ldif-4.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/calm-psychedelic-41369943/ldif-5.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/calm-psychedelic-41369943/ldif-6.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/calm-psychedelic-41369943/ldif-7.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/calm-psychedelic-41369943/ldif-8.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/calm-psychedelic-41369943/ldif-9.png"><img alt="calm-psychedelic-41369943" src="output/renders/calm-psychedelic-41369943/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1571,15 +1690,12 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-1.png" width="150px" /></a>
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/mdif-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-4.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -1606,6 +1722,43 @@
 <a href="output/renders/cubist-art-create-sculpture-abstract-54244456/dmin-8.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/cubist-art-create-sculpture-abstract-54244456/dmin-9.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-4.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-4.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-5.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-6.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-7.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-8.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-9.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -1657,27 +1810,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-1.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-2.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-3.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-4.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-5.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-6.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-7.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-8.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-9.png"><img alt="cubist-art-create-sculpture-abstract-54244456" src="output/renders/cubist-art-create-sculpture-abstract-54244456/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1741,9 +1873,9 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/disco-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/disco-1.png" width="150px" /></a>
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/mdif-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/mdif-1.png" width="150px" /></a>
 2
 3
 4
@@ -1773,6 +1905,40 @@
 <a href="output/renders/sale-baby-shoes-never-worn-57831209/dmin-8.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/sale-baby-shoes-never-worn-57831209/dmin-9.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/disco-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/disco-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-2.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-3.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-4.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-5.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-6.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-7.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-8.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-9.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -1824,27 +1990,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-1.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-2.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-3.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-4.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-5.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-6.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-7.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-8.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/sale-baby-shoes-never-worn-57831209/ldif-9.png"><img alt="sale-baby-shoes-never-worn-57831209" src="output/renders/sale-baby-shoes-never-worn-57831209/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -1908,15 +2053,12 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-1.png" width="150px" /></a>
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/mdif-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-2.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-3.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-4.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -1943,6 +2085,43 @@
 <a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/dmin-8.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/dmin-9.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-2.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-3.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-4.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-2.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-3.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-4.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-5.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-6.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-7.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-8.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-9.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -1994,27 +2173,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-1.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-2.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-3.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-4.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-5.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-6.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-7.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-8.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-9.png"><img alt="ghostbusters-inside-glass-jar-epic-79298726" src="output/renders/ghostbusters-inside-glass-jar-epic-79298726/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -2078,15 +2236,12 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/how-panic-attack-feels-28207342/disco-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-1.png" width="150px" /></a>
+<a href="output/renders/how-panic-attack-feels-28207342/mdif-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/how-panic-attack-feels-28207342/disco-2.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/how-panic-attack-feels-28207342/disco-3.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/how-panic-attack-feels-28207342/disco-4.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -2113,6 +2268,43 @@
 <a href="output/renders/how-panic-attack-feels-28207342/dmin-8.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/how-panic-attack-feels-28207342/dmin-9.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/how-panic-attack-feels-28207342/disco-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/how-panic-attack-feels-28207342/disco-2.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/how-panic-attack-feels-28207342/disco-3.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/how-panic-attack-feels-28207342/disco-4.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-2.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-3.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-4.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-5.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-6.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-7.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-8.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/how-panic-attack-feels-28207342/ldif-9.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -2165,27 +2357,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-1.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-2.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-3.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-4.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-5.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-6.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-7.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-8.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/how-panic-attack-feels-28207342/ldif-9.png"><img alt="how-panic-attack-feels-28207342" src="output/renders/how-panic-attack-feels-28207342/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -2249,13 +2420,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/it-was-dark-stormy-night-29412/disco-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/disco-1.png" width="150px" /></a>
+<a href="output/renders/it-was-dark-stormy-night-29412/mdif-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/it-was-dark-stormy-night-29412/disco-2.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/it-was-dark-stormy-night-29412/disco-3.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -2283,6 +2452,42 @@
 <a href="output/renders/it-was-dark-stormy-night-29412/dmin-8.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/it-was-dark-stormy-night-29412/dmin-9.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/it-was-dark-stormy-night-29412/disco-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/it-was-dark-stormy-night-29412/disco-2.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/it-was-dark-stormy-night-29412/disco-3.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-2.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-3.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-4.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-5.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-6.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-7.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-8.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/it-was-dark-stormy-night-29412/ldif-9.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -2334,27 +2539,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-1.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-2.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-3.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-4.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-5.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-6.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-7.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-8.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/it-was-dark-stormy-night-29412/ldif-9.png"><img alt="it-was-dark-stormy-night-29412" src="output/renders/it-was-dark-stormy-night-29412/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -2418,15 +2602,12 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-1.png" width="150px" /></a>
+<a href="output/renders/muppets-mad-max-fury-road-58009097/mdif-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/mdif-1.png" width="150px" /></a>
 2
-<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-2.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-3.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-4.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -2453,6 +2634,43 @@
 <a href="output/renders/muppets-mad-max-fury-road-58009097/dmin-8.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/muppets-mad-max-fury-road-58009097/dmin-9.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-2.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-3.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/muppets-mad-max-fury-road-58009097/disco-4.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-2.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-3.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-4.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-5.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-6.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-7.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-8.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-9.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -2501,27 +2719,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-1.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-2.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-3.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-4.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-5.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-6.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-7.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-8.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/muppets-mad-max-fury-road-58009097/ldif-9.png"><img alt="muppets-mad-max-fury-road-58009097" src="output/renders/muppets-mad-max-fury-road-58009097/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -2590,15 +2787,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-1.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-2.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-3.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-4.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -2625,6 +2818,43 @@
 <a href="output/renders/noahs-ark-jack-kirby-24946484/dmin-8.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/noahs-ark-jack-kirby-24946484/dmin-9.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-1.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-2.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-3.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/noahs-ark-jack-kirby-24946484/disco-4.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-1.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-2.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-3.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-4.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-5.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-6.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-7.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-8.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-9.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -2674,27 +2904,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-1.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-2.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-3.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-4.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-5.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-6.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-7.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-8.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/noahs-ark-jack-kirby-24946484/ldif-9.png"><img alt="noahs-ark-jack-kirby-24946484" src="output/renders/noahs-ark-jack-kirby-24946484/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -2758,15 +2967,11 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/noahs-ark-picasso-25002770/disco-1.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/noahs-ark-picasso-25002770/disco-2.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/noahs-ark-picasso-25002770/disco-3.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-3.png" width="150px" /></a>
 4
-<a href="output/renders/noahs-ark-picasso-25002770/disco-4.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-4.png" width="150px" /></a>
 5
 6
 7
@@ -2793,6 +2998,43 @@
 <a href="output/renders/noahs-ark-picasso-25002770/dmin-8.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/noahs-ark-picasso-25002770/dmin-9.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/noahs-ark-picasso-25002770/disco-1.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/noahs-ark-picasso-25002770/disco-2.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/noahs-ark-picasso-25002770/disco-3.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-3.png" width="150px" /></a>
+4
+<a href="output/renders/noahs-ark-picasso-25002770/disco-4.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/disco-4.png" width="150px" /></a>
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-1.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-2.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-3.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-4.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-5.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-6.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-7.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-8.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/noahs-ark-picasso-25002770/ldif-9.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -2841,27 +3083,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-1.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-2.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-3.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-4.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-5.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-6.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-7.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-8.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/noahs-ark-picasso-25002770/ldif-9.png"><img alt="noahs-ark-picasso-25002770" src="output/renders/noahs-ark-picasso-25002770/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -2925,13 +3146,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -2959,6 +3177,42 @@
 <a href="output/renders/rainbows-unicorns-nightmare-9515819/dmin-8.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/rainbows-unicorns-nightmare-9515819/dmin-9.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-4.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-5.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-6.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-7.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-8.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-9.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -3007,27 +3261,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-1.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-2.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-3.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-4.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-5.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-6.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-7.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-8.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/rainbows-unicorns-nightmare-9515819/ldif-9.png"><img alt="rainbows-unicorns-nightmare-9515819" src="output/renders/rainbows-unicorns-nightmare-9515819/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -3095,13 +3328,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3129,6 +3359,42 @@
 <a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dmin-8.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/court-jester-cyberpunk-playing-card-61722276/dmin-9.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-4.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-5.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-6.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-7.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-8.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-9.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -3177,27 +3443,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-1.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-2.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-3.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-4.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-5.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-6.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-7.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-8.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-9.png"><img alt="court-jester-cyberpunk-playing-card-61722276" src="output/renders/court-jester-cyberpunk-playing-card-61722276/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -3265,13 +3510,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3299,6 +3541,42 @@
 <a href="output/renders/mick-jagger-eating-hamburger-national-18182675/dmin-8.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/mick-jagger-eating-hamburger-national-18182675/dmin-9.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-4.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-5.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-6.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-7.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-8.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-9.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -3347,27 +3625,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-1.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-2.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-3.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-4.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-5.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-6.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-7.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-8.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-9.png"><img alt="mick-jagger-eating-hamburger-national-18182675" src="output/renders/mick-jagger-eating-hamburger-national-18182675/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -3431,13 +3688,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/girl-putting-make-up-mirror-4928040/disco-1.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/girl-putting-make-up-mirror-4928040/disco-2.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/girl-putting-make-up-mirror-4928040/disco-3.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3465,6 +3719,42 @@
 <a href="output/renders/girl-putting-make-up-mirror-4928040/dmin-8.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/girl-putting-make-up-mirror-4928040/dmin-9.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/girl-putting-make-up-mirror-4928040/disco-1.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/girl-putting-make-up-mirror-4928040/disco-2.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/girl-putting-make-up-mirror-4928040/disco-3.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-1.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-2.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-3.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-4.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-5.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-6.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-7.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-8.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-9.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -3513,27 +3803,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-1.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-2.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-3.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-4.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-5.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-6.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-7.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-8.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/girl-putting-make-up-mirror-4928040/ldif-9.png"><img alt="girl-putting-make-up-mirror-4928040" src="output/renders/girl-putting-make-up-mirror-4928040/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -3601,13 +3870,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3635,6 +3901,42 @@
 <a href="output/renders/rainy-tokyo-street-scene-night-31738623/dmin-8.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/rainy-tokyo-street-scene-night-31738623/dmin-9.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-1.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-2.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-3.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-4.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-5.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-6.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-7.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-8.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-9.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -3684,27 +3986,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-1.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-2.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-3.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-4.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-5.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-6.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-7.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-8.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-9.png"><img alt="rainy-tokyo-street-scene-night-31738623" src="output/renders/rainy-tokyo-street-scene-night-31738623/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -3772,9 +4053,8 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/pretty-girl-putting-makeup-43810362/disco-1.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/disco-1.png" width="150px" /></a>
 2
 3
 4
@@ -3804,6 +4084,40 @@
 <a href="output/renders/pretty-girl-putting-makeup-43810362/dmin-8.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/pretty-girl-putting-makeup-43810362/dmin-9.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/pretty-girl-putting-makeup-43810362/disco-1.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/disco-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-1.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-2.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-3.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-4.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-5.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-6.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-7.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-8.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-9.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -3852,27 +4166,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-1.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-2.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-3.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-4.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-5.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-6.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-7.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-8.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/pretty-girl-putting-makeup-43810362/ldif-9.png"><img alt="pretty-girl-putting-makeup-43810362" src="output/renders/pretty-girl-putting-makeup-43810362/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -3936,13 +4229,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-2.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -3970,6 +4260,42 @@
 <a href="output/renders/realistic-beautiful-woman-night-time-84253838/dmin-8.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/realistic-beautiful-woman-night-time-84253838/dmin-9.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-2.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-1.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-2.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-3.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-4.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-5.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-6.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-7.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-8.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-9.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -4018,27 +4344,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-1.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-2.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-3.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-4.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-5.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-6.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-7.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-8.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-9.png"><img alt="realistic-beautiful-woman-night-time-84253838" src="output/renders/realistic-beautiful-woman-night-time-84253838/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -4102,13 +4407,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/panda-riding-bicycle-14507045/disco-1.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/panda-riding-bicycle-14507045/disco-2.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/panda-riding-bicycle-14507045/disco-3.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -4136,6 +4438,42 @@
 <a href="output/renders/panda-riding-bicycle-14507045/dmin-8.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/panda-riding-bicycle-14507045/dmin-9.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/panda-riding-bicycle-14507045/disco-1.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/panda-riding-bicycle-14507045/disco-2.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/panda-riding-bicycle-14507045/disco-3.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-1.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-2.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-3.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-4.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-5.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-6.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-7.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-8.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/panda-riding-bicycle-14507045/ldif-9.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -4184,27 +4522,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-1.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-2.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-3.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-4.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-5.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-6.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-7.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-8.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/panda-riding-bicycle-14507045/ldif-9.png"><img alt="panda-riding-bicycle-14507045" src="output/renders/panda-riding-bicycle-14507045/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -4268,13 +4585,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/definition-beauty-74103307/disco-1.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/definition-beauty-74103307/disco-2.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/definition-beauty-74103307/disco-3.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -4302,6 +4616,42 @@
 <a href="output/renders/definition-beauty-74103307/dmin-8.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/definition-beauty-74103307/dmin-9.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/definition-beauty-74103307/disco-1.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/definition-beauty-74103307/disco-2.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/definition-beauty-74103307/disco-3.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/definition-beauty-74103307/ldif-1.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/definition-beauty-74103307/ldif-2.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/definition-beauty-74103307/ldif-3.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/definition-beauty-74103307/ldif-4.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/definition-beauty-74103307/ldif-5.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/definition-beauty-74103307/ldif-6.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/definition-beauty-74103307/ldif-7.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/definition-beauty-74103307/ldif-8.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/definition-beauty-74103307/ldif-9.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -4350,27 +4700,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/definition-beauty-74103307/ldif-1.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/definition-beauty-74103307/ldif-2.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/definition-beauty-74103307/ldif-3.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/definition-beauty-74103307/ldif-4.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/definition-beauty-74103307/ldif-5.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/definition-beauty-74103307/ldif-6.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/definition-beauty-74103307/ldif-7.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/definition-beauty-74103307/ldif-8.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/definition-beauty-74103307/ldif-9.png"><img alt="definition-beauty-74103307" src="output/renders/definition-beauty-74103307/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -4434,9 +4763,8 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/time-travelers-99427836/disco-1.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/disco-1.png" width="150px" /></a>
 2
 3
 4
@@ -4466,6 +4794,40 @@
 <a href="output/renders/time-travelers-99427836/dmin-8.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/time-travelers-99427836/dmin-9.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/time-travelers-99427836/disco-1.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/disco-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/time-travelers-99427836/ldif-1.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/time-travelers-99427836/ldif-2.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/time-travelers-99427836/ldif-3.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/time-travelers-99427836/ldif-4.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/time-travelers-99427836/ldif-5.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/time-travelers-99427836/ldif-6.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/time-travelers-99427836/ldif-7.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/time-travelers-99427836/ldif-8.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/time-travelers-99427836/ldif-9.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -4514,27 +4876,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/time-travelers-99427836/ldif-1.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/time-travelers-99427836/ldif-2.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/time-travelers-99427836/ldif-3.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/time-travelers-99427836/ldif-4.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/time-travelers-99427836/ldif-5.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/time-travelers-99427836/ldif-6.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/time-travelers-99427836/ldif-7.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/time-travelers-99427836/ldif-8.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/time-travelers-99427836/ldif-9.png"><img alt="time-travelers-99427836" src="output/renders/time-travelers-99427836/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -4602,9 +4943,8 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/two-ships-passing-night-77149352/disco-1.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/disco-1.png" width="150px" /></a>
 2
 3
 4
@@ -4634,6 +4974,40 @@
 <a href="output/renders/two-ships-passing-night-77149352/dmin-8.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/two-ships-passing-night-77149352/dmin-9.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/two-ships-passing-night-77149352/disco-1.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/disco-1.png" width="150px" /></a>
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/two-ships-passing-night-77149352/ldif-1.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/two-ships-passing-night-77149352/ldif-2.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/two-ships-passing-night-77149352/ldif-3.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/two-ships-passing-night-77149352/ldif-4.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/two-ships-passing-night-77149352/ldif-5.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/two-ships-passing-night-77149352/ldif-6.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/two-ships-passing-night-77149352/ldif-7.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/two-ships-passing-night-77149352/ldif-8.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/two-ships-passing-night-77149352/ldif-9.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -4682,27 +5056,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/two-ships-passing-night-77149352/ldif-1.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/two-ships-passing-night-77149352/ldif-2.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/two-ships-passing-night-77149352/ldif-3.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/two-ships-passing-night-77149352/ldif-4.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/two-ships-passing-night-77149352/ldif-5.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/two-ships-passing-night-77149352/ldif-6.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/two-ships-passing-night-77149352/ldif-7.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/two-ships-passing-night-77149352/ldif-8.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/two-ships-passing-night-77149352/ldif-9.png"><img alt="two-ships-passing-night-77149352" src="output/renders/two-ships-passing-night-77149352/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -4766,13 +5119,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -4800,6 +5150,42 @@
 <a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-8.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-9.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-4.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-5.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-6.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-7.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-8.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-9.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -4845,27 +5231,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-1.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-2.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-3.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-4.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-5.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-6.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-7.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-8.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-9.png"><img alt="psychedelic-broccoli-mushroom-cloud-rainbow-69752948" src="output/renders/psychedelic-broccoli-mushroom-cloud-rainbow-69752948/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -4924,13 +5289,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -4958,6 +5320,42 @@
 <a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-8.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-9.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-4.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-5.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-6.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-7.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-8.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-9.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -5006,27 +5404,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-1.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-2.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-3.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-4.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-5.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-6.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-7.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-8.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-9.png"><img alt="shanghai-jingan-temple-year-2064-90809681" src="output/renders/shanghai-jingan-temple-year-2064-90809681/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -5085,13 +5462,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -5119,6 +5493,42 @@
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-8.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-9.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-4.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-5.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-6.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-7.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-8.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-9.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -5164,27 +5574,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-1.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-2.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-3.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-4.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-5.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-6.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-7.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-8.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-9.png"><img alt="statue-liberty-made-gold-reflecting-62248159" src="output/renders/statue-liberty-made-gold-reflecting-62248159/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -5242,13 +5631,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-1.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-2.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-3.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -5276,6 +5662,42 @@
 <a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dmin-8.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/dmin-9.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-1.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-2.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-3.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-1.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-2.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-3.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-4.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-5.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-6.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-7.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-8.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-9.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -5312,27 +5734,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-1.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-2.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-3.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-4.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-5.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-6.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-7.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-8.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-9.png"><img alt="woman-coffeeshop-working-her-laptop-53010207" src="output/renders/woman-coffeeshop-working-her-laptop-53010207/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -5391,11 +5792,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
 2
 3
-<a href="output/renders/captain-america-iron-man-standing-38534890/disco-3.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -5423,6 +5823,42 @@
 <a href="output/renders/captain-america-iron-man-standing-38534890/dmin-8.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/captain-america-iron-man-standing-38534890/dmin-9.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/captain-america-iron-man-standing-38534890/disco-1.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/captain-america-iron-man-standing-38534890/disco-2.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/captain-america-iron-man-standing-38534890/disco-3.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-1.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-2.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-3.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-4.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-5.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-6.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-7.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-8.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-9.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -5459,27 +5895,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-1.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-2.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-3.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-4.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-5.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-6.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-7.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-8.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/captain-america-iron-man-standing-38534890/ldif-9.png"><img alt="captain-america-iron-man-standing-38534890" src="output/renders/captain-america-iron-man-standing-38534890/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -5534,12 +5949,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
 2
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-2.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-3.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -5567,6 +5980,42 @@
 <a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/dmin-8.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/dmin-9.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-1.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-2.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-3.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-1.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-2.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-3.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-4.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-5.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-6.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-7.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-8.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-9.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -5603,27 +6052,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-1.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-2.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-3.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-4.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-5.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-6.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-7.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-8.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-9.png"><img alt="advertisement-soundcancelling-headphones-style-surrealism-20867902" src="output/renders/advertisement-soundcancelling-headphones-style-surrealism-20867902/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
@@ -5678,13 +6106,10 @@
 
 
 
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`majdif_________` </span>
 1
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-1.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-1.png" width="150px" /></a>
 2
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-2.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-2.png" width="150px" /></a>
 3
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-3.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-3.png" width="150px" /></a>
 4
 5
 6
@@ -5712,6 +6137,42 @@
 <a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dmin-8.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dmin-8.png" width="150px" /></a>
 9
 <a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dmin-9.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/dmin-9.png" width="150px" /></a>
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`disco-diffusion` </span>
+1
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-1.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-1.png" width="150px" /></a>
+2
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-2.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-2.png" width="150px" /></a>
+3
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-3.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/disco-3.png" width="150px" /></a>
+4
+5
+6
+7
+8
+9
+
+
+<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
+1
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-1.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-1.png" width="150px" /></a>
+2
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-2.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-2.png" width="150px" /></a>
+3
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-3.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-3.png" width="150px" /></a>
+4
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-4.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-4.png" width="150px" /></a>
+5
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-5.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-5.png" width="150px" /></a>
+6
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-6.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-6.png" width="150px" /></a>
+7
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-7.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-7.png" width="150px" /></a>
+8
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-8.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-8.png" width="150px" /></a>
+9
+<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-9.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`midjourney_____` </span>
@@ -5748,27 +6209,6 @@
 7
 8
 9
-
-
-<span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`latdif_________` </span>
-1
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-1.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-1.png" width="150px" /></a>
-2
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-2.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-2.png" width="150px" /></a>
-3
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-3.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-3.png" width="150px" /></a>
-4
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-4.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-4.png" width="150px" /></a>
-5
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-5.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-5.png" width="150px" /></a>
-6
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-6.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-6.png" width="150px" /></a>
-7
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-7.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-7.png" width="150px" /></a>
-8
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-8.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-8.png" width="150px" /></a>
-9
-<a href="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-9.png"><img alt="mermaid-swimming-underwater-photorealistic-digital-77993612" src="output/renders/mermaid-swimming-underwater-photorealistic-digital-77993612/ldif-9.png" width="150px" /></a>
 
 
 <span style="width:150px; display:inline-block; border-botttom:1px solid #ccc;">`lmd____________` </span>
