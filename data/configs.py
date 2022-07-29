@@ -1,15 +1,28 @@
+
 configs = [
 
     {
-        'name': 'disco-diffusion',
-        'skip': False,   # dont render
+        'name': 'dalle-mini',
+        'active': True,   # dont render
         'model': {
-            'batch_size': 9,
+            'n_predictions': 3,
+        },
+        'params': {
+            'model_path': 'borisdayma/dalle-mini',
+            'image_prefix': 'dmin'
+        },
+    },
+
+    {
+        'name': 'disco-diffusion',
+        'active': True,   # dont render
+        'model': {
+            'batch_size': 3,
             'width': 256,
             'height': 256,
             'steps': 250,
-            # 'display_rate': 500,
-            # 'diffusion_model': '256x256_diffusion_uncond',
+            'display_rate': 250,
+            'diffusion_model': '256x256_diffusion_uncond',
         },
         'params': {
             'model_path': 'nightmareai/disco-diffusion',
@@ -19,7 +32,7 @@ configs = [
 
     {
         'name': 'latdif',
-        'skip': False,   # dont render
+        'active': True,   # dont render
         'model': {
             'batch_size': 9,
             'width': 256,
@@ -31,22 +44,28 @@ configs = [
         }
     },
 
-    # seems to bring down replicate frequently
     {
-        'name': 'dalle-mini',
-        'skip': True,   # dont render
+        'name': 'majdif',
+        'active': False,   # dont render
         'model': {
-            'n_predictions': 9,
+            'batch_size': 9,
+            'width': 256,
+            'height': 256,
+            'output_steps': 0
         },
         'params': {
-            'model_path': 'borisdayma/dalle-mini',
-            'image_prefix': 'dmin'
-        },
+            'model_path': 'nightmareai/majesty-diffusion',
+            'image_prefix': 'mdif',
+            'prompt_fields': [
+                'clip_prompts',
+                'latent_prompt',
+            ]
+        }
     },
 
     {
         'name': 'midjourney',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         'params': {
             'model_path': None,
             'image_prefix': 'midj'
@@ -55,7 +74,7 @@ configs = [
 
     {
         'name': 'stabAI-fast',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         'params': {
             'model_path': None,
             'image_prefix': 'stab'
@@ -64,7 +83,7 @@ configs = [
 
     {
         'name': 'simulacra',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         'model': {
             'n_predictions': 3,
             'drawer': 'vqgan',
@@ -80,7 +99,7 @@ configs = [
 
     {
         'name': 'lmd',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         'model': {
             'batch_size': 9,
             'width': 256,
@@ -93,7 +112,7 @@ configs = [
 
     {
         'name': 'pixray-vqgan',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         'model': {
             'n_predictions': 3,
             'drawer': 'vqgan',
@@ -109,7 +128,7 @@ configs = [
 
     {
         'name': 'glid3',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         # passed to model
         'model': {
             'seed': 1,  # fixed seed
@@ -129,7 +148,7 @@ configs = [
 
     {
         'name': 'openai-dalle-2',
-        'skip': True,   # dont render
+        'active': False,   # dont render
         'model': {
             'n_predictions': 3,
             'drawer': 'vqgan',

@@ -1,4 +1,4 @@
-import datetime
+import time
 import replicate
 from pprint import pp
 from utils.TextUtils import min_dir_name
@@ -11,8 +11,10 @@ from data.prompts import storylines
 
 def render_many(lines=[]):
 
+    start = time.time()
+
     for config in configs:
-        if config.get('skip'):
+        if not config.get('active'):
             print('skipping', config.get('name'))
             continue
 
@@ -25,3 +27,5 @@ def render_many(lines=[]):
             single(prompt, config)
             pp(config)
             print('\n')
+
+    print('done full duration', time.time() - start)

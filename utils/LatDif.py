@@ -55,6 +55,7 @@ def render_exists(prompt, config):
 
 def make_prediction(prompt, config):
     model_path = config['params']['model_path']
+    model_name = config['name']
     if not model_path:
         print('no model path')
         return
@@ -63,9 +64,17 @@ def make_prediction(prompt, config):
 
     model_options = config['model']
 
-    input = {
-        'prompt': prompt,
-    } | model_options
+    if model_name == 'majdif':
+        input = {
+            'clip_prompts': prompt,
+            'latent_prompt': prompt,
+        }
+    else:
+        input = {
+            'prompt': prompt,
+        }
+
+    input = input | model_options
     print('input', input)
 
     prediction = replicate.predictions.create(

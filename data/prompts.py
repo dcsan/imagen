@@ -37,7 +37,6 @@ various = [
     'Captain America and Iron Man standing side by side',
     'an advertisement for sound-cancelling headphones, in the style of surrealism',
     'a mermaid swimming underwater, photorealistic digital art',
-
 ]
 
 
